@@ -20,8 +20,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1403723452
-ModificationTime: 1403724725
+CreationTime: 1405015961
+ModificationTime: 1405018562
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1271,13 +1271,17 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 29 11
+WinInfo: 116 29 11
 BeginPrivate: 4
 BlueFuzz 1 1
 BlueScale 8 0.039625
 BlueShift 1 7
 ForceBold 5 false
 EndPrivate
+Grid
+72 1331 m 0
+ 72 -717 l 1024
+EndSplineSet
 AnchorClass2: "DVAnchor0"  "blwmBelowBaseMarklookup0 subtable" "DVAnchor3"  "abvmAboveBaseMarklookup3 subtable" 
 BeginChars: 65743 422
 
@@ -1951,21 +1955,14 @@ F1
 F1
 tp122
 s."
+HStem: 85 63<213.34 358.575> 316 53<443.966 554.182> 365 42<232.399 305.199> 637 40<223.511 339.149>
+VStem: 11.4609 48.5391<341.335 400.352> 127 70<524.887 613.062> 373 84<451.196 606.678> 384 85<174.531 308.961>
 AnchorPoint: "DVAnchor3" 793 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-242 407 m 256
- 235 407 232 399 232 391 c 256
- 232 378 239 365 247 365 c 256
- 266 365 289 368 306 371 c 257
- 361 329 384 289 384 243 c 256
- 384 180 351 148 293 148 c 256
- 178 148 67 265 67 407 c 256
- 67 414 60 417 49 417 c 256
- 36 417 22 411 22 398 c 256
- 22 237 159 85 300 85 c 256
- 394 85 469 134 469 234 c 256
+300 85 m 256xbd
+ 394 85 469 134 469 234 c 256xbd
  469 259 460 288 443 316 c 257
  448 316 l 258
  508 316 558 330 594 361 c 257
@@ -1991,10 +1988,20 @@ SplineSet
  200 509 204 511 204 516 c 256
  204 523 197 529 197 561 c 256
  197 604 227 637 286 637 c 256
- 333 637 373 605 373 529 c 256
+ 333 637 373 605 373 529 c 256xde
  373 447 328 410 242 407 c 256
+ 235 407 232 399 232 391 c 256
+ 232 378 239 365 247 365 c 256
+ 266 365 289 368 306 371 c 257
+ 361 329 384 289 384 243 c 256
+ 384 180 351 148 293 148 c 256
+ 190 148 113.754882812 241.059570312 60 396 c 256
+ 58.7490234375 399.604492188 53.236328125 401.650390625 43.744140625 401.650390625 c 0
+ 27.455078125 401.650390625 11.4609375 390.95703125 11.4609375 378.307617188 c 0
+ 11.4609375 376.518554688 11.771484375 374.661132812 12.435546875 372.747070312 c 256
+ 71.7626953125 201.74609375 171 85 300 85 c 256xbd
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: aasigndeva
@@ -2200,7 +2207,7 @@ Encoding: 2418 2418 4
 Width: 768
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -2236,9 +2243,9 @@ tp16
 s."
 LayerCount: 2
 Fore
-Refer: 99 2373 N 1 0 0 1 717 0 2
+Refer: 99 2373 N 1 0 0 1 771 0 2
 Refer: 7 2309 N 1 0 0 1 0 0 2
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: acombiningletterdeva
@@ -2963,9 +2970,11 @@ F1
 F1
 tp114
 s."
+HStem: 85 63<203.919 358.181> 316 53<443.966 552.771> 365 42<232.399 305.199> 637 40<223.511 339.149>
+VStem: 11.4609 48.5391<321.718 380.352> 127 70<524.887 613.062> 373 84<451.196 606.678> 384 85<175.31 308.961>
 AnchorPoint: "DVAnchor3" 634 664 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 242 407 m 256
  235 407 232 399 232 391 c 256
@@ -3001,7 +3010,44 @@ SplineSet
  333 637 373 605 373 529 c 256
  373 447 328 410 242 407 c 256
 EndSplineSet
-Validated: 9
+Fore
+SplineSet
+300 85 m 260xbd
+ 393 85 469 134 469 234 c 256xbd
+ 469 259 460 288 443 316 c 257
+ 507 316 555 330 591 361 c 257
+ 591 0 l 257
+ 678 0 l 257
+ 678 621 l 257
+ 781 621 l 257
+ 781 666 l 257
+ 482 666 l 257
+ 482 621 l 257
+ 591 621 l 257
+ 591 421 l 257
+ 553 383 513 369 466 369 c 256
+ 428 369 399 378 380 398 c 257
+ 432 427 457 474 457 530 c 256
+ 457 613 395 677 285 677 c 256
+ 183 677 127 636 127 582 c 256
+ 127 536 156 509 192 509 c 256
+ 200 509 204 511 204 516 c 256
+ 204 523 197 529 197 561 c 256
+ 197 604 227 637 286 637 c 256
+ 333 637 373 605 373 529 c 256xde
+ 373 447 328 410 242 407 c 256
+ 235 407 232 399 232 391 c 256
+ 232 378 239 365 247 365 c 256
+ 266 365 289 368 306 371 c 257
+ 361 329 384 289 384 243 c 256
+ 384 180 350 148 293 148 c 260
+ 190 148 113.754882812 221.059570312 60 376 c 260
+ 58.7490234375 379.604492188 53.236328125 381.650390625 43.744140625 381.650390625 c 4
+ 27.455078125 381.650390625 11.4609375 370.95703125 11.4609375 358.307617188 c 4
+ 11.4609375 356.518554688 11.771484375 354.661132812 12.435546875 352.747070312 c 260
+ 71.7626953125 181.74609375 171 85 300 85 c 260xbd
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: aideva
@@ -3009,7 +3055,7 @@ Encoding: 2320 2320 8
 Width: 486
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -3426,7 +3472,6 @@ LayerCount: 2
 Fore
 Refer: 114 2375 N 1 0 0 1 543 -45 2
 Refer: 100 2319 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: aisign_ra_virama.alt1
@@ -4054,7 +4099,7 @@ Encoding: 2376 2376 11
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -4167,22 +4212,38 @@ tp36
 s."
 AnchorPoint: "DVAnchor3" -143 665 mark 0
 LayerCount: 2
+Back
+SplineSet
+-110 666 m 261
+ -209 988 l 262
+ -212 996 -215 998 -223 998 c 260
+ -247 998 -302 975 -302 958 c 260
+ -302 955 -300 952 -299 949 c 262
+ -165 703 l 261
+ -407 903 l 262
+ -410 906 -413 908 -417 908 c 260
+ -430 908 -473 865 -473 837 c 260
+ -473 832 -469 828 -464 825 c 262
+ -176 666 l 261
+ -110 666 l 261
+EndSplineSet
 Fore
 SplineSet
--110 666 m 257
- -209 988 l 258
- -212 996 -215 998 -223 998 c 256
- -247 998 -302 975 -302 958 c 256
- -302 955 -300 952 -299 949 c 258
- -165 703 l 257
- -407 903 l 258
- -410 906 -413 908 -417 908 c 256
- -430 908 -473 865 -473 837 c 256
- -473 832 -469 828 -464 825 c 258
- -176 666 l 257
- -110 666 l 257
+-325 904 m 256
+ -271 904 -209 847 -171 721 c 257
+ -176 720 l 257
+ -208 773 -266 838 -340 838 c 256
+ -402 838 -426 802 -426 775 c 256
+ -426 763 -422 754 -409 754 c 256
+ -392 754 -386 767 -346 767 c 256
+ -266 767 -231 720 -189 666 c 257
+ -102 666 l 257
+ -138 836 -219 975 -322 975 c 256
+ -374 975 -405 939 -405 912 c 256
+ -405 900 -401 890 -388 890 c 256
+ -371 890 -365 904 -325 904 c 256
 EndSplineSet
-Validated: 9
+Colour: ff0000
 EndChar
 
 StartChar: aisigndeva_anusvaradeva
@@ -4763,7 +4824,7 @@ Encoding: 2308 2308 19
 Width: 768
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -5452,7 +5513,7 @@ LayerCount: 2
 Fore
 Refer: 111 2374 N 1 0 0 1 777 0 2
 Refer: 7 2309 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: asterisk
@@ -5601,7 +5662,7 @@ Encoding: 2324 2324 22
 Width: 1044
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -6284,7 +6345,7 @@ LayerCount: 2
 Fore
 Refer: 11 2376 N 1 0 0 1 1051 0 2
 Refer: 1 2310 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: ausign_ra_virama.alt1
@@ -6659,7 +6720,7 @@ Encoding: 2380 2380 25
 Width: 266
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -6853,8 +6914,7 @@ s."
 LayerCount: 2
 Fore
 Refer: 2 2366 N 1 0 0 1 0 0 2
-Refer: 11 2376 N 1 0 0 1 272 0 2
-Validated: 5
+Refer: 11 2376 S 1 0 0 1 276 0 2
 EndChar
 
 StartChar: ausigndeva_anusvaradeva
@@ -7560,7 +7620,7 @@ Encoding: 2421 2421 29
 Width: 1044
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -7613,7 +7673,7 @@ SplineSet
  950 897 753 794 753 908 c 256
 EndSplineSet
 Refer: 1 2310 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: awsigndeva
@@ -9523,10 +9583,10 @@ EndChar
 
 StartChar: bhadeva
 Encoding: 2349 2349 38
-Width: 657
+Width: 672
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -9958,30 +10018,32 @@ F1
 F1
 tp95
 s."
-AnchorPoint: "DVAnchor3" 526 664 basechar 0
+HStem: 234 111<152.157 204.529> 309 74<240 264> 309 13<205 225> 442 49<101.235 166.908> 624 53<99.853 189.247>
+VStem: 15 72<506.393 611.18> 205 85<531 609.872>
+AnchorPoint: "DVAnchor3" 541 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-481 621 m 257
- 481 0 l 257
- 568 0 l 257
- 568 621 l 257
- 671 621 l 257
- 671 666 l 257
- 318 666 l 257
- 318 621 l 257
- 481 621 l 257
-130 312 m 256
- 130 263 166 234 210 234 c 256
- 253 234 290 263 290 312 c 256
- 290 356 264 383 240 383 c 257
- 240 336 225 327 214 327 c 256
- 187 327 175 345 153 345 c 256
- 138 345 130 329 130 312 c 256
+496 621 m 257x1e
+ 496 0 l 257
+ 583 0 l 257
+ 583 621 l 257
+ 686 621 l 257
+ 686 666 l 257
+ 333 666 l 257
+ 333 621 l 257
+ 496 621 l 257x1e
+122 312 m 260
+ 122 261 160 230 206 230 c 260x9e
+ 251 230 290 261 290 312 c 260
+ 290 358 263 387 238 387 c 261x5e
+ 238 338 222 328 210 328 c 260
+ 182 328 169 347 146 347 c 260x9e
+ 130 347 122 330 122 312 c 260
 239 270 m 257
- 510 270 l 257
- 510 322 l 257
- 239 322 l 257
+ 525 270 l 257
+ 525 322 l 257
+ 239 322 l 257x3e
  239 270 l 257
 290 531 m 258
  290 585 268 677 153 677 c 256
@@ -9996,15 +10058,15 @@ SplineSet
  290 309 l 257
  290 531 l 258
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: bhadeva_viramadeva
 Encoding: 65546 -1 39
-Width: 466
+Width: 481
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -10407,26 +10469,27 @@ SplineSet
  290 309 l 257
  290 531 l 258
 239 270 m 257
- 566 270 l 257
- 566 322 l 257
+ 581 270 l 257
+ 581 322 l 257
  239 322 l 257
  239 270 l 257
-479 666 m 257
- 318 666 l 257
- 318 621 l 257
- 479 621 l 257
- 479 666 l 257
+494 666 m 257
+ 333 666 l 257
+ 333 621 l 257
+ 494 621 l 257
+ 494 666 l 257
 EndSplineSet
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" bhadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: bhadeva_viramadeva_radeva
 Encoding: 65547 -1 40
-Width: 657
+Width: 672
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -10885,10 +10948,11 @@ tp98
 s."
 LayerCount: 2
 Fore
-Refer: 405 -1 N 1 0 0 1 632 30 2
+Refer: 405 -1 N 1 0 0 1 647 30 2
 Refer: 38 2349 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" bhadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: braceleft
@@ -11123,7 +11187,7 @@ EndChar
 
 StartChar: cadeva
 Encoding: 2330 2330 45
-Width: 636
+Width: 646
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -11460,44 +11524,46 @@ F1
 F1
 tp77
 s."
-AnchorPoint: "DVAnchor3" 503 664 basechar 0
+HStem: 135 53<234.687 377.486> 430 53<12.1808 22 389 398.819> 430 37<176 299>
+VStem: 105 86<232.234 385.782> 470 86<273.029 304>
+AnchorPoint: "DVAnchor3" 513 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-460 304 m 257
- 417 234 364 188 297 188 c 256
- 234 188 181 223 181 311 c 256
- 181 394 231 430 289 430 c 257
- 289 467 l 257
- 166 467 95 399 95 301 c 256
- 95 193 182 135 271 135 c 256
- 350 135 404 169 459 235 c 257
- 459 0 l 257
- 546 0 l 257
- 546 621 l 257
- 649 621 l 257
- 649 666 l 257
- -13 666 l 257
- -13 621 l 257
- 460 621 l 257
- 460 304 l 257
-22 483 m 258
- 15 483 12 467 12 457 c 256
- 12 446 15 430 22 430 c 258
- 379 430 l 258
- 386 430 389 446 389 457 c 256
- 389 467 386 483 379 483 c 258
- 22 483 l 258
+470 304 m 257xb8
+ 427 234 374 188 307 188 c 256
+ 244 188 191 223 191 311 c 256
+ 191 394 241 430 299 430 c 257
+ 299 467 l 257
+ 176 467 105 399 105 301 c 256
+ 105 193 192 135 281 135 c 256
+ 360 135 414 169 469 235 c 257
+ 469 0 l 257
+ 556 0 l 257
+ 556 621 l 257
+ 659 621 l 257
+ 659 666 l 257
+ -13 666 l 261
+ -13 621 l 261
+ 470 621 l 257
+ 470 304 l 257xb8
+22 483 m 262xd8
+ 15 483 12 467 12 457 c 260
+ 12 446 15 430 22 430 c 262
+ 389 430 l 258
+ 396 430 399 446 399 457 c 256
+ 399 467 396 483 389 483 c 258
+ 22 483 l 262xd8
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: cadeva_viramadeva
 Encoding: 65548 -1 46
-Width: 478
+Width: 488
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -11788,30 +11854,31 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-22 483 m 258
- 15 483 12 467 12 457 c 256
- 12 446 15 430 22 430 c 258
- 379 430 l 258
- 386 430 389 446 389 457 c 256
- 389 467 386 483 379 483 c 258
- 22 483 l 258
-491 621 m 257
- 491 666 l 257
- -13 666 l 257
- -13 621 l 257
- 491 621 l 257
-275 135 m 256
- 502 135 611 342 611 358 c 256
- 611 367 599 380 582 380 c 256
- 562 380 486 188 292 188 c 256
- 229 188 181 223 181 311 c 256
- 181 394 231 430 289 430 c 257
- 289 467 l 257
- 166 467 95 399 95 301 c 256
- 95 193 182 135 275 135 c 256
+22 483 m 262
+ 15 483 12 467 12 457 c 260
+ 12 446 15 430 22 430 c 262
+ 389 430 l 258
+ 396 430 399 446 399 457 c 256
+ 399 467 396 483 389 483 c 258
+ 22 483 l 262
+501 621 m 257
+ 501 666 l 257
+ -13 666 l 261
+ -13 621 l 261
+ 501 621 l 257
+285 135 m 256
+ 512 135 621 342 621 358 c 256
+ 621 367 609 380 592 380 c 256
+ 572 380 496 188 302 188 c 256
+ 239 188 191 223 191 311 c 256
+ 191 394 241 430 299 430 c 257
+ 299 467 l 257
+ 176 467 105 399 105 301 c 256
+ 105 193 192 135 285 135 c 256
 EndSplineSet
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" cadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: cadeva_viramadeva_cadeva
@@ -11903,10 +11970,10 @@ EndChar
 
 StartChar: cadeva_viramadeva_radeva
 Encoding: 65550 -1 48
-Width: 636
+Width: 646
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -12240,16 +12307,16 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-496 250 m 257
- 413 226 l 257
- 89 54 l 258
- 83 51 81 45 81 38 c 256
- 81 13 103 -32 118 -32 c 256
- 121 -32 124 -32 129 -28 c 258
- 496 250 l 257
+506 250 m 257
+ 423 226 l 257
+ 99 54 l 258
+ 93 51 91 45 91 38 c 256
+ 91 13 113 -32 128 -32 c 256
+ 131 -32 134 -32 139 -28 c 258
+ 506 250 l 257
 EndSplineSet
 Refer: 45 2330 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" cadeva viramadeva_radeva
 EndChar
 
@@ -15123,10 +15190,12 @@ F1
 F1
 tp46
 s."
-AnchorPoint: "DVAnchor0" 458 7 basechar 0
+HStem: 103 58<187.493 335.148> 135 78<361 392> 445 46<250.915 372>
+VStem: 35 86<222.543 365.223> 327 156<125 267.648> 327 65<157.875 213>
+AnchorPoint: "DVAnchor0" 479 -46 basechar 0
 AnchorPoint: "DVAnchor3" 417 666 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 327 213 m 256
  327 170 361 135 405 135 c 256
@@ -15148,15 +15217,45 @@ SplineSet
  35 166 159 103 282 103 c 256
  352 103 483 125 483 213 c 257
  425 200 l 257
-327 213 m 257
- 327 103 396 30 447 -2 c 256
- 460 -10 465 -11 470 -11 c 256
- 480 -11 491 6 491 17 c 256
- 491 24 490 27 477 37 c 256
- 423 79 387 136 387 213 c 257
- 327 213 l 257
+327 213 m 261
+ 327 103 396 30 447 -2 c 260
+ 460 -10 465 -11 470 -11 c 260
+ 480 -11 491 6 491 17 c 260
+ 491 24 490 27 477 37 c 260
+ 423 79 387 136 387 213 c 261
+ 327 213 l 261
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+327 213 m 256x78
+ 327 170 361 135 405 135 c 256
+ 448 135 483 170 483 213 c 256
+ 483 257 448 292 405 292 c 256
+ 361 292 327 257 327 213 c 256x78
+425 200 m 257
+ 387 175 340 161 282 161 c 256
+ 186 161 121 214 121 292 c 256
+ 121 364 150 440 458 445 c 257
+ 458 621 l 257
+ 555 621 l 257
+ 555 666 l 257
+ -21 666 l 257
+ -21 621 l 257
+ 372 621 l 257
+ 372 491 l 257
+ 162 481 35 417 35 293 c 256
+ 35 166 159 103 282 103 c 256xb8
+ 352 103 483 125 483 213 c 257
+ 425 200 l 257
+327 213 m 261x78
+ 327 84 422 -23 468 -55 c 260
+ 480.530574074 -63.716921095 486 -64 491 -64 c 260
+ 503 -64 515 -47 515 -36 c 260
+ 515 -29 514.034569851 -24.1431202321 502 -13 c 260
+ 448 37 392 136 392 213 c 261x74
+ 327 213 l 261x78
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: dadeva_rvocalicsigndeva
@@ -15164,7 +15263,7 @@ Encoding: 65554 -1 64
 Width: 541
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -15690,23 +15789,24 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-470 -11 m 258
- 477 -11 478 0 478 10 c 256
- 478 28 476 38 463 38 c 258
- 381 38 l 258
- 305 38 205 -11 205 -116 c 256
- 205 -212 281 -265 372 -265 c 256
- 415 -265 459 -251 503 -228 c 256
- 509 -224 511 -220 511 -215 c 256
- 511 -202 499 -178 491 -178 c 256
- 485 -178 450 -213 381 -213 c 256
- 332 -213 283 -183 283 -109 c 256
- 283 -40 330 -11 388 -11 c 258
- 470 -11 l 258
+491 -64 m 262
+ 498 -64 499 -53 499 -43 c 260
+ 499 -25 497 -15 484 -15 c 262
+ 402 -15 l 262
+ 326 -15 226 -64 226 -169 c 260
+ 226 -265 302 -318 393 -318 c 260
+ 436 -318 480 -304 524 -281 c 260
+ 530 -277 532 -273 532 -268 c 260
+ 532 -255 520 -231 512 -231 c 260
+ 506 -231 471 -266 402 -266 c 260
+ 353 -266 304 -236 304 -162 c 260
+ 304 -93 351 -64 409 -64 c 262
+ 491 -64 l 262
 EndSplineSet
 Refer: 63 2342 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "BlwsSub_Ligature_Ukaar subtable" dadeva rvocalicsigndeva
+Colour: ffff
 EndChar
 
 StartChar: dadeva_viramadeva
@@ -15714,7 +15814,7 @@ Encoding: 65555 -1 65
 Width: 541
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -16148,7 +16248,7 @@ LayerCount: 2
 Fore
 Refer: 403 2381 N 1 0 0 1 385 -6 2
 Refer: 63 2342 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" dadeva viramadeva
 Ligature2: "halnHalantFormslookup29 subtable" dadeva viramadeva
 EndChar
@@ -16192,20 +16292,22 @@ I1
 I0
 tp16
 s."
+HStem: -134 53<179.68 344.603> 74 58<322.974 440.975> 74 29<444 490.375> 148 47<172.678 246>
+VStem: 41 87<-32.4876 104.861> 168 86<197.282 342.321> 444 157<94 226.616> 472 32<111.118 153.912>
 AnchorPoint: "DVAnchor0" 584 -126 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-444 134 m 256
+444 134 m 256x9e
  444 -6 563 -154 603 -154 c 256
  622 -154 627 -133 627 -128 c 256
  627 -122 626 -119 615 -109 c 256
  547 -45 504 53 504 179 c 257
- 481 162 472 146 472 134 c 256
+ 481 162 472 146 472 134 c 256x9d
  472 114 496 101 522 101 c 256
  566 101 601 135 601 179 c 256
  601 222 566 257 522 257 c 256
- 479 257 444 222 444 134 c 256
+ 479 257 444 222 444 134 c 256x9e
 543 165 m 257
  509 144 466 132 415 132 c 256
  318 132 254 186 254 268 c 256
@@ -16219,11 +16321,11 @@ SplineSet
  434 471 l 257
  300 461 168 396 168 268 c 256
  168 139 292 74 415 74 c 256
- 479 74 601 94 601 179 c 257
+ 479 74 601 94 601 179 c 257xde
  543 165 l 257
 246 -134 m 256
  351 -134 468 -66 497 103 c 257
- 444 103 l 257
+ 444 103 l 257xbe
  424 -12 355 -81 260 -81 c 256
  169 -81 128 -24 128 33 c 256
  128 90 168 148 239 148 c 256
@@ -16237,7 +16339,7 @@ SplineSet
  154 146 l 257
  120 107 l 257
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" dadeva_viramadeva badeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva viramadeva badeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" dadeva viramadeva badeva
@@ -16521,6 +16623,7 @@ SplineSet
  651 257 616 222 616 134 c 256
 EndSplineSet
 Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" dadeva_viramadeva dhadeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva viramadeva dhadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" dadeva viramadeva dhadeva
@@ -16608,6 +16711,7 @@ SplineSet
  360 257 325 222 325 134 c 256
 EndSplineSet
 Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" dadeva_viramadeva gadeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva viramadeva gadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" dadeva viramadeva gadeva
@@ -16701,6 +16805,7 @@ SplineSet
  569 257 534 222 534 134 c 256
 EndSplineSet
 Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" dadeva_viramadeva ghadeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva viramadeva ghadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" dadeva viramadeva ghadeva
@@ -16788,6 +16893,7 @@ SplineSet
  274 241 l 258
 EndSplineSet
 Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" dadeva_viramadeva madeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva viramadeva madeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" dadeva viramadeva madeva
@@ -16832,11 +16938,13 @@ I1
 I0
 tp16
 s."
-AnchorPoint: "DVAnchor0" 458 7 basechar 0
+HStem: 103 58<187.493 335.148> 135 78<361 392> 445 46<250.915 372>
+VStem: 35 86<222.543 365.223> 94 99<-81.9843 5.22895> 327 65<157.875 213> 327 156<125 267.648>
+AnchorPoint: "DVAnchor0" 479 -46 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-241 -90 m 256
+241 -90 m 256x28
  241 -67 193 -52 193 -24 c 256
  193 -5 202 4 227 19 c 258
  432 136 l 257
@@ -16844,10 +16952,10 @@ SplineSet
  157 39 l 258
  122 19 94 -12 94 -56 c 256
  94 -107 133 -131 177 -131 c 256
- 200 -131 241 -118 241 -90 c 256
+ 200 -131 241 -118 241 -90 c 256x28
 EndSplineSet
 Refer: 63 2342 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" dadeva_viramadeva nadeva
 Ligature2: "ConjunctFormslookup11 subtable" dadeva viramadeva nadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" dadeva viramadeva nadeva
@@ -16858,7 +16966,7 @@ Encoding: 65564 -1 74
 Width: 541
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -17305,7 +17413,7 @@ SplineSet
  437 139 l 257
 EndSplineSet
 Refer: 63 2342 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" dadeva viramadeva_radeva
 EndChar
 
@@ -18839,6 +18947,7 @@ SplineSet
  1053 0 l 257
 EndSplineSet
 Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" ddadeva_viramadeva yadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" ddadeva viramadeva yadeva
 EndChar
@@ -19049,34 +19158,36 @@ I1
 I0
 tp16
 s."
-AnchorPoint: "DVAnchor0" 315 20 basechar 0
+HStem: 20 46<325.463 411.734> 281 47<347.464 444.528>
+VStem: 53 86<144.286 325.565> 237 77<90.3286 246.216> 467 81<116.17 259.664>
+AnchorPoint: "DVAnchor0" 315 40 basechar 0
 AnchorPoint: "DVAnchor3" 356 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-315 0 m 256
- 458 0 548 69 548 168 c 256
- 548 241 499 308 394 308 c 256
- 289 308 237 237 237 162 c 256
- 237 119 249 82 273 47 c 257
- 202 59 139 114 139 213 c 256
- 139 310 194 411 400 419 c 257
+315 20 m 260
+ 458 20 548 89 548 188 c 260
+ 548 261 499 328 394 328 c 260
+ 289 328 237 257 237 182 c 260
+ 237 139 249 102 273 67 c 261
+ 202 79 139 134 139 233 c 260
+ 139 330 194 431 400 439 c 261
  400 621 l 257
  605 621 l 257
  605 666 l 257
  -13 666 l 257
  -13 621 l 257
  313 621 l 257
- 313 459 l 257
- 182 447 53 369 53 214 c 256
- 53 71 184 0 315 0 c 256
-333 46 m 257
- 320 79 314 109 314 147 c 256
- 314 217 351 261 400 261 c 256
- 439 261 467 226 467 169 c 256
- 467 96 415 48 333 46 c 257
+ 313 479 l 261
+ 182 467 53 389 53 234 c 260
+ 53 91 184 20 315 20 c 260
+333 66 m 261
+ 320 99 314 129 314 167 c 260
+ 314 237 351 281 400 281 c 260
+ 439 281 467 246 467 189 c 260
+ 467 116 415 68 333 66 c 261
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: ddhadeva_viramadeva
@@ -19084,7 +19195,7 @@ Encoding: 65571 -1 87
 Width: 592
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -19122,7 +19233,6 @@ LayerCount: 2
 Fore
 Refer: 403 2381 N 1 0 0 1 453 -30 2
 Refer: 86 2338 N 1 0 0 1 0 0 2
-Validated: 5
 Ligature2: "HalfFormslookup10 subtable" ddhadeva viramadeva
 EndChar
 
@@ -19218,7 +19328,7 @@ Encoding: 65573 -1 89
 Width: 1174
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -19263,44 +19373,45 @@ SplineSet
  1022 163 963 99 860 99 c 256
  789 99 730 139 720 233 c 257
  791 255 834 306 834 366 c 256
- 834 450 778 498 662 498 c 258
- 395 498 l 257
- 395 447 l 257
- 634 447 l 258
- 721 447 751 419 751 360 c 256
+ 834 450 778 518 662 518 c 258
+ 395 518 l 257
+ 395 467 l 257
+ 634 467 l 258
+ 721 467 751 419 751 360 c 256
  751 311 706 272 636 255 c 257
 990 0 m 257
  1076 0 l 257
  1076 636 l 257
  990 636 l 257
  990 0 l 257
-315 0 m 256
- 457 0 547 69 547 168 c 256
- 547 241 499 308 394 308 c 256
- 289 308 237 237 237 162 c 256
- 237 119 248 82 272 47 c 257
- 193 61 123 125 123 241 c 256
- 123 338 163 447 313 447 c 258
- 399 447 l 257
+315 20 m 256
+ 457 20 547 89 547 188 c 256
+ 547 261 499 328 394 328 c 256
+ 289 328 237 257 237 182 c 256
+ 237 139 248 102 272 67 c 257
+ 193 81 123 145 123 261 c 256
+ 123 358 163 467 313 467 c 258
+ 399 467 l 257
  399 621 l 257
  1187 621 l 257
  1187 666 l 257
  -13 666 l 257
  -13 621 l 257
  313 621 l 257
- 313 498 l 257
- 295 498 l 258
- 145 498 37 390 37 241 c 256
- 37 80 176 0 315 0 c 256
-333 46 m 257
- 320 79 314 109 314 147 c 256
- 314 217 350 261 399 261 c 256
- 439 261 466 226 466 169 c 256
- 466 96 415 48 333 46 c 257
+ 313 518 l 257
+ 295 518 l 258
+ 145 518 37 410 37 261 c 256
+ 37 100 176 20 315 20 c 256
+333 66 m 257
+ 320 99 314 129 314 167 c 256
+ 314 237 350 281 399 281 c 256
+ 439 281 466 246 466 189 c 256
+ 466 116 415 68 333 66 c 257
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" ddhadeva_viramadeva yadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" ddhadeva viramadeva yadeva
+Colour: ffff
 EndChar
 
 StartChar: dhadeva
@@ -21701,7 +21812,7 @@ Encoding: 2317 2317 97
 Width: 486
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -22200,7 +22311,6 @@ LayerCount: 2
 Fore
 Refer: 99 2373 N 1 0 0 1 375 0 2
 Refer: 100 2319 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar
 
 StartChar: ecandralongsigndeva
@@ -24874,7 +24984,7 @@ Encoding: 2375 2375 114
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -24957,7 +25067,7 @@ tp30
 s."
 AnchorPoint: "DVAnchor3" -143 665 mark 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 -176 666 m 257
  -110 666 l 257
@@ -24967,7 +25077,20 @@ SplineSet
  -429 938 -427 933 -423 929 c 258
  -176 666 l 257
 EndSplineSet
-Validated: 9
+Fore
+SplineSet
+-306 935 m 260
+ -244 935 -200 800 -183 666 c 257
+ -183 666 l 257
+ -106 666 l 257
+ -146 914 -220 975 -326 975 c 260
+ -397 975 -440 938 -440 886 c 260
+ -440 837 -404 803 -354 803 c 260
+ -342 803 -338 805 -338 813 c 260
+ -338 821 -357 834 -357 881 c 260
+ -357 914 -338 935 -306 935 c 260
+EndSplineSet
+Colour: ff0000
 EndChar
 
 StartChar: esigndeva_anusvaradeva
@@ -25180,7 +25303,7 @@ EndChar
 
 StartChar: fadeva
 Encoding: 2398 2398 117
-Width: 774
+Width: 790
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -25282,13 +25405,14 @@ F0
 F1
 tp36
 s."
+HStem: 197 52<182.405 310.919> 443 54<519.421 635.276>
+VStem: 57 86<291.945 384> 663 83<231.499 415.05>
 AnchorPoint: "DVAnchor0" 393 21 basechar 0
 AnchorPoint: "DVAnchor3" 393 664 basechar 0
 LayerCount: 2
 Fore
 Refer: 302 2347 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 696 86 2
-Validated: 5
+Refer: 268 2364 N 1 0 0 1 711 86 2
 Ligature2: "NuktaFormslookup5 subtable" phadeva nuktadeva
 EndChar
 
@@ -25297,7 +25421,7 @@ Encoding: 65580 -1 118
 Width: 561
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -25738,8 +25862,9 @@ LayerCount: 2
 Fore
 Refer: 268 2364 N 1 0 0 1 721 94 2
 Refer: 304 -1 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" fadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: five
@@ -26238,10 +26363,10 @@ EndChar
 
 StartChar: gadeva
 Encoding: 2327 2327 126
-Width: 519
+Width: 579
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -26498,32 +26623,57 @@ F1
 F1
 tp62
 s."
-AnchorPoint: "DVAnchor3" 386 664 basechar 0
+HStem: 221 101<67.8117 146.5> 299 70<119 160>
+VStem: 45 160<243.283 317>
+AnchorPoint: "DVAnchor3" 446 664 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-45 299 m 256
- 45 251 81 221 125 221 c 256
+45 299 m 256x60
+ 45 251 81 221 125 221 c 256xa0
  168 221 205 251 205 299 c 256
- 205 343 160 369 119 369 c 257
- 119 329 107 322 98 322 c 256
+ 205 343 160 369 119 369 c 257x60
+ 119 329 107 322 98 322 c 256xa0
  85 322 78 332 68 332 c 256
- 53 332 45 317 45 299 c 256
-205 299 m 257
+ 53 332 45 317 45 299 c 256x60
+205 299 m 257x60
  205 621 l 257
- 343 621 l 257
- 343 0 l 257
- 429 0 l 257
- 429 621 l 257
- 532 621 l 257
- 532 666 l 257
+ 403 621 l 257
+ 403 0 l 257
+ 489 0 l 257
+ 489 621 l 257
+ 592 621 l 257
+ 592 666 l 257
  -13 666 l 257
  -13 621 l 257
  119 621 l 257
  119 299 l 257
- 205 299 l 257
+ 205 299 l 257x60
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+29 299 m 260x60
+ 29 246 69 214 117 214 c 260xa0
+ 164 214 205 246 205 299 c 260
+ 205 347 164 369 119 369 c 261x60
+ 119 342 110 330 96 330 c 260xa0
+ 82 330 74 341 56 341 c 260
+ 38 341 29 321 29 299 c 260x60
+205 299 m 257x60
+ 205 621 l 257
+ 403 621 l 257
+ 403 0 l 257
+ 489 0 l 257
+ 489 621 l 257
+ 592 621 l 257
+ 592 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 119 621 l 257
+ 119 299 l 257
+ 205 299 l 257x60
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: gadeva_viramadeva
@@ -26531,7 +26681,7 @@ Encoding: 65582 -1 127
 Width: 253
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -26749,15 +26899,22 @@ F1
 tp54
 s."
 LayerCount: 2
-Fore
+Back
 SplineSet
-43 269 m 256
- 43 221 78 191 122 191 c 256
- 166 191 202 221 202 269 c 256
- 202 313 157 340 116 340 c 257
- 116 299 104 292 95 292 c 256
- 82 292 76 302 65 302 c 256
- 50 302 43 287 43 269 c 256
+37 369 m 256
+ 37 319 75 287 121 287 c 256
+ 166 287 205 319 205 369 c 256
+ 205 415 162 443 119 443 c 257
+ 119 401 104 393 95 393 c 256
+ 81 393 74 404 61 404 c 256
+ 45 404 37 388 37 369 c 256
+43 269 m 260
+ 43 221 78 191 122 191 c 260
+ 166 191 202 221 202 269 c 260
+ 202 313 157 340 116 340 c 261
+ 116 299 104 292 95 292 c 260
+ 82 292 76 302 65 302 c 260
+ 50 302 43 287 43 269 c 260
 202 621 m 257
  266 621 l 257
  266 666 l 257
@@ -26768,16 +26925,36 @@ SplineSet
  202 269 l 257
  202 621 l 257
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+34 269 m 260
+ 34 219 72 187 118 187 c 260
+ 163 187 202 219 202 269 c 260
+ 202 315 159 343 116 343 c 261
+ 116 301 101 293 92 293 c 260
+ 78 293 71 304 58 304 c 260
+ 42 304 34 288 34 269 c 260
+202 621 m 257
+ 266 621 l 257
+ 266 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 116 621 l 257
+ 116 269 l 257
+ 202 269 l 257
+ 202 621 l 257
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" gadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: gadeva_viramadeva_nadeva
 Encoding: 65583 -1 128
-Width: 519
+Width: 579
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -27225,47 +27402,48 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-192 61 m 256
- 192 84 144 99 144 127 c 256
- 144 146 153 155 178 170 c 258
- 383 287 l 257
- 358 333 l 257
- 108 190 l 258
- 73 170 45 139 45 95 c 256
- 45 44 84 20 128 20 c 256
- 151 20 192 33 192 61 c 256
-45 369 m 256
- 45 321 81 291 125 291 c 256
- 168 291 205 321 205 369 c 256
- 205 413 160 439 119 439 c 257
- 119 399 107 392 98 392 c 256
- 85 392 78 402 68 402 c 256
- 53 402 45 387 45 369 c 256
+252 61 m 256
+ 252 84 204 99 204 127 c 256
+ 204 146 213 155 238 170 c 258
+ 443 287 l 257
+ 418 333 l 257
+ 168 190 l 258
+ 133 170 105 139 105 95 c 256
+ 105 44 144 20 188 20 c 256
+ 211 20 252 33 252 61 c 256
+37 369 m 260
+ 37 319 75 287 121 287 c 260
+ 166 287 205 319 205 369 c 260
+ 205 415 162 443 119 443 c 261
+ 119 401 104 393 95 393 c 260
+ 81 393 74 404 61 404 c 260
+ 45 404 37 388 37 369 c 260
 205 369 m 257
  205 621 l 257
- 343 621 l 257
- 343 0 l 257
- 429 0 l 257
- 429 621 l 257
- 532 621 l 257
- 532 666 l 257
+ 403 621 l 257
+ 403 0 l 257
+ 489 0 l 257
+ 489 621 l 257
+ 592 621 l 257
+ 592 666 l 257
  -13 666 l 257
  -13 621 l 257
  119 621 l 257
  119 369 l 257
  205 369 l 257
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" gadeva_viramadeva nadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" gadeva viramadeva nadeva
+Colour: ffff
 EndChar
 
 StartChar: gadeva_viramadeva_radeva
 Encoding: 65584 -1 129
-Width: 519
+Width: 579
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -27565,9 +27743,10 @@ s."
 LayerCount: 2
 Fore
 Refer: 126 2327 N 1 0 0 1 0 0 2
-Refer: 405 -1 N 1 0 0 1 510 51 2
-Validated: 5
+Refer: 405 -1 S 1 0 0 1 570 51 2
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" gadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: gapfillerdeva
@@ -28185,10 +28364,10 @@ EndChar
 
 StartChar: ggadeva
 Encoding: 2427 2427 131
-Width: 517
+Width: 578
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -28484,42 +28663,44 @@ F1
 F1
 tp71
 s."
-AnchorPoint: "DVAnchor3" 390 663 basechar 0
+HStem: -45 45<-13 489> 221 101<67.8117 146.5> 299 70<119 160>
+VStem: 45 160<243.283 317>
+AnchorPoint: "DVAnchor3" 450 663 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-45 299 m 256
- 45 251 81 221 125 221 c 256
- 168 221 205 251 205 299 c 256
- 205 343 160 369 119 369 c 257
- 119 329 107 322 98 322 c 256
- 85 322 78 332 68 332 c 256
- 53 332 45 317 45 299 c 256
-205 299 m 257
+37 299 m 260
+ 37 249 75 217 121 217 c 260
+ 166 217 205 249 205 299 c 260
+ 205 345 162 373 119 373 c 261
+ 119 331 104 323 95 323 c 260
+ 81 323 74 334 61 334 c 260
+ 45 334 37 318 37 299 c 260
+205 299 m 257xb0
  205 621 l 257
- 343 621 l 257
- 343 0 l 257
- 429 0 l 257
- 429 621 l 257
- 531 621 l 257
- 531 666 l 257
+ 403 621 l 257
+ 403 0 l 257
+ 489 0 l 257
+ 489 621 l 257
+ 591 621 l 257
+ 591 666 l 257
  -13 666 l 257
  -13 621 l 257
  119 621 l 257
  119 299 l 257
- 205 299 l 257
-429 0 m 257
- 429 -45 l 257
+ 205 299 l 257xb0
+489 0 m 257
+ 489 -45 l 257
  -13 -45 l 257
  -13 0 l 257
- 429 0 l 257
+ 489 0 l 257
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: ghadeva
 Encoding: 2328 2328 132
-Width: 637
+Width: 627
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -28945,21 +29126,23 @@ F1
 F1
 tp93
 s."
-AnchorPoint: "DVAnchor3" 506 664 basechar 0
+HStem: 115 58<195.369 362.105> 387 45<213.938 337.994> 625 23<109 197>
+VStem: 46 79<456.837 589.746> 73 86<208.884 339.559>
+AnchorPoint: "DVAnchor3" 496 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-461 0 m 257
- 547 0 l 257
- 547 621 l 257
- 461 621 l 257
- 461 0 l 257
+451 0 m 257xe0
+ 537 0 l 257
+ 537 621 l 257
+ 451 621 l 257
+ 451 0 l 257xe0
 -13 621 m 257
- 650 621 l 257
- 650 666 l 257
+ 640 621 l 257
+ 640 666 l 257
  -13 666 l 257
  -13 621 l 257
-159 272 m 256
+159 272 m 256xe8
  159 329 199 387 290 387 c 256
  301 387 316 385 323 385 c 256
  333 385 338 397 338 410 c 256
@@ -28969,17 +29152,17 @@ SplineSet
  169 430 125 453 125 527 c 256
  125 583 158 625 199 625 c 257
  197 648 l 257
- 109 648 46 593 46 527 c 256
+ 109 648 46 593 46 527 c 256xf0
  46 460 81 412 147 386 c 257
  95 356 73 316 73 264 c 256
  73 179 147 115 257 115 c 256
- 405 115 510 247 510 287 c 256
- 510 290 497 292 485 292 c 256
- 475 292 469 285 462 278 c 257
+ 415 115 500 247 500 287 c 256
+ 500 290 487 292 475 292 c 256
+ 465 292 459 285 452 278 c 257
  418 222 364 173 268 173 c 256
- 192 173 159 223 159 272 c 256
+ 192 173 159 223 159 272 c 256xe8
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: ghadeva_viramadeva
@@ -29863,10 +30046,10 @@ EndChar
 
 StartChar: ghhadeva
 Encoding: 2394 2394 135
-Width: 519
+Width: 579
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -29965,13 +30148,16 @@ F0.40000000600000002
 F1
 tp36
 s."
-AnchorPoint: "DVAnchor3" 392 666 basechar 0
+HStem: 221 101<67.8117 146.5> 299 70<119 160>
+VStem: 45 160<243.283 317>
+AnchorPoint: "DVAnchor3" 446 664 basechar 0
 LayerCount: 2
 Fore
 Refer: 126 2327 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 657 86 2
-Validated: 5
+Refer: 268 2364 N 1 0 0 1 677 86 2
+LCarets2: 1 0 
 Ligature2: "NuktaFormslookup5 subtable" gadeva nuktadeva
+Colour: ffff
 EndChar
 
 StartChar: ghhadeva_viramadeva
@@ -30881,10 +31067,12 @@ I1
 I0
 tp16
 s."
-AnchorPoint: "DVAnchor0" 241 -90 basechar 0
+HStem: 1 40<335.377 370.969> 263 52<198.8 373.146> 447 51<165.446 261>
+VStem: 51 81<50.1373 209.123> 61 83<315.887 425.187> 419 83<86.785 221.911>
+AnchorPoint: "DVAnchor0" 214 -47 basechar 0
 AnchorPoint: "DVAnchor3" 417 665 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 199 293 m 257
  165 307 144 336 144 371 c 256
@@ -30916,7 +31104,38 @@ SplineSet
  333 16 346 1 352 1 c 256
  387 1 502 47 502 159 c 256
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+242 -97 m 0xf4
+ 254 -97 265 -77 265 -68 c 256
+ 265 -62 260.453550421 -58.3975187455 250 -51 c 256
+ 161.197265625 11.841796875 132 56 132 138 c 256
+ 132 229 211 263 273 263 c 256
+ 373 263 419 223 419 162 c 256
+ 419 91 378 57 337 41 c 256
+ 334 40 333 38 333 34 c 256
+ 333 16 346 1 352 1 c 256
+ 387 1 502 47 502 159 c 256
+ 502 257 414 315 294 315 c 256
+ 132 315 51 239 51 138 c 0
+ 51 4 202 -97 242 -97 c 0xf4
+199 293 m 257
+ 165 307 144 336 144 371 c 256
+ 144 423 174 447 261 447 c 258
+ 460 447 l 257
+ 460 621 l 257
+ 571 621 l 257
+ 571 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 374 621 l 257
+ 374 498 l 257
+ 233 498 l 258
+ 117 498 61 454 61 377 c 256xec
+ 61 332 87 292 134 265 c 257
+ 199 293 l 257
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: hadeva_rvocalicdeva
@@ -32425,16 +32644,18 @@ F1
 F1
 tp103
 s."
+HStem: -102 48<386.041 482.745> 16 102<105.932 193.246> 278 51<193.521 342.753> 467 52<154.847 251>
+VStem: 50 83<335.871 445.544> 373 85<115.516 247.025>
 AnchorPoint: "DVAnchor3" 365 664 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-192 5 m 257
- 293 -77 379 -99 422 -99 c 256
- 441 -99 447 -75 447 -67 c 256
- 447 -60 446 -55 425 -51 c 256
- 353 -39 288 -17 225 43 c 257
- 192 5 l 257
+192 5 m 261
+ 293 -77 379 -99 422 -99 c 260
+ 441 -99 447 -75 447 -67 c 260
+ 447 -60 446 -55 425 -51 c 260
+ 353 -39 288 -17 225 43 c 261
+ 192 5 l 261
 458 159 m 256
  458 253 380 309 297 309 c 256
  253 309 230 303 194 291 c 257
@@ -32459,7 +32680,39 @@ SplineSet
  76 33 112 -4 207 -4 c 256
  310 -4 458 40 458 159 c 256
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+187 22 m 261
+ 288 -67 415 -102 465 -102 c 260
+ 479 -102 483 -88 483 -74 c 260
+ 483 -62 481.04296875 -57.7685546875 461 -54 c 260
+ 394.106445312 -41.4208984375 283 3 225 63 c 261
+ 187 22 l 261
+458 179 m 256
+ 458 273 380 329 297 329 c 256
+ 253 329 230 323 194 311 c 257
+ 156 324 133 353 133 392 c 256
+ 133 443 163 467 251 467 c 258
+ 408 467 l 257
+ 408 621 l 257
+ 517 621 l 257
+ 517 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 322 621 l 257
+ 322 519 l 257
+ 222 519 l 258
+ 107 519 50 475 50 397 c 256
+ 50 334 103 280 190 259 c 257
+ 219 271 253 278 278 278 c 256
+ 337 278 373 240 373 182 c 256
+ 373 111 312 63 233 63 c 257
+ 189 105 157 118 128 118 c 256
+ 92 118 76 101 76 80 c 256
+ 76 53 112 16 207 16 c 256
+ 310 16 458 60 458 179 c 256
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: iideva
@@ -32467,7 +32720,7 @@ Encoding: 2312 2312 156
 Width: 503
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -33180,12 +33433,14 @@ F0.40000000600000002
 F1
 tp138
 s."
+HStem: -102 48<386.041 482.745> 16 102<105.932 193.246> 278 51<193.521 342.753> 467 52<154.847 251>
+VStem: 50 83<335.871 445.544> 373 85<115.516 247.025>
 AnchorPoint: "DVAnchor3" 430 562 basechar 0
 LayerCount: 2
 Fore
 Refer: 322 -1 N 1 0 0 1 445 0 2
 Refer: 155 2311 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: iisign_ra_virama_anusvara
@@ -39951,7 +40206,7 @@ Encoding: 65633 -1 195
 Width: 786
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -39996,9 +40251,10 @@ SplineSet
  497 -32 502 -28 506 -23 c 258
  617 108 l 257
 EndSplineSet
-Refer: 200 -1 N 1 0 0 1 0 0 2
-Validated: 5
+Refer: 200 -1 S 1 0 0 1 0 0 2
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" jadeva_viramadeva_nyadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: ja_virama_nya_viramadeva
@@ -40006,7 +40262,7 @@ Encoding: 65634 -1 196
 Width: 519
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -40041,44 +40297,76 @@ I0
 tp16
 s."
 LayerCount: 2
-Fore
+Back
 SplineSet
 532 621 m 257
  532 666 l 257
  -13 666 l 257
  -13 621 l 257
  532 621 l 257
-618 498 m 257
- 225 498 l 258
- 109 498 53 454 53 377 c 256
- 53 314 106 260 193 238 c 257
- 222 250 256 257 281 257 c 256
- 339 257 376 219 376 162 c 256
- 376 90 315 43 236 43 c 257
- 192 84 160 98 131 98 c 256
- 95 98 79 80 79 60 c 256
- 79 32 114 -4 210 -4 c 256
- 313 -4 460 39 460 159 c 256
- 460 253 384 308 300 308 c 256
- 255 308 234 303 197 291 c 257
- 160 304 136 333 136 371 c 256
- 136 423 166 447 254 447 c 258
- 618 447 l 257
- 618 498 l 257
-195 5 m 257
- 295 -77 382 -99 424 -99 c 256
- 444 -99 450 -76 450 -67 c 256
- 450 -61 450 -55 428 -51 c 256
- 355 -39 291 -17 228 43 c 257
- 195 5 l 257
+618 518 m 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 618 467 l 257
+ 618 518 l 257
+195 25 m 257
+ 295 -57 382 -79 424 -79 c 256
+ 444 -79 450 -56 450 -47 c 256
+ 450 -41 450 -35 428 -31 c 256
+ 355 -19 291 3 228 63 c 257
+ 195 25 l 257
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+187 22 m 257
+ 288 -67 415 -102 465 -102 c 256
+ 479 -102 483 -88 483 -74 c 256
+ 483 -62 481.04296875 -57.7685546875 461 -54 c 256
+ 394.106445312 -41.4208984375 283 3 225 63 c 257
+ 187 22 l 257
+532 621 m 257
+ 532 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 532 621 l 257
+618 518 m 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 618 467 l 257
+ 618 518 l 257
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" jadeva_viramadeva_nyadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: jadeva
 Encoding: 2332 2332 197
-Width: 728
+Width: 750
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -40395,44 +40683,73 @@ F1
 F1
 tp73
 s."
-AnchorPoint: "DVAnchor3" 596 664 basechar 0
+HStem: 85 63<216.34 355.984> 408 52<346.615 406>
+VStem: 14.4609 48.5391<341.335 400.352> 382 84<174.968 313.827>
+AnchorPoint: "DVAnchor3" 617 664 basechar 0
 LayerCount: 2
+Back
+SplineSet
+366 410 m 257
+ 379 408 399 408 426 408 c 258
+ 610 408 l 257
+ 610 460 l 257
+ 301 460 l 258
+ 295 460 291 448 291 436 c 256
+ 291 426 293 421 297 418 c 256
+ 357 386 402 311 402 243 c 256
+ 402 192 377 148 316 148 c 256
+ 213 148 115 282 115 446 c 256
+ 115 452 109 456 97 456 c 256
+ 83 456 70 450 70 437 c 256
+ 70 256 194 85 323 85 c 256
+ 414 85 486 135 486 240 c 256
+ 486 293 445 366 366 410 c 257
+574 0 m 257
+ 660 0 l 257
+ 660 621 l 257
+ 763 621 l 257
+ 763 666 l 257
+ 7 666 l 257
+ 7 621 l 257
+ 574 621 l 257
+ 574 0 l 257
+EndSplineSet
 Fore
 SplineSet
-345 410 m 257
- 358 408 378 408 405 408 c 258
- 589 408 l 257
- 589 460 l 257
- 280 460 l 258
- 274 460 270 448 270 436 c 256
- 270 426 272 421 276 418 c 256
- 336 386 381 311 381 243 c 256
- 381 192 356 148 295 148 c 256
- 192 148 94 282 94 446 c 256
- 94 452 88 456 76 456 c 256
- 62 456 49 450 49 437 c 256
- 49 256 173 85 302 85 c 256
- 393 85 465 135 465 240 c 256
- 465 293 424 366 345 410 c 257
-553 0 m 257
- 639 0 l 257
- 639 621 l 257
- 742 621 l 257
- 742 666 l 257
- -14 666 l 257
- -14 621 l 257
- 553 621 l 257
- 553 0 l 257
+14.4609375 378.307617188 m 4
+ 14.4609375 376.518554688 14.771484375 374.661132812 15.435546875 372.747070312 c 260
+ 74.7626953125 201.74609375 174 85 303 85 c 260
+ 394 85 466 135 466 240 c 256
+ 466 293 425 366 346 410 c 257
+ 359 408 379 408 406 408 c 258
+ 610 408 l 257
+ 610 460 l 257
+ 281 460 l 258
+ 275 460 271 448 271 436 c 256
+ 271 426 273 421 277 418 c 256
+ 337 386 382 311 382 243 c 256
+ 382 192 357 148 296 148 c 260
+ 193 148 116.754882812 241.059570312 63 396 c 260
+ 61.7490234375 399.604492188 56.236328125 401.650390625 46.744140625 401.650390625 c 4
+ 30.455078125 401.650390625 14.4609375 390.95703125 14.4609375 378.307617188 c 4
+574 0 m 257
+ 660 0 l 257
+ 660 621 l 257
+ 763 621 l 257
+ 763 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 574 621 l 257
+ 574 0 l 257
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: jadeva_viramadeva
 Encoding: 65635 -1 198
-Width: 501
+Width: 521
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -40701,31 +41018,56 @@ F1
 tp64
 s."
 LayerCount: 2
+Back
+SplineSet
+365 410 m 257
+ 378 408 398 408 425 408 c 258
+ 617 408 l 257
+ 617 460 l 257
+ 300 460 l 258
+ 294 460 290 448 290 436 c 256
+ 290 426 292 421 296 418 c 256
+ 356 386 401 311 401 243 c 256
+ 401 192 376 148 315 148 c 256
+ 212 148 114 282 114 446 c 256
+ 114 452 108 456 96 456 c 256
+ 82 456 69 450 69 437 c 256
+ 69 256 193 85 322 85 c 256
+ 413 85 485 135 485 240 c 256
+ 485 293 444 366 365 410 c 257
+532 666 m 257
+ 7 666 l 257
+ 7 621 l 257
+ 532 621 l 257
+ 532 666 l 257
+EndSplineSet
 Fore
 SplineSet
-345 410 m 257
- 358 408 378 408 405 408 c 258
- 597 408 l 257
- 597 460 l 257
- 280 460 l 258
- 274 460 270 448 270 436 c 256
- 270 426 272 421 276 418 c 256
- 336 386 381 311 381 243 c 256
- 381 192 356 148 295 148 c 256
- 192 148 94 282 94 446 c 256
- 94 452 88 456 76 456 c 256
- 62 456 49 450 49 437 c 256
- 49 256 173 85 302 85 c 256
- 393 85 465 135 465 240 c 256
- 465 293 424 366 345 410 c 257
-512 666 m 257
+34.4609375 378.307617188 m 0
+ 34.4609375 376.518554688 34.771484375 374.661132812 35.435546875 372.747070312 c 256
+ 94.7626953125 201.74609375 194 85 323 85 c 256
+ 414 85 486 135 486 240 c 256
+ 486 293 445 366 366 410 c 257
+ 379 408 399 408 426 408 c 258
+ 617 408 l 257
+ 617 460 l 257
+ 301 460 l 258
+ 295 460 291 448 291 436 c 256
+ 291 426 293 421 297 418 c 256
+ 357 386 402 311 402 243 c 256
+ 402 192 377 148 316 148 c 256
+ 213 148 136.754882812 241.059570312 83 396 c 256
+ 81.7490234375 399.604492188 76.236328125 401.650390625 66.744140625 401.650390625 c 0
+ 50.455078125 401.650390625 34.4609375 390.95703125 34.4609375 378.307617188 c 0
+532 666 m 257
  -13 666 l 257
  -13 621 l 257
- 512 621 l 257
- 512 666 l 257
+ 532 621 l 257
+ 532 666 l 257
 EndSplineSet
-Validated: 9
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" jadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: jadeva_viramadeva_jadeva
@@ -40857,46 +41199,85 @@ I1
 I0
 tp16
 s."
+HStem: -102 48<386.041 482.745> 16 102<108.5 194.513> 277 51<196.543 345.689> 467 51<157.446 254>
+VStem: 53 83<335.813 445.187> 376 84<115.102 245.682>
 AnchorPoint: "DVAnchor3" 652 665 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 799 621 m 257
  799 666 l 257
  -13 666 l 257
  -13 621 l 257
  799 621 l 257
-609 498 m 257
- 225 498 l 258
- 109 498 53 454 53 377 c 256
- 53 314 106 260 193 238 c 257
- 222 250 256 257 281 257 c 256
- 339 257 376 219 376 162 c 256
- 376 90 315 43 236 43 c 257
- 192 84 160 98 131 98 c 256
- 95 98 79 80 79 60 c 256
- 79 32 114 -4 210 -4 c 256
- 313 -4 460 39 460 159 c 256
- 460 253 384 308 300 308 c 256
- 255 308 234 303 197 291 c 257
- 160 304 136 333 136 371 c 256
- 136 423 166 447 254 447 c 258
- 609 447 l 257
- 609 498 l 257
-195 5 m 257
- 295 -77 382 -99 424 -99 c 256
- 444 -99 450 -76 450 -67 c 256
- 450 -61 450 -55 428 -51 c 256
- 355 -39 291 -17 228 43 c 257
- 195 5 l 257
+609 518 m 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 609 467 l 257
+ 609 518 l 257
+195 25 m 257
+ 295 -57 382 -79 424 -79 c 256
+ 444 -79 450 -56 450 -47 c 256
+ 450 -41 450 -35 428 -31 c 256
+ 355 -19 291 3 228 63 c 257
+ 195 25 l 257
 609 0 m 257
  696 0 l 257
  696 636 l 257
  609 636 l 257
  609 0 l 257
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+187 22 m 261
+ 288 -67 415 -102 465 -102 c 260
+ 479 -102 483 -88 483 -74 c 260
+ 483 -62 481.04296875 -57.7685546875 461 -54 c 260
+ 394.106445312 -41.4208984375 283 3 225 63 c 261
+ 187 22 l 261
+799 621 m 257
+ 799 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 799 621 l 257
+609 518 m 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 609 467 l 257
+ 609 518 l 257
+609 0 m 257
+ 696 0 l 257
+ 696 636 l 257
+ 609 636 l 257
+ 609 0 l 257
+EndSplineSet
+LCarets2: 2 0 0 
 Ligature2: "AkhandFormslookup6 subtable" jadeva viramadeva nyadeva
+Colour: ffff
 EndChar
 
 StartChar: jadeva_viramadeva_radeva
@@ -41286,6 +41667,7 @@ SplineSet
  570 204 l 257
 EndSplineSet
 Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" jadeva viramadeva_radeva
 EndChar
 
@@ -41328,9 +41710,11 @@ I1
 I0
 tp16
 s."
+HStem: -102 48<386.041 482.745> 16 102<108.5 194.513> 238 48<443 549.264> 277 51<196.543 345.689> 467 51<157.446 254>
+VStem: 53 83<335.813 445.187> 376 84<115.102 242.253>
 AnchorPoint: "DVAnchor3" 652 665 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 460 159 m 256
  460 253 384 308 300 308 c 256
@@ -41374,16 +41758,60 @@ SplineSet
  517 218 574 238 619 280 c 257
  619 339 l 257
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+187 22 m 261xce
+ 288 -67 415 -102 465 -102 c 260
+ 479 -102 483 -88 483 -74 c 260
+ 483 -62 481.04296875 -57.7685546875 461 -54 c 260
+ 394.106445312 -41.4208984375 283 3 225 63 c 261
+ 187 22 l 261xce
+460 179 m 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 411 467 l 257
+ 411 621 l 257
+ 799 621 l 257
+ 799 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 325 621 l 257
+ 325 518 l 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256xde
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+609 0 m 257
+ 696 0 l 257
+ 696 636 l 257
+ 609 636 l 257
+ 609 0 l 257
+619 359 m 257
+ 572 309 514 286 455 286 c 256
+ 430 286 404 290 379 299 c 257
+ 443 238 l 257
+ 447 238 l 258xee
+ 517 238 574 258 619 300 c 257
+ 619 359 l 257
+EndSplineSet
 Substitution2: "LocalizedNpFormslookup2 subtable" jhadeva.np
+Colour: ffff
 EndChar
 
 StartChar: jhadeva.np
 Encoding: 65639 -1 203
-Width: 914
+Width: 929
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -42030,21 +42458,23 @@ F1
 F1
 tp132
 s."
-AnchorPoint: "DVAnchor3" 526 664 basechar 0
+HStem: 234 111<152.157 204.529> 309 74<240 264> 309 13<205 225> 443 54<98.189 166.908 646.421 762.276> 624 53<99.853 189.247>
+VStem: 15 72<506.393 611.18> 205 85<531 609.872> 790 83<231.499 415.05>
+AnchorPoint: "DVAnchor3" 541 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-130 312 m 256
- 130 263 166 234 210 234 c 256
- 253 234 290 263 290 312 c 256
- 290 356 264 383 240 383 c 257
- 240 336 225 327 214 327 c 256
- 187 327 175 345 153 345 c 256
- 138 345 130 329 130 312 c 256
+122 312 m 260x9f
+ 122 261 160 230 206 230 c 260x9f
+ 251 230 290 261 290 312 c 260
+ 290 358 263 387 238 387 c 261x5f
+ 238 338 222 328 210 328 c 260
+ 182 328 169 347 146 347 c 260
+ 130 347 122 330 122 312 c 260x9f
 239 270 m 257
- 510 270 l 257
- 510 322 l 257
- 239 322 l 257
+ 525 270 l 257
+ 525 322 l 257
+ 239 322 l 257x3f
  239 270 l 257
 290 531 m 258
  290 585 268 677 153 677 c 256
@@ -42058,28 +42488,28 @@ SplineSet
  205 309 l 257
  290 309 l 257
  290 531 l 258
-564 356 m 257
- 609 415 654 443 697 443 c 256
- 748 443 775 401 775 321 c 256
- 775 271 755 208 710 133 c 256
- 709 133 709 129 709 128 c 256
- 709 113 729 105 734 105 c 256
- 737 105 740 107 741 108 c 256
- 795 150 858 234 858 330 c 256
- 858 433 792 497 714 497 c 256
- 652 497 596 468 554 405 c 257
- 564 356 l 257
-482 621 m 257
- 482 0 l 257
- 568 0 l 257
- 568 621 l 257
- 928 621 l 257
- 928 666 l 257
- 318 666 l 257
- 318 621 l 257
- 482 621 l 257
+579 356 m 257
+ 624 415 669 443 712 443 c 256
+ 763 443 790 401 790 321 c 256
+ 790 271 770 208 725 133 c 256
+ 724 133 724 129 724 128 c 256
+ 724 113 744 105 749 105 c 256
+ 752 105 755 107 756 108 c 256
+ 810 150 873 234 873 330 c 256
+ 873 433 807 497 729 497 c 256
+ 667 497 611 468 569 405 c 257
+ 579 356 l 257
+497 621 m 257
+ 497 0 l 257
+ 583 0 l 257
+ 583 621 l 257
+ 943 621 l 257
+ 943 666 l 257
+ 333 666 l 257
+ 333 621 l 257
+ 497 621 l 257
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: jhadeva_viramadeva
@@ -42087,7 +42517,7 @@ Encoding: 65640 -1 204
 Width: 517
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -42122,47 +42552,87 @@ I0
 tp16
 s."
 LayerCount: 2
-Fore
+Back
 SplineSet
-460 159 m 256
- 460 253 384 308 300 308 c 256
- 255 308 234 303 197 291 c 257
- 160 304 136 333 136 371 c 256
- 136 423 166 447 254 447 c 258
- 411 447 l 257
+460 179 m 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 411 467 l 257
  411 621 l 257
  530 621 l 257
  530 666 l 257
  -13 666 l 257
  -13 621 l 257
  325 621 l 257
- 325 498 l 257
- 225 498 l 258
- 109 498 53 454 53 377 c 256
- 53 314 106 260 193 238 c 257
- 222 250 256 257 281 257 c 256
- 339 257 376 219 376 162 c 256
- 376 90 315 43 236 43 c 257
- 192 84 160 98 131 98 c 256
- 95 98 79 80 79 60 c 256
- 79 32 114 -4 210 -4 c 256
- 313 -4 460 39 460 159 c 256
-195 5 m 257
- 295 -77 382 -99 424 -99 c 256
- 444 -99 450 -76 450 -67 c 256
- 450 -61 450 -55 428 -51 c 256
- 355 -39 291 -17 228 43 c 257
- 195 5 l 257
-443 218 m 257
- 516 218 561 233 620 259 c 256
- 627 262 629 267 629 272 c 256
- 629 285 617 309 609 309 c 256
- 600 309 551 266 455 266 c 256
- 430 266 404 270 379 279 c 257
- 443 218 l 257
+ 325 518 l 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+195 25 m 257
+ 295 -57 382 -79 424 -79 c 256
+ 444 -79 450 -56 450 -47 c 256
+ 450 -41 450 -35 428 -31 c 256
+ 355 -19 291 3 228 63 c 257
+ 195 25 l 257
+443 238 m 257
+ 516 238 561 253 620 279 c 256
+ 627 282 629 287 629 292 c 256
+ 629 305 617 329 609 329 c 256
+ 600 329 551 286 455 286 c 256
+ 430 286 404 290 379 299 c 257
+ 443 238 l 257
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+187 22 m 257
+ 288 -67 415 -102 465 -102 c 256
+ 479 -102 483 -88 483 -74 c 256
+ 483 -62 481.04296875 -57.7685546875 461 -54 c 256
+ 394.106445312 -41.4208984375 283 3 225 63 c 257
+ 187 22 l 257
+460 179 m 256
+ 460 273 384 328 300 328 c 256
+ 255 328 234 323 197 311 c 257
+ 160 324 136 353 136 391 c 256
+ 136 443 166 467 254 467 c 258
+ 411 467 l 257
+ 411 621 l 257
+ 530 621 l 257
+ 530 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 325 621 l 257
+ 325 518 l 257
+ 225 518 l 258
+ 109 518 53 474 53 397 c 256
+ 53 334 106 280 193 258 c 257
+ 222 270 256 277 281 277 c 256
+ 339 277 376 239 376 182 c 256
+ 376 110 315 63 236 63 c 257
+ 192 104 160 118 131 118 c 256
+ 95 118 79 100 79 80 c 256
+ 79 52 114 16 210 16 c 256
+ 313 16 460 59 460 179 c 256
+443 238 m 257
+ 516 238 561 253 620 279 c 256
+ 627 282 629 287 629 292 c 256
+ 629 305 617 329 609 329 c 256
+ 600 329 551 286 455 286 c 256
+ 430 286 404 290 379 299 c 257
+ 443 238 l 257
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" jhadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: jhadeva_viramadeva_radeva
@@ -42170,7 +42640,7 @@ Encoding: 65641 -1 205
 Width: 786
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -42216,13 +42686,13 @@ SplineSet
  617 108 l 257
 EndSplineSet
 Refer: 202 2333 N 1 0 0 1 3 2 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" jhadeva viramadeva_radeva
 EndChar
 
 StartChar: jjadeva
 Encoding: 2428 2428 206
-Width: 728
+Width: 750
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -42259,18 +42729,19 @@ F0.40000000600000002
 F1
 tp16
 s."
+HStem: -60 60<21 660> 85 63<216.34 355.984> 408 52<346.615 406>
+VStem: 14.4609 48.5391<341.335 400.352> 382 84<174.968 313.827>
 AnchorPoint: "DVAnchor3" 596 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-0 -60 m 257
- 0 0 l 257
- 639 0 l 257
- 639 -60 l 257
- 0 -60 l 257
+21 -60 m 261
+ 21 0 l 261
+ 660 0 l 257
+ 660 -60 l 257
+ 21 -60 l 261
 EndSplineSet
 Refer: 197 2332 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: ka_virama_ssa_virama_radeva
@@ -47248,6 +47719,7 @@ SplineSet
  29 438 l 258
 EndSplineSet
 Validated: 5
+LCarets2: 1 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" kadeva_viramadeva tadeva
 EndChar
 
@@ -52923,10 +53395,10 @@ EndChar
 
 StartChar: madeva
 Encoding: 2350 2350 238
-Width: 579
+Width: 594
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -53202,46 +53674,47 @@ F1
 F1
 tp68
 s."
-AnchorPoint: "DVAnchor3" 447 664 basechar 0
+HStem: 234 111<53.1568 105.529> 309 74<141 165> 309 13<106 126>
+AnchorPoint: "DVAnchor3" 462 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-140 270 m 257
- 431 270 l 257
- 431 322 l 257
+140 270 m 257x20
+ 446 270 l 257
+ 446 322 l 257
  140 322 l 257
- 140 270 l 257
-31 312 m 256
- 31 263 67 234 111 234 c 256
- 154 234 191 263 191 312 c 256
- 191 356 165 383 141 383 c 257
- 141 336 126 327 115 327 c 256
- 88 327 76 345 54 345 c 256
- 39 345 31 329 31 312 c 256
-402 621 m 257
- 402 0 l 257
- 489 0 l 257
- 489 621 l 257
- 592 621 l 257
- 592 666 l 257
+ 140 270 l 257x20
+23 312 m 260
+ 23 261 61 230 107 230 c 260x80
+ 152 230 191 261 191 312 c 260
+ 191 358 163 387 138 387 c 261x40
+ 138 338 123 328 111 328 c 260
+ 83 328 70 347 47 347 c 260x80
+ 31 347 23 330 23 312 c 260
+417 621 m 257
+ 417 0 l 257
+ 504 0 l 257
+ 504 621 l 257
+ 607 621 l 257
+ 607 666 l 257
  -13 666 l 257
  -13 621 l 257
- 402 621 l 257
+ 417 621 l 257
 106 621 m 257
  106 309 l 257
- 191 309 l 257
+ 191 309 l 257x20
  191 621 l 257
  106 621 l 257
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: madeva_viramadeva
 Encoding: 65661 -1 239
-Width: 399
+Width: 414
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -53490,26 +53963,27 @@ SplineSet
  88 327 76 345 54 345 c 256
  39 345 31 329 31 312 c 256
 140 270 m 257
- 499 270 l 257
- 499 322 l 257
+ 514 270 l 257
+ 514 322 l 257
  140 322 l 257
  140 270 l 257
-413 666 m 257
+428 666 m 257
  -13 666 l 257
  -13 621 l 257
- 413 621 l 257
- 413 666 l 257
+ 428 621 l 257
+ 428 666 l 257
 EndSplineSet
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" madeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: madeva_viramadeva_radeva
 Encoding: 65662 -1 240
-Width: 579
+Width: 594
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -53828,9 +54302,10 @@ s."
 LayerCount: 2
 Fore
 Refer: 238 2350 N 1 0 0 1 0 0 2
-Refer: 405 -1 N 1 0 0 1 562 30 2
-Validated: 5
+Refer: 405 -1 N 1 0 0 1 577 30 2
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" madeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: minus
@@ -54011,10 +54486,10 @@ EndChar
 
 StartChar: nadeva
 Encoding: 2344 2344 244
-Width: 585
+Width: 576
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -54271,40 +54746,65 @@ F1
 F1
 tp62
 s."
-AnchorPoint: "DVAnchor3" 455 664 basechar 0
+HStem: 242 168<70.7477 147>
+VStem: 46 105<266.044 368.095> 129 75<357 382>
+AnchorPoint: "DVAnchor3" 445 664 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
-129 347 m 257
- 409 347 l 257
- 409 0 l 257
- 496 0 l 257
- 496 621 l 257
- 599 621 l 257
- 599 666 l 257
+129 357 m 257xa0
+ 399 357 l 257
+ 399 0 l 257
+ 486 0 l 257
+ 486 621 l 257
+ 589 621 l 257
+ 589 666 l 257
  -13 666 l 257
  -13 621 l 257
- 409 621 l 257
- 409 400 l 257
- 129 400 l 257
- 129 347 l 257
-129 232 m 256
- 147 232 164 240 164 255 c 256
- 164 273 151 283 151 305 c 256
- 151 323 159 347 204 347 c 257
- 204 372 175 400 129 400 c 256
- 77 400 46 361 46 315 c 256
- 46 269 77 232 129 232 c 256
+ 399 621 l 257
+ 399 410 l 257
+ 129 410 l 257
+ 129 357 l 257xa0
+129 242 m 260
+ 147 242 164 250 164 265 c 260
+ 164 283 151 293 151 315 c 260xc0
+ 151 333 159 357 204 357 c 261
+ 204 382 175 410 129 410 c 260xa0
+ 77 410 46 371 46 325 c 260xc0
+ 46 279 77 242 129 242 c 260
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+129 357 m 257xa0
+ 399 357 l 257
+ 399 0 l 257
+ 486 0 l 257
+ 486 621 l 257
+ 589 621 l 257
+ 589 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 399 621 l 257
+ 399 410 l 257
+ 129 410 l 257
+ 129 357 l 257xa0
+129 234 m 260
+ 148 234 166 242 166 258 c 260
+ 166 277 152 287 152 310 c 260xc0
+ 152 329 161 357 208 357 c 261
+ 208 383 177 410 129 410 c 260xa0
+ 74 410 42 369 42 321 c 260xc0
+ 42 273 74 234 129 234 c 260
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: nadeva_viramadeva
 Encoding: 65663 -1 245
-Width: 394
+Width: 384
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -54527,23 +55027,24 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-407 621 m 257
- 407 666 l 257
+397 621 m 257
+ 397 666 l 257
  -13 666 l 257
  -13 621 l 257
- 407 621 l 257
-164 255 m 256
- 164 273 151 283 151 305 c 256
- 151 323 159 347 204 347 c 258
- 495 347 l 257
- 495 400 l 257
- 129 400 l 258
- 77 400 46 361 46 315 c 256
- 46 269 77 232 129 232 c 256
- 147 232 164 240 164 255 c 256
+ 397 621 l 257
+129 234 m 0
+ 148 234 166 242 166 258 c 0
+ 166 277 152 287 152 310 c 0
+ 152 329 161 357 208 357 c 2
+ 485 357 l 1
+ 485 410 l 1
+ 129 410 l 2
+ 74 410 42 369 42 321 c 0
+ 42 273 74 234 129 234 c 0
 EndSplineSet
-Validated: 9
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" nadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: nadeva_viramadeva_alt
@@ -54551,7 +55052,7 @@ Encoding: 65664 -1 246
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -54588,17 +55089,16 @@ s."
 LayerCount: 2
 Fore
 SplineSet
--309 36 m 256
- -309 59 -357 74 -357 102 c 256
- -357 121 -348 130 -323 145 c 258
- -143 248 l 257
- -143 308 l 257
- -393 165 l 258
- -428 145 -456 114 -456 70 c 256
- -456 19 -417 -5 -373 -5 c 256
- -350 -5 -309 8 -309 36 c 256
+-305 35 m 260
+ -305 70 -356 76 -356 105 c 260
+ -356 120 -348 130 -323 145 c 262
+ -143 248 l 261
+ -143 308 l 261
+ -393 165 l 262
+ -428 145 -460 117 -460 71 c 260
+ -460 17 -419 -8 -373 -8 c 260
+ -339 -8 -305 6 -305 35 c 260
 EndSplineSet
-Validated: 9
 EndChar
 
 StartChar: nadeva_viramadeva_nadeva
@@ -54606,7 +55106,7 @@ Encoding: 65665 -1 247
 Width: 585
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -54641,7 +55141,7 @@ I0
 tp16
 s."
 LayerCount: 2
-Fore
+Back
 SplineSet
 203 459 m 257
  273 459 329 412 409 326 c 257
@@ -54656,34 +55156,67 @@ SplineSet
  409 394 l 257
  335 468 270 519 164 519 c 257
  203 459 l 257
-139 351 m 256
- 157 351 174 359 174 374 c 256
- 174 392 161 402 161 424 c 256
- 161 439 167 459 203 459 c 257
- 203 487 188 519 164 519 c 256
- 96 519 56 480 56 434 c 256
- 56 388 87 351 139 351 c 256
-243 66 m 256
- 243 89 195 104 195 132 c 256
- 195 151 204 160 229 175 c 258
+137 343 m 256
+ 156 343 174 351 174 367 c 256
+ 174 386 161 399 161 422 c 256
+ 161 438 165 459 203 459 c 257
+ 203 488 189 519 164 519 c 256
+ 93 519 50 478 50 430 c 256
+ 50 382 82 343 137 343 c 256
+247 65 m 260
+ 247 94 196 106 196 135 c 260
+ 196 155 204 160 229 175 c 262
+ 409 278 l 261
+ 409 338 l 261
+ 159 195 l 262
+ 124 175 92 147 92 101 c 260
+ 92 47 133 22 179 22 c 260
+ 203 22 247 36 247 65 c 260
+EndSplineSet
+Fore
+SplineSet
+247 65 m 256
+ 247 100 196 106 196 135 c 256
+ 196 150 204 160 229 175 c 258
  409 278 l 257
  409 338 l 257
  159 195 l 258
- 124 175 96 144 96 100 c 256
- 96 49 135 25 179 25 c 256
- 202 25 243 38 243 66 c 256
+ 124 175 92 147 92 101 c 256
+ 92 47 133 22 179 22 c 256
+ 213 22 247 36 247 65 c 256
+203 459 m 257
+ 273 459 329 412 409 326 c 257
+ 409 0 l 257
+ 496 0 l 257
+ 496 621 l 257
+ 599 621 l 257
+ 599 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 409 621 l 257
+ 409 394 l 257
+ 335 468 270 519 164 519 c 257
+ 203 459 l 257
+137 343 m 256
+ 156 343 174 351 174 367 c 256
+ 174 386 161 399 161 422 c 256
+ 161 438 165 459 203 459 c 257
+ 203 488 189 519 164 519 c 256
+ 93 519 50 478 50 430 c 256
+ 50 382 82 343 137 343 c 256
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" nadeva_viramadeva nadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" nadeva viramadeva nadeva
+Colour: ffff
 EndChar
 
 StartChar: nadeva_viramadeva_radeva
 Encoding: 65666 -1 248
-Width: 585
+Width: 576
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -54983,9 +55516,10 @@ s."
 LayerCount: 2
 Fore
 Refer: 244 2344 N 1 0 0 1 0 0 2
-Refer: 405 -1 N 1 0 0 1 536 30 2
-Validated: 5
+Refer: 405 -1 N 1 0 0 1 526 30 2
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" nadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: nep_jha_virama
@@ -54993,7 +55527,7 @@ Encoding: 65667 -1 249
 Width: 731
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -55508,13 +56042,13 @@ SplineSet
  510 322 l 257
  239 322 l 257
  239 270 l 257
-130 312 m 256
- 130 263 166 234 210 234 c 256
- 253 234 290 263 290 312 c 256
- 290 356 264 383 240 383 c 257
- 240 336 225 327 214 327 c 256
- 187 327 175 345 153 345 c 256
- 138 345 130 329 130 312 c 256
+122 312 m 260
+ 122 261 160 230 206 230 c 260
+ 251 230 290 261 290 312 c 260
+ 290 358 263 387 238 387 c 261
+ 238 338 222 328 210 328 c 260
+ 182 328 169 347 146 347 c 260
+ 130 347 122 330 122 312 c 260
 290 531 m 258
  290 585 268 677 153 677 c 256
  78 677 15 634 15 557 c 256
@@ -55544,7 +56078,7 @@ SplineSet
  638 497 601 468 568 405 c 257
  568 326 l 257
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: nga_virama_ka_virama_ssadeva
@@ -60299,10 +60833,10 @@ EndChar
 
 StartChar: nnnadeva
 Encoding: 2345 2345 265
-Width: 585
+Width: 576
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -60401,13 +60935,16 @@ F0.40000000600000002
 F1
 tp36
 s."
+HStem: 242 168<70.7477 147>
+VStem: 46 105<266.044 368.095> 129 75<357 382>
 AnchorPoint: "DVAnchor3" 455 666 basechar 0
 LayerCount: 2
 Fore
 Refer: 244 2344 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 752 86 2
-Validated: 5
+Refer: 268 2364 S 1 0 0 1 638 86 2
+LCarets2: 1 0 
 Ligature2: "NuktaFormslookup5 subtable" nadeva nuktadeva
+Colour: ffff
 EndChar
 
 StartChar: nnnadeva_viramadeva
@@ -60415,7 +60952,7 @@ Encoding: 65678 -1 266
 Width: 394
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -60681,9 +61218,10 @@ s."
 LayerCount: 2
 Fore
 Refer: 245 -1 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 786 86 2
-Validated: 9
+Refer: 268 2364 N 1 0 0 1 648 86 2
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" nnnadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: nonmarkingreturn
@@ -61334,7 +61872,7 @@ Encoding: 2321 2321 275
 Width: 1044
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -62230,7 +62768,7 @@ LayerCount: 2
 Fore
 Refer: 99 2373 N 1 0 0 1 902 0 2
 Refer: 1 2310 N 1 0 0 1 0 0 2
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: ocandrasigndeva
@@ -62496,7 +63034,7 @@ Encoding: 2323 2323 277
 Width: 1044
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -63149,7 +63687,7 @@ LayerCount: 2
 Fore
 Refer: 1 2310 N 1 0 0 1 0 0 2
 Refer: 114 2375 N 1 0 0 1 1051 -1 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: oedeva
@@ -63775,12 +64313,14 @@ F1
 F1
 tp125
 s."
+HStem: 85 63<203.919 358.181> 316 53<443.966 552.771> 365 42<232.399 305.199> 637 40<223.511 339.149>
+VStem: 11.4609 48.5391<321.718 380.352> 127 70<524.887 613.062> 373 84<451.196 606.678> 384 85<175.31 308.961>
 AnchorPoint: "DVAnchor3" 636 664 basechar 0
 LayerCount: 2
 Fore
-Refer: 279 2362 N 1 0 0 1 777 0 2
+Refer: 279 2362 S 1 0 0 1 778 0 2
 Refer: 7 2309 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: oesigndeva
@@ -63837,10 +64377,10 @@ EndChar
 
 StartChar: omdeva
 Encoding: 2384 2384 280
-Width: 977
+Width: 940
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -63875,57 +64415,108 @@ I0
 tp16
 s."
 LayerCount: 2
+Back
+SplineSet
+690.999023438 256 m 256
+ 618.999023438 256 581.999023438 304 574.999023438 304 c 256
+ 564.999023438 304 547.999023438 284 547.999023438 271 c 256
+ 547.999023438 267 550.999023438 263 556.999023438 258 c 256
+ 606.999023438 218 652.999023438 204 699.999023438 204 c 256
+ 812.999023438 204 884.999023438 288 884.999023438 392 c 256
+ 884.999023438 487 836.999023438 585 709.999023438 585 c 256
+ 532.999023438 585 539.999023438 364 444.999023438 364 c 256
+ 413.999023438 364 394.999023438 378 379.999023438 398 c 257
+ 431.999023438 428 456.999023438 474 456.999023438 530 c 256
+ 456.999023438 613 394.999023438 677 284.999023438 677 c 256
+ 181.999023438 677 126.999023438 636 126.999023438 582 c 256
+ 126.999023438 536 154.999023438 509 191.999023438 509 c 256
+ 199.999023438 509 203.999023438 510 203.999023438 516 c 256
+ 203.999023438 523 196.999023438 528 196.999023438 561 c 256
+ 196.999023438 603 226.999023438 637 285.999023438 637 c 256
+ 331.999023438 637 372.999023438 605 372.999023438 529 c 256
+ 372.999023438 448 327.999023438 410 240.999023438 407 c 256
+ 235.999023438 407 231.999023438 400 231.999023438 390 c 256
+ 231.999023438 377 237.999023438 365 246.999023438 365 c 256
+ 265.999023438 365 288.999023438 367 305.999023438 371 c 257
+ 359.999023438 329 383.999023438 289 383.999023438 243 c 256
+ 383.999023438 180 350.999023438 148 292.999023438 148 c 256
+ 176.999023438 148 66.9990234375 265 66.9990234375 407 c 256
+ 66.9990234375 413 58.9990234375 417 48.9990234375 417 c 256
+ 34.9990234375 417 21.9990234375 411 21.9990234375 398 c 256
+ 21.9990234375 237 157.999023438 85 299.999023438 85 c 256
+ 393.999023438 85 468.999023438 133 468.999023438 234 c 256
+ 468.999023438 261 458.999023438 290 437.999023438 319 c 257
+ 451.999023438 315 463.999023438 313 475.999023438 313 c 256
+ 594.999023438 313 605.999023438 536 718.999023438 536 c 256
+ 763.999023438 536 798.999023438 496 798.999023438 395 c 256
+ 798.999023438 296 747.999023438 256 690.999023438 256 c 256
+556.999023438 736 m 256
+ 470.999023438 736 438.999023438 811 427.999023438 878 c 256
+ 422.999023438 910 419.999023438 916 407.999023438 916 c 256
+ 384.999023438 916 351.999023438 894 351.999023438 846 c 256
+ 351.999023438 750 440.999023438 695 556.999023438 695 c 256
+ 672.999023438 695 762.999023438 750 762.999023438 846 c 256
+ 762.999023438 894 729.999023438 916 705.999023438 916 c 256
+ 693.999023438 916 691.999023438 910 685.999023438 878 c 256
+ 675.999023438 811 642.999023438 736 556.999023438 736 c 256
+494.999023438 859 m 256
+ 494.999023438 833 533.999023438 793 556.999023438 793 c 256
+ 582.999023438 793 620.999023438 833 620.999023438 859 c 256
+ 620.999023438 885 582.999023438 926 556.999023438 926 c 256
+ 532.999023438 926 494.999023438 885 494.999023438 859 c 256
+EndSplineSet
 Fore
 SplineSet
-725 256 m 256
- 653 256 616 304 609 304 c 256
- 599 304 582 284 582 271 c 256
- 582 267 585 263 591 258 c 256
- 641 218 687 204 734 204 c 256
- 847 204 919 288 919 392 c 256
- 919 487 871 585 744 585 c 256
- 567 585 574 364 479 364 c 256
- 448 364 429 378 414 398 c 257
- 466 428 491 474 491 530 c 256
- 491 613 429 677 319 677 c 256
- 216 677 161 636 161 582 c 256
- 161 536 189 509 226 509 c 256
- 234 509 238 510 238 516 c 256
- 238 523 231 528 231 561 c 256
- 231 603 261 637 320 637 c 256
- 366 637 407 605 407 529 c 256
- 407 448 362 410 275 407 c 256
- 270 407 266 400 266 390 c 256
- 266 377 272 365 281 365 c 256
- 300 365 323 367 340 371 c 257
- 394 329 418 289 418 243 c 256
- 418 180 385 148 327 148 c 256
- 211 148 101 265 101 407 c 256
- 101 413 93 417 83 417 c 256
- 69 417 56 411 56 398 c 256
- 56 237 192 85 334 85 c 256
- 428 85 503 133 503 234 c 256
- 503 261 493 290 472 319 c 257
- 486 315 498 313 510 313 c 256
- 629 313 640 536 753 536 c 256
- 798 536 833 496 833 395 c 256
- 833 296 782 256 725 256 c 256
-591 736 m 256
- 505 736 473 811 462 878 c 256
- 457 910 454 916 442 916 c 256
- 419 916 386 894 386 846 c 256
- 386 750 475 695 591 695 c 256
- 707 695 797 750 797 846 c 256
- 797 894 764 916 740 916 c 256
- 728 916 726 910 720 878 c 256
- 710 811 677 736 591 736 c 256
-529 859 m 256
- 529 833 568 793 591 793 c 256
- 617 793 655 833 655 859 c 256
- 655 885 617 926 591 926 c 256
- 567 926 529 885 529 859 c 256
+299.999023438 85 m 256
+ 393.999023438 85 468.999023438 133 468.999023438 234 c 256
+ 468.999023438 261 458.999023438 290 437.999023438 319 c 257
+ 451.999023438 315 463.999023438 313 475.999023438 313 c 256
+ 594.999023438 313 605.999023438 536 718.999023438 536 c 256
+ 763.999023438 536 798.999023438 496 798.999023438 395 c 256
+ 798.999023438 296 747.999023438 256 690.999023438 256 c 256
+ 618.999023438 256 581.999023438 304 574.999023438 304 c 256
+ 564.999023438 304 547.999023438 284 547.999023438 271 c 256
+ 547.999023438 267 550.999023438 263 556.999023438 258 c 256
+ 606.999023438 218 652.999023438 204 699.999023438 204 c 256
+ 812.999023438 204 884.999023438 288 884.999023438 392 c 256
+ 884.999023438 487 836.999023438 585 709.999023438 585 c 256
+ 532.999023438 585 539.999023438 364 444.999023438 364 c 256
+ 413.999023438 364 394.999023438 378 379.999023438 398 c 257
+ 431.999023438 428 456.999023438 474 456.999023438 530 c 256
+ 456.999023438 613 394.999023438 677 284.999023438 677 c 256
+ 181.999023438 677 126.999023438 636 126.999023438 582 c 256
+ 126.999023438 536 154.999023438 509 191.999023438 509 c 256
+ 199.999023438 509 203.999023438 510 203.999023438 516 c 256
+ 203.999023438 523 196.999023438 528 196.999023438 561 c 256
+ 196.999023438 603 226.999023438 637 285.999023438 637 c 256
+ 331.999023438 637 372.999023438 605 372.999023438 529 c 256
+ 372.999023438 448 327.999023438 410 240.999023438 407 c 256
+ 235.999023438 407 231.999023438 400 231.999023438 390 c 256
+ 231.999023438 377 237.999023438 365 246.999023438 365 c 256
+ 265.999023438 365 288.999023438 367 305.999023438 371 c 257
+ 359.999023438 329 383.999023438 289 383.999023438 243 c 256
+ 383.999023438 180 350.999023438 148 292.999023438 148 c 256
+ 189.999023438 148 113.75390625 221.059570312 59.9990234375 376 c 256
+ 58.748046875 379.604492188 53.2353515625 381.650390625 43.7431640625 381.650390625 c 0
+ 27.4541015625 381.650390625 11.4599609375 370.95703125 11.4599609375 358.307617188 c 0
+ 11.4599609375 356.518554688 11.7705078125 354.661132812 12.4345703125 352.747070312 c 256
+ 71.76171875 181.74609375 170.999023438 85 299.999023438 85 c 256
+556.999023438 736 m 256
+ 470.999023438 736 438.999023438 811 427.999023438 878 c 256
+ 422.999023438 910 419.999023438 916 407.999023438 916 c 256
+ 384.999023438 916 351.999023438 894 351.999023438 846 c 256
+ 351.999023438 750 440.999023438 695 556.999023438 695 c 256
+ 672.999023438 695 762.999023438 750 762.999023438 846 c 256
+ 762.999023438 894 729.999023438 916 705.999023438 916 c 256
+ 693.999023438 916 691.999023438 910 685.999023438 878 c 256
+ 675.999023438 811 642.999023438 736 556.999023438 736 c 256
+494.999023438 859 m 256
+ 494.999023438 833 533.999023438 793 556.999023438 793 c 256
+ 582.999023438 793 620.999023438 833 620.999023438 859 c 256
+ 620.999023438 885 582.999023438 926 556.999023438 926 c 256
+ 532.999023438 926 494.999023438 885 494.999023438 859 c 256
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: one
@@ -64125,7 +64716,7 @@ Encoding: 2420 2420 284
 Width: 1044
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -64778,7 +65369,7 @@ LayerCount: 2
 Fore
 Refer: 279 2362 N 1 0 0 1 1053 0 2
 Refer: 1 2310 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: ooesigndeva
@@ -64959,7 +65550,7 @@ Encoding: 2322 2322 286
 Width: 1044
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -65688,7 +66279,7 @@ LayerCount: 2
 Fore
 Refer: 1 2310 N 1 0 0 1 0 0 2
 Refer: 111 2374 N 1 0 0 1 1054 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: oshortsigndeva
@@ -66251,6 +66842,7 @@ Fore
 Refer: 112 -1 N 1 0 0 1 268 0 2
 Refer: 2 2366 N 1 0 0 1 0 0 2
 Validated: 5
+LCarets2: 1 0 
 Ligature2: "AboveBaseSubstitutionslookup subtable" osigndeva radeva_viramadeva
 EndChar
 
@@ -66608,6 +67200,7 @@ Fore
 Refer: 2 2366 N 1 0 0 1 0 0 2
 Refer: 113 -1 N 1 0 0 1 268 0 2
 Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "AboveBaseSubstitutionslookup subtable" osigndeva radeva_viramadeva anusvaradeva
 EndChar
 
@@ -66616,7 +67209,7 @@ Encoding: 2379 2379 290
 Width: 266
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -66781,7 +67374,6 @@ LayerCount: 2
 Fore
 Refer: 2 2366 N 1 0 0 1 0 0 2
 Refer: 114 2375 N 1 0 0 1 269 0 2
-Validated: 5
 EndChar
 
 StartChar: osigndeva_anusvaradeva
@@ -66789,7 +67381,7 @@ Encoding: 65685 -1 291
 Width: 266
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -66995,9 +67587,9 @@ tp56
 s."
 LayerCount: 2
 Fore
-Refer: 115 -1 N 1 0 0 1 265 0 2
+Refer: 115 -1 S 1 0 0 1 265 0 2
 Refer: 2 2366 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "AboveBaseSubstitutionslookup subtable" osigndeva anusvaradeva
 EndChar
 
@@ -67072,7 +67664,7 @@ EndChar
 
 StartChar: padeva
 Encoding: 2346 2346 293
-Width: 536
+Width: 551
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -67566,30 +68158,32 @@ F1
 F1
 tp111
 s."
-AnchorPoint: "DVAnchor3" 394 664 basechar 0
+HStem: 197 52<182.405 310.919>
+VStem: 57 86<291.945 384>
+AnchorPoint: "DVAnchor3" 409 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-351 621 m 257
- 351 319 l 257
- 321 275 280 249 243 249 c 256
- 161 249 143 323 143 401 c 258
- 143 621 l 257
- 351 621 l 257
--13 666 m 257
- -13 621 l 257
- 57 621 l 257
- 57 404 l 258
- 57 285 104 197 218 197 c 256
- 273 197 314 222 351 259 c 257
- 351 0 l 257
- 437 0 l 257
- 437 621 l 257
- 549 621 l 257
- 549 666 l 257
- -13 666 l 257
+366 621 m 261
+ 366 319 l 261
+ 336 275 285 249 248 249 c 260
+ 176 249 143 303 143 381 c 262
+ 143 621 l 261
+ 366 621 l 261
+-13 666 m 261
+ -13 621 l 261
+ 57 621 l 261
+ 57 384 l 262
+ 57 265 119 197 223 197 c 260
+ 278 197 329 222 366 259 c 261
+ 366 0 l 261
+ 452 0 l 261
+ 452 621 l 261
+ 564 621 l 261
+ 564 666 l 261
+ -13 666 l 261
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: padeva_viramadeva
@@ -68109,7 +68703,7 @@ EndChar
 
 StartChar: padeva_viramadeva_ladeva
 Encoding: 65687 -1 295
-Width: 674
+Width: 689
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -68146,61 +68740,106 @@ I1
 I0
 tp16
 s."
-AnchorPoint: "DVAnchor0" 542 -127 basechar 0
+HStem: 78 49<245.575 357.76 462.458 568.623> 197 52<182.405 310.919>
+VStem: 57 86<291.945 384> 148 79<-82.5285 59.6265> 352 75<-49.2647 -2.99292> 589 73<-74.3745 58.4907>
+AnchorPoint: "DVAnchor0" 557 -127 basechar 0
 LayerCount: 2
+Back
+SplineSet
+366 621 m 257
+ 366 319 l 257
+ 336 275 295 249 258 249 c 256
+ 176 249 158 323 158 401 c 258
+ 158 621 l 257
+ 366 621 l 257
+2 666 m 257
+ 2 621 l 257
+ 72 621 l 257
+ 72 404 l 258
+ 72 285 119 197 233 197 c 256
+ 288 197 329 222 366 259 c 257
+ 366 70 l 257
+ 452 70 l 257
+ 452 621 l 257
+ 702 621 l 257
+ 702 666 l 257
+ 2 666 l 257
+438 52 m 257
+ 393 106 349 127 300 127 c 256
+ 201 126 148 76 148 -3 c 256
+ 148 -91 224 -150 253 -170 c 256
+ 256 -172 258 -173 261 -173 c 256
+ 269 -173 284 -157 284 -144 c 256
+ 284 -127 227 -109 227 -3 c 256
+ 227 54 259 78 300 78 c 256
+ 341 78 379 47 403 -2 c 257
+ 438 52 l 257
+589 -3 m 256
+ 589 -67 550 -129 550 -135 c 256
+ 550 -151 567 -156 571 -156 c 256
+ 574 -156 576 -154 577 -153 c 256
+ 639 -96 662 -41 662 5 c 256
+ 662 85 600 127 530 127 c 256
+ 415 127 352 33 352 -26 c 256
+ 352 -43 374 -53 398 -53 c 256
+ 414 -53 427 -53 427 -37 c 256
+ 427 26 463 78 516 78 c 256
+ 550 78 589 58 589 -3 c 256
+EndSplineSet
 Fore
 SplineSet
-351 621 m 257
- 351 319 l 257
- 321 275 280 249 243 249 c 256
- 161 249 143 323 143 401 c 258
+366 621 m 257
+ 366 319 l 257
+ 336 275 285 249 248 249 c 256
+ 176 249 143 303 143 381 c 258
  143 621 l 257
- 351 621 l 257
+ 366 621 l 257
 -13 666 m 257
  -13 621 l 257
  57 621 l 257
- 57 404 l 258
- 57 285 104 197 218 197 c 256
- 273 197 314 222 351 259 c 257
- 351 70 l 257
- 437 70 l 257
- 437 621 l 257
- 687 621 l 257
- 687 666 l 257
+ 57 384 l 258
+ 57 265 119 197 223 197 c 256
+ 278 197 329 222 366 259 c 257
+ 366 70 l 257
+ 452 70 l 257
+ 452 621 l 257
+ 702 621 l 257
+ 702 666 l 257
  -13 666 l 257
-423 52 m 257
- 378 106 334 127 285 127 c 256
- 186 126 133 76 133 -3 c 256
- 133 -91 209 -150 238 -170 c 256
- 241 -172 243 -173 246 -173 c 256
- 254 -173 269 -157 269 -144 c 256
- 269 -127 212 -109 212 -3 c 256
- 212 54 244 78 285 78 c 256
- 326 78 364 47 388 -2 c 257
- 423 52 l 257
-574 -3 m 256
- 574 -67 535 -129 535 -135 c 256
- 535 -151 552 -156 556 -156 c 256
- 559 -156 561 -154 562 -153 c 256
- 624 -96 647 -41 647 5 c 256
- 647 85 585 127 515 127 c 256
- 400 127 337 33 337 -26 c 256
- 337 -43 359 -53 383 -53 c 256
- 399 -53 412 -53 412 -37 c 256
- 412 26 448 78 501 78 c 256
- 535 78 574 58 574 -3 c 256
+438 52 m 257
+ 393 106 349 127 300 127 c 256
+ 201 126 148 76 148 -3 c 256
+ 148 -91 224 -150 253 -170 c 256
+ 256 -172 258 -173 261 -173 c 256
+ 269 -173 284 -157 284 -144 c 256
+ 284 -127 227 -109 227 -3 c 256
+ 227 54 259 78 300 78 c 256
+ 341 78 379 47 403 -2 c 257
+ 438 52 l 257
+589 -3 m 256
+ 589 -67 550 -129 550 -135 c 256
+ 550 -151 567 -156 571 -156 c 256
+ 574 -156 576 -154 577 -153 c 256
+ 639 -96 662 -41 662 5 c 256
+ 662 85 600 127 530 127 c 256
+ 415 127 352 33 352 -26 c 256
+ 352 -43 374 -53 398 -53 c 256
+ 414 -53 427 -53 427 -37 c 256
+ 427 26 463 78 516 78 c 256
+ 550 78 589 58 589 -3 c 256
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" padeva_viramadeva ladeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" padeva viramadeva ladeva.mr
+Colour: ffff
 EndChar
 
 StartChar: padeva_viramadeva_radeva
 Encoding: 65688 -1 296
-Width: 577
+Width: 585
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -68490,7 +69129,7 @@ F1
 tp71
 s."
 LayerCount: 2
-Fore
+Back
 SplineSet
 391 250 m 257
  391 300 l 257
@@ -68518,8 +69157,37 @@ SplineSet
  590 666 l 257
  -13 666 l 257
 EndSplineSet
-Validated: 5
+Fore
+SplineSet
+400 621 m 257
+ 400 319 l 257
+ 370 275 319 249 282 249 c 256
+ 210 249 177 303 177 381 c 258
+ 177 621 l 257
+ 400 621 l 257
+-13 666 m 257
+ -13 621 l 257
+ 91 621 l 257
+ 91 384 l 258
+ 91 265 153 197 257 197 c 256
+ 312 197 363 222 400 259 c 257
+ 400 0 l 257
+ 486 0 l 257
+ 486 621 l 257
+ 598 621 l 257
+ 598 666 l 257
+ -13 666 l 257
+391 250 m 257
+ 391 300 l 257
+ 51 73 l 258
+ 45 69 43 64 43 57 c 256
+ 43 32 73 -7 88 -7 c 256
+ 93 -7 97 -5 101 -1 c 258
+ 391 250 l 257
+EndSplineSet
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" padeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: padeva_viramadeva_tadeva
@@ -69134,7 +69802,7 @@ EndChar
 
 StartChar: phadeva
 Encoding: 2347 2347 302
-Width: 774
+Width: 790
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -69579,47 +70247,49 @@ F1
 F1
 tp98
 s."
-AnchorPoint: "DVAnchor0" 393 23 basechar 0
-AnchorPoint: "DVAnchor3" 393 664 basechar 0
+HStem: 197 52<182.405 310.919> 443 54<519.421 635.276>
+VStem: 57 86<291.945 384> 663 83<231.499 415.05>
+AnchorPoint: "DVAnchor0" 408 23 basechar 0
+AnchorPoint: "DVAnchor3" 408 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-437 356 m 257
- 482 415 527 443 570 443 c 256
- 621 443 648 401 648 321 c 256
- 648 271 628 208 583 133 c 256
- 582 133 582 129 582 128 c 256
- 582 113 602 105 607 105 c 256
- 610 105 613 107 614 108 c 256
- 668 150 731 234 731 330 c 256
- 731 433 665 497 587 497 c 256
- 525 497 469 468 427 405 c 257
- 437 356 l 257
-351 621 m 257
- 351 319 l 257
- 321 275 280 249 243 249 c 256
- 161 249 143 323 143 401 c 258
+366 621 m 257
+ 366 319 l 257
+ 336 275 285 249 248 249 c 256
+ 176 249 143 303 143 381 c 258
  143 621 l 257
- 351 621 l 257
+ 366 621 l 257
 -13 666 m 257
  -13 621 l 257
  57 621 l 257
- 57 404 l 258
- 57 285 104 197 218 197 c 256
- 273 197 314 222 351 259 c 257
- 351 0 l 257
- 437 0 l 257
- 437 621 l 257
- 788 621 l 257
- 788 666 l 257
+ 57 384 l 258
+ 57 265 119 197 223 197 c 256
+ 278 197 329 222 366 259 c 257
+ 366 0 l 257
+ 452 0 l 257
+ 452 621 l 257
+ 803 621 l 257
+ 803 666 l 257
  -13 666 l 257
+452 356 m 257
+ 497 415 542 443 585 443 c 256
+ 636 443 663 401 663 321 c 256
+ 663 271 643 208 598 133 c 256
+ 597 133 597 129 597 128 c 256
+ 597 113 617 105 622 105 c 256
+ 625 105 628 107 629 108 c 256
+ 683 150 746 234 746 330 c 256
+ 746 433 680 497 602 497 c 256
+ 540 497 484 468 442 405 c 257
+ 452 356 l 257
 EndSplineSet
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: phadeva_radeva_nuktadeva
 Encoding: 65690 -1 303
-Width: 774
+Width: 790
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -69721,30 +70391,32 @@ F0.6856120832
 F1
 tp36
 s."
+HStem: 197 52<182.405 310.919> 443 54<519.421 635.276>
+VStem: 57 86<291.945 384> 663 83<231.499 415.05>
 AnchorPoint: "DVAnchor0" 393 23 basechar 0
 AnchorPoint: "DVAnchor3" 393 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-351 256 m 257
- 351 306 l 257
- 45 68 l 258
- 39 64 37 59 37 52 c 256
- 37 27 73 -7 88 -7 c 256
- 93 -7 97 -5 102 0 c 258
- 351 256 l 257
+366 256 m 257
+ 366 306 l 257
+ 60 68 l 258
+ 54 64 52 59 52 52 c 256
+ 52 27 88 -7 103 -7 c 256
+ 108 -7 112 -5 117 0 c 258
+ 366 256 l 257
 EndSplineSet
 Refer: 302 2347 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 773 -40 2
-Validated: 5
+Refer: 268 2364 N 1 0 0 1 788 -40 2
+Colour: ffff
 EndChar
 
 StartChar: phadeva_viramadeva
 Encoding: 65691 -1 304
-Width: 561
+Width: 588
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -70121,41 +70793,70 @@ F1
 tp84
 s."
 LayerCount: 2
+Back
+SplineSet
+366 621 m 257
+ 366 319 l 257
+ 337 275 296 249 260 249 c 256
+ 186 249 170 323 170 401 c 258
+ 170 621 l 257
+ 366 621 l 257
+14 666 m 257
+ 14 621 l 257
+ 84 621 l 257
+ 84 404 l 258
+ 84 285 128 197 235 197 c 256
+ 289 197 330 222 366 259 c 257
+ 366 0 l 257
+ 452 0 l 257
+ 452 621 l 257
+ 601 621 l 257
+ 601 666 l 257
+ 14 666 l 257
+452 326 m 257
+ 487 420 548 434 585 434 c 256
+ 655 434 663 398 687 398 c 256
+ 696 398 701 404 701 416 c 256
+ 701 455 652 497 592 497 c 256
+ 543 497 482 470 452 405 c 257
+ 452 326 l 257
+EndSplineSet
 Fore
 SplineSet
-339 621 m 257
- 339 319 l 257
- 310 275 269 249 233 249 c 256
- 159 249 143 323 143 401 c 258
+366 621 m 257
+ 366 319 l 257
+ 336 275 285 249 248 249 c 256
+ 176 249 143 303 143 381 c 258
  143 621 l 257
- 339 621 l 257
+ 366 621 l 257
 -13 666 m 257
  -13 621 l 257
  57 621 l 257
- 57 404 l 258
- 57 285 101 197 208 197 c 256
- 262 197 303 222 339 259 c 257
- 339 0 l 257
- 425 0 l 257
- 425 621 l 257
- 574 621 l 257
- 574 666 l 257
+ 57 384 l 258
+ 57 265 119 197 223 197 c 256
+ 278 197 329 222 366 259 c 257
+ 366 0 l 257
+ 452 0 l 257
+ 452 621 l 257
+ 601 621 l 257
+ 601 666 l 257
  -13 666 l 257
-425 326 m 257
- 460 420 521 434 558 434 c 256
- 628 434 636 398 660 398 c 256
- 669 398 674 404 674 416 c 256
- 674 455 625 497 565 497 c 256
- 516 497 455 470 425 405 c 257
- 425 326 l 257
+452 326 m 257
+ 487 420 548 434 585 434 c 256
+ 655 434 663 398 687 398 c 256
+ 696 398 701 404 701 416 c 256
+ 701 455 652 497 592 497 c 256
+ 543 497 482 470 452 405 c 257
+ 452 326 l 257
 EndSplineSet
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" phadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: phadeva_viramadeva_ladeva
 Encoding: 65692 -1 305
-Width: 776
+Width: 790
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -70920,70 +71621,126 @@ F1
 F1
 tp150
 s."
-AnchorPoint: "DVAnchor0" 526 -127 basechar 0
-AnchorPoint: "DVAnchor3" 394 665 basechar 0
+HStem: 78 49<245.575 357.76 462.458 568.623> 197 52<182.405 310.919> 463 54<519.421 638.372>
+VStem: 57 86<291.945 384> 148 79<-82.5285 59.6265> 352 75<-49.2647 -2.99292> 589 73<-74.3745 58.4907> 663 83<274.124 438.823>
+AnchorPoint: "DVAnchor0" 557 -127 basechar 0
+AnchorPoint: "DVAnchor3" 409 665 basechar 0
 LayerCount: 2
+Back
+SplineSet
+2 666 m 257
+ 2 621 l 257
+ 72 621 l 257
+ 72 424 l 258
+ 72 305 119 217 233 217 c 256
+ 288 217 329 242 366 279 c 257
+ 366 75 l 257
+ 452 75 l 257
+ 452 621 l 257
+ 803 621 l 257
+ 803 666 l 257
+ 2 666 l 257
+366 621 m 257
+ 366 339 l 257
+ 336 295 295 269 258 269 c 256
+ 176 269 158 343 158 421 c 258
+ 158 621 l 257
+ 366 621 l 257
+441 52 m 257
+ 396 106 352 127 303 127 c 256
+ 204 126 151 76 151 -3 c 256
+ 151 -91 227 -150 256 -170 c 256
+ 259 -172 261 -173 264 -173 c 256
+ 272 -173 287 -157 287 -144 c 256
+ 287 -127 230 -109 230 -3 c 256
+ 230 54 262 78 303 78 c 256
+ 344 78 382 47 406 -2 c 257
+ 441 52 l 257
+592 -3 m 256
+ 592 -67 553 -129 553 -135 c 256
+ 553 -151 570 -156 574 -156 c 256
+ 577 -156 579 -154 580 -153 c 256
+ 642 -96 665 -41 665 5 c 256
+ 665 85 603 127 533 127 c 256
+ 418 127 355 33 355 -26 c 256
+ 355 -43 377 -53 401 -53 c 256
+ 417 -53 430 -53 430 -37 c 256
+ 430 26 466 78 519 78 c 256
+ 553 78 592 58 592 -3 c 256
+663 356 m 256
+ 663 317 650 267 621 208 c 256
+ 620 208 620 204 620 203 c 256
+ 620 188 645 180 645 180 c 257
+ 648 180 651 182 652 183 c 256
+ 695 217 746 286 746 365 c 256
+ 746 459 680 517 602 517 c 256
+ 540 517 484 488 442 425 c 257
+ 452 376 l 257
+ 497 435 542 463 585 463 c 256
+ 636 463 663 426 663 356 c 256
+EndSplineSet
 Fore
 SplineSet
+366 621 m 257
+ 366 319 l 257
+ 336 275 285 249 248 249 c 256
+ 176 249 143 303 143 381 c 258
+ 143 621 l 257
+ 366 621 l 257
 -13 666 m 257
  -13 621 l 257
  57 621 l 257
- 57 424 l 258
- 57 305 104 217 218 217 c 256
- 273 217 314 242 351 279 c 257
- 351 75 l 257
- 437 75 l 257
- 437 621 l 257
- 788 621 l 257
- 788 666 l 257
+ 57 384 l 258
+ 57 265 119 197 223 197 c 256
+ 278 197 329 222 366 259 c 257
+ 366 70 l 257
+ 452 70 l 257
+ 452 621 l 257
+ 803 621 l 257
+ 803 666 l 257
  -13 666 l 257
-351 621 m 257
- 351 339 l 257
- 321 295 280 269 243 269 c 256
- 161 269 143 343 143 421 c 258
- 143 621 l 257
- 351 621 l 257
-426 52 m 257
- 381 106 337 127 288 127 c 256
- 189 126 136 76 136 -3 c 256
- 136 -91 212 -150 241 -170 c 256
- 244 -172 246 -173 249 -173 c 256
- 257 -173 272 -157 272 -144 c 256
- 272 -127 215 -109 215 -3 c 256
- 215 54 247 78 288 78 c 256
- 329 78 367 47 391 -2 c 257
- 426 52 l 257
-577 -3 m 256
- 577 -67 538 -129 538 -135 c 256
- 538 -151 555 -156 559 -156 c 256
- 562 -156 564 -154 565 -153 c 256
- 627 -96 650 -41 650 5 c 256
- 650 85 588 127 518 127 c 256
- 403 127 340 33 340 -26 c 256
- 340 -43 362 -53 386 -53 c 256
- 402 -53 415 -53 415 -37 c 256
- 415 26 451 78 504 78 c 256
- 538 78 577 58 577 -3 c 256
-648 356 m 256
- 648 317 635 267 606 208 c 256
- 605 208 605 204 605 203 c 256
- 605 188 630 180 630 180 c 257
- 633 180 636 182 637 183 c 256
- 680 217 731 286 731 365 c 256
- 731 459 665 517 587 517 c 256
- 525 517 469 488 427 425 c 257
- 437 376 l 257
- 482 435 527 463 570 463 c 256
- 621 463 648 426 648 356 c 256
+438 52 m 257
+ 393 106 349 127 300 127 c 256
+ 201 126 148 76 148 -3 c 256
+ 148 -91 224 -150 253 -170 c 256
+ 256 -172 258 -173 261 -173 c 256
+ 269 -173 284 -157 284 -144 c 256
+ 284 -127 227 -109 227 -3 c 256
+ 227 54 259 78 300 78 c 256
+ 341 78 379 47 403 -2 c 257
+ 438 52 l 257
+589 -3 m 256
+ 589 -67 550 -129 550 -135 c 256
+ 550 -151 567 -156 571 -156 c 256
+ 574 -156 576 -154 577 -153 c 256
+ 639 -96 662 -41 662 5 c 256
+ 662 85 600 127 530 127 c 256
+ 415 127 352 33 352 -26 c 256
+ 352 -43 374 -53 398 -53 c 256
+ 414 -53 427 -53 427 -37 c 256
+ 427 26 463 78 516 78 c 256
+ 550 78 589 58 589 -3 c 256
+663 356 m 256
+ 663 317 650 267 621 208 c 256
+ 620 208 620 204 620 203 c 256
+ 620 188 645 180 645 180 c 257
+ 648 180 651 182 652 183 c 256
+ 695 217 746 286 746 365 c 256
+ 746 459 680 517 602 517 c 256
+ 540 517 484 488 442 425 c 257
+ 452 376 l 257
+ 497 435 542 463 585 463 c 256
+ 636 463 663 426 663 356 c 256
 EndSplineSet
-Validated: 5
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" phadeva_viramadeva ladeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" phadeva viramadeva ladeva.mr
+Colour: ffff
 EndChar
 
 StartChar: phadeva_viramadeva_radeva
 Encoding: 65693 -1 306
-Width: 774
+Width: 790
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -71468,22 +72225,25 @@ F1
 F1
 tp106
 s."
+HStem: 197 52<182.405 310.919> 443 54<519.421 635.276>
+VStem: 57 86<291.945 384> 663 83<231.499 415.05>
 AnchorPoint: "DVAnchor0" 393 15 basechar 0
 AnchorPoint: "DVAnchor3" 393 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-351 256 m 257
- 351 306 l 257
- 45 68 l 258
- 39 64 37 59 37 52 c 256
- 37 27 73 -7 88 -7 c 256
- 93 -7 97 -5 102 0 c 258
- 351 256 l 257
+366 256 m 257
+ 366 306 l 257
+ 60 68 l 258
+ 54 64 52 59 52 52 c 256
+ 52 27 88 -7 103 -7 c 256
+ 108 -7 112 -5 117 0 c 258
+ 366 256 l 257
 EndSplineSet
 Refer: 302 2347 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" phadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: plus
@@ -72965,7 +73725,7 @@ Encoding: 2352 2352 319
 Width: 436
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -73251,7 +74011,7 @@ tp67
 s."
 AnchorPoint: "DVAnchor3" 275 664 basechar 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 393 27 m 256
  281 139 236 202 180 312 c 257
@@ -73271,7 +74031,27 @@ SplineSet
  382 -10 397 7 397 19 c 256
  397 22 397 24 393 27 c 256
 EndSplineSet
-Validated: 9
+Fore
+SplineSet
+396 31 m 260
+ 284 143 236 202 180 312 c 261
+ 288 324 386 395 386 490 c 256
+ 386 549 361 594 330 621 c 257
+ 450 621 l 257
+ 450 666 l 257
+ -13 666 l 257
+ -13 621 l 257
+ 269 621 l 257
+ 289 583 300 537 300 493 c 256
+ 300 427 266 381 200 361 c 257
+ 182 398 160 420 130 420 c 256
+ 87 420 68 389 68 358 c 260
+ 68 264 304 41 369 -7 c 260
+ 371 -9 372 -10 375 -10 c 260
+ 382 -10 400 11 400 23 c 260
+ 400 26 400 28 396 31 c 260
+EndSplineSet
+Colour: ffff
 EndChar
 
 StartChar: radeva_usigndeva
@@ -73279,7 +74059,7 @@ Encoding: 65695 -1 320
 Width: 639
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -73720,8 +74500,9 @@ SplineSet
  332 621 l 257
 EndSplineSet
 Refer: 319 2352 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "PstsSub_Ligature_Ra subtable" radeva usigndeva
+Colour: ffff
 EndChar
 
 StartChar: radeva_uusigndeva
@@ -73729,7 +74510,7 @@ Encoding: 65696 -1 321
 Width: 780
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -73794,8 +74575,9 @@ SplineSet
  331 621 l 257
 EndSplineSet
 Refer: 319 2352 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "PstsSub_Ligature_Ra subtable" radeva uusigndeva
+Colour: ffff
 EndChar
 
 StartChar: radeva_viramadeva
@@ -73803,7 +74585,7 @@ Encoding: 65697 -1 322
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -74010,20 +74792,33 @@ tp50
 s."
 AnchorPoint: "DVAnchor3" -71 664 mark 0
 LayerCount: 2
+Back
+SplineSet
+-200 799 m 260
+ -200 752 -174 705 -129 666 c 261
+ -42 666 l 261
+ -108 700 -148 749 -148 799 c 260
+ -148 861 -95 886 -52 886 c 260
+ 5 886 14 861 33 861 c 260
+ 42 861 46 870 46 886 c 260
+ 46 922 2 945 -42 945 c 260
+ -106 945 -200 908 -200 799 c 260
+EndSplineSet
 Fore
 SplineSet
--200 799 m 256
- -200 752 -174 705 -129 666 c 257
+-210 799 m 256
+ -210 752 -180 699 -129 666 c 261
  -42 666 l 257
- -108 700 -148 749 -148 799 c 256
- -148 861 -95 886 -52 886 c 256
+ -108 700 -148 741 -148 799 c 260
+ -148 861 -104 886 -52 886 c 260
  5 886 14 861 33 861 c 256
  42 861 46 870 46 886 c 256
- 46 922 12 945 -42 945 c 256
- -106 945 -200 908 -200 799 c 256
+ 46 922 8 951 -52 951 c 256
+ -126 951 -210 906 -210 799 c 256
 EndSplineSet
-Validated: 9
+LCarets2: 1 0 
 Ligature2: "RephFormlookup7 subtable" radeva viramadeva
+Colour: ff0000
 EndChar
 
 StartChar: radeva_viramadeva.alt
@@ -74090,7 +74885,7 @@ Encoding: 65699 -1 324
 Width: 0
 VWidth: 0
 GlyphClass: 4
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -74358,25 +75153,35 @@ tp66
 s."
 AnchorPoint: "DVAnchor3" -112 665 mark 0
 LayerCount: 2
-Fore
+Back
 SplineSet
--227 799 m 256
- -227 908 -141 945 -82 945 c 256
- -28 945 6 922 6 886 c 256
- 6 870 2 861 -7 861 c 256
- -26 861 -35 886 -92 886 c 256
- -129 886 -175 861 -175 799 c 256
- -175 749 -140 700 -82 666 c 257
- -169 666 l 257
- -206 705 -227 752 -227 799 c 256
+-227 799 m 260
+ -227 908 -141 945 -82 945 c 260
+ -28 945 6 922 6 886 c 260
+ 6 870 2 861 -7 861 c 260
+ -26 861 -35 886 -92 886 c 260
+ -129 886 -175 861 -175 799 c 260
+ -175 749 -140 700 -82 666 c 261
+ -169 666 l 261
+ -206 705 -227 752 -227 799 c 260
 -120 786 m 256
  -120 766 -92 737 -75 737 c 256
  -56 737 -28 766 -28 786 c 256
  -28 805 -56 835 -75 835 c 256
  -93 835 -120 805 -120 786 c 256
 EndSplineSet
-Validated: 9
+Fore
+SplineSet
+-120 786 m 256
+ -120 766 -92 737 -75 737 c 256
+ -56 737 -28 766 -28 786 c 256
+ -28 805 -56 835 -75 835 c 256
+ -93 835 -120 805 -120 786 c 256
+EndSplineSet
+Refer: 322 -1 N 1 0 0 1 -40 0 2
+LCarets2: 1 0 
 Ligature2: "AboveBaseSubstitutionslookup subtable" radeva_viramadeva anusvaradeva
+Colour: ff0000
 EndChar
 
 StartChar: rhadeva
@@ -74418,13 +75223,14 @@ F0.40000000600000002
 F1
 tp16
 s."
+HStem: 20 46<325.463 411.734> 281 47<347.464 444.528>
+VStem: 53 86<144.286 325.565> 237 77<90.3286 246.216> 467 81<116.17 259.664>
 AnchorPoint: "DVAnchor0" 315 20 basechar 0
 AnchorPoint: "DVAnchor3" 356 664 basechar 0
 LayerCount: 2
 Fore
 Refer: 268 2364 N 1 0 0 1 840 -42 2
 Refer: 86 2338 N 1 0 0 1 0 0 2
-Validated: 9
 Ligature2: "NuktaFormslookup5 subtable" ddhadeva nuktadeva
 EndChar
 
@@ -74433,7 +75239,7 @@ Encoding: 2353 2353 326
 Width: 436
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -74537,8 +75343,9 @@ LayerCount: 2
 Fore
 Refer: 319 2352 N 1 0 0 1 0 0 2
 Refer: 268 2364 N 1 0 0 1 650 94 2
-Validated: 9
+LCarets2: 1 0 
 Ligature2: "NuktaFormslookup5 subtable" radeva nuktadeva
+Colour: ffff
 EndChar
 
 StartChar: rrvocalicdeva
@@ -75473,7 +76280,7 @@ Encoding: 65700 -1 331
 Width: 911
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -76031,16 +76838,17 @@ SplineSet
  736 428 l 257
 EndSplineSet
 Refer: 333 -1 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" sadeva_viramadeva tadeva_viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: sadeva
 Encoding: 2360 2360 332
-Width: 709
+Width: 690
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -76402,46 +77210,49 @@ F1
 F1
 tp86
 s."
-AnchorPoint: "DVAnchor3" 576 665 basechar 0
+HStem: 290 52<157.383 200> 621 45<196 206.212>
+VStem: 226.035 81.9651<407.995 578.424>
+AnchorPoint: "DVAnchor3" 556 665 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-133 342 m 257
- 133 297 163 290 200 290 c 258
- 534 290 l 257
- 534 342 l 257
- 133 342 l 257
-534 -1 m 257
- 620 -1 l 257
- 620 633 l 257
- 534 633 l 257
- 534 -1 l 257
-371 27 m 256
- 251 139 203 202 143 312 c 257
+143 312 m 257
  232 334 308 395 308 489 c 256
  308 549 284 593 251 621 c 257
- 723 621 l 257
- 723 666 l 257
+ 703 621 l 257
+ 703 666 l 257
  -13 666 l 257
  -13 621 l 257
  196 621 l 257
- 236 545 246 409 163 361 c 257
+ 214.083026075 586.642250457 226.0348803 540.022157212 226.0348803 494.813704254 c 0
+ 226.0348803 440.020193449 208.477720893 387.300368709 163 361 c 257
  145 398 123 420 93 420 c 256
  50 420 31 388 31 358 c 256
- 31 263 279 41 347 -7 c 256
- 349 -9 350 -10 353 -10 c 256
- 360 -10 375 7 375 19 c 256
- 375 21 375 23 371 27 c 256
+ 31 264 267 41 332 -7 c 256
+ 334 -9 335 -10 338 -10 c 256
+ 345 -10 363 11 363 23 c 256
+ 363 26 363 28 359 31 c 256
+ 247 143 199 202 143 312 c 257
+133 342 m 257
+ 133 297 163 290 200 290 c 258
+ 514 290 l 257
+ 514 342 l 257
+ 133 342 l 257
+514 -1 m 257
+ 600 -1 l 257
+ 600 633 l 257
+ 514 633 l 257
+ 514 -1 l 257
 EndSplineSet
-Validated: 37
+Colour: ffff
 EndChar
 
 StartChar: sadeva_viramadeva
 Encoding: 65701 -1 333
-Width: 444
+Width: 424
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -76761,34 +77572,36 @@ SplineSet
  251 139 203 202 143 312 c 257
  232 334 308 395 308 489 c 256
  308 549 284 593 251 621 c 257
- 457 621 l 257
- 457 666 l 257
+ 437 621 l 257
+ 437 666 l 257
  -13 666 l 257
  -13 621 l 257
  196 621 l 257
- 236 545 246 409 163 361 c 257
- 145 398 123 420 93 420 c 256
- 50 420 31 388 31 358 c 256
+ 214.083007812 586.642578125 226.03515625 540.022460938 226.03515625 494.813476562 c 0
+ 226.03515625 440.020507812 208.477539062 387.30078125 163 361 c 261
+ 145 398 123 420 93 420 c 260
+ 50 420 31 388 31 358 c 260
  31 263 279 41 347 -7 c 256
  349 -9 350 -10 353 -10 c 256
  360 -10 375 7 375 19 c 256
  375 21 375 23 371 27 c 256
 133 342 m 257
  133 297 163 290 200 290 c 258
- 544 290 l 257
- 544 342 l 257
+ 524 290 l 257
+ 524 342 l 257
  133 342 l 257
 EndSplineSet
-Validated: 37
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" sadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: sadeva_viramadeva_radeva
 Encoding: 65702 -1 334
-Width: 784
+Width: 764
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -77593,43 +78406,44 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-363 157 m 258
- 354 152 351 148 351 132 c 256
- 351 103 373 80 388 80 c 257
- 388 80 394 80 402 85 c 258
- 627 231 l 257
- 650 291 l 257
- 363 157 l 258
-133 342 m 257
- 133 297 163 290 200 290 c 258
- 608 290 l 257
- 608 342 l 257
- 133 342 l 257
-371 27 m 256
- 251 139 203 202 143 312 c 257
+143 312 m 261
  232 334 308 395 308 489 c 256
  308 549 284 593 251 621 c 257
- 798 621 l 257
- 798 666 l 257
+ 778 621 l 257
+ 778 666 l 257
  -13 666 l 257
  -13 621 l 257
  196 621 l 257
  214 587 226 540 226 495 c 256
  226 440 208 387 163 361 c 257
  145 398 123 420 93 420 c 256
- 50 420 31 388 31 358 c 256
- 31 263 279 41 347 -7 c 256
- 349 -9 350 -10 353 -10 c 256
- 360 -10 375 7 375 19 c 256
- 375 21 375 23 371 27 c 256
-608 -1 m 257
- 694 -1 l 257
- 694 633 l 257
- 608 633 l 257
- 608 -1 l 257
+ 50 420 31 388 31 358 c 260
+ 31 264 267 41 332 -7 c 260
+ 334 -9 335 -10 338 -10 c 260
+ 345 -10 363 11 363 23 c 260
+ 363 26 363 28 359 31 c 260
+ 247 143 199 202 143 312 c 261
+373 157 m 258
+ 364 152 361 148 361 132 c 256
+ 361 103 383 80 398 80 c 257
+ 398 80 404 80 412 85 c 258
+ 637 231 l 257
+ 660 291 l 257
+ 373 157 l 258
+133 342 m 257
+ 133 297 163 290 200 290 c 258
+ 588 290 l 257
+ 588 342 l 257
+ 133 342 l 257
+588 -1 m 257
+ 674 -1 l 257
+ 674 633 l 257
+ 588 633 l 257
+ 588 -1 l 257
 EndSplineSet
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" sadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: semicolon
@@ -77976,10 +78790,10 @@ EndChar
 
 StartChar: shadeva
 Encoding: 2358 2358 340
-Width: 676
+Width: 706
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -78419,15 +79233,15 @@ F1
 F1
 tp97
 s."
-AnchorPoint: "DVAnchor3" 546 664 basechar 0
+AnchorPoint: "DVAnchor3" 576 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 182 235 m 257
- 138 278 106 290 77 290 c 256
- 40 290 25 272 25 252 c 256
- 25 223 54 184 135 184 c 256
- 211 184 385 276 385 474 c 256
+ 144 290 109 305 80 305 c 256
+ 43 305 20 282 20 252 c 256
+ 20 213 54 184 135 184 c 256
+ 223 184 385 276 385 474 c 256
  385 536 356 679 206 679 c 256
  129 679 63 630 63 544 c 256
  63 451 150 401 223 401 c 256
@@ -78437,24 +79251,25 @@ SplineSet
  135 610 171 637 208 637 c 256
  273 637 304 561 304 474 c 256
  304 327 253 275 182 235 c 257
-142 196 m 257
- 228 163 321 72 366 16 c 256
- 376 3 381 0 385 0 c 256
- 395 0 415 13 415 26 c 256
- 415 43 316 157 181 229 c 257
- 142 196 l 257
-690 666 m 257
- 377 666 l 257
- 377 621 l 257
- 500 621 l 257
- 500 0 l 257
- 586 0 l 257
- 586 621 l 257
- 690 621 l 257
- 690 666 l 257
+131.373046875 196.881835938 m 257
+ 212.138671875 152.588867188 293.337890625 50.6552734375 329.063476562 -11.6708984375 c 256
+ 337.21875 -25.9013671875 341.76953125 -29.5478515625 345.732421875 -30.0869140625 c 256
+ 346.149414062 -30.1435546875 346.603515625 -30.171875 347.08984375 -30.171875 c 0
+ 357.471679688 -30.171875 384.746565538 -15.7603644155 384.746565538 -2.7593369114 c 0
+ 384.746565538 16.7510013373 302.585051563 140.858566786 180.200195312 229.189453125 c 257
+ 131.373046875 196.881835938 l 257
+720 666 m 257
+ 407 666 l 257
+ 407 621 l 257
+ 530 621 l 257
+ 530 0 l 257
+ 616 0 l 257
+ 616 621 l 257
+ 720 621 l 257
+ 720 666 l 257
 EndSplineSet
-Validated: 5
 Substitution2: "LocalizedMrForms_lookup0 subtable" shadeva.mr
+Colour: ffff
 EndChar
 
 StartChar: shadeva.mr
@@ -80063,7 +80878,7 @@ EndChar
 
 StartChar: ssadeva
 Encoding: 2359 2359 356
-Width: 536
+Width: 551
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -80349,18 +81164,20 @@ F1
 F1
 tp70
 s."
-AnchorPoint: "DVAnchor3" 394 666 basechar 0
+HStem: 197 52<182.405 310.919>
+VStem: 57 86<291.945 384>
+AnchorPoint: "DVAnchor3" 409 666 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-351 273 m 257
- 391 304 l 257
- 160 643 l 257
- 119 612 l 257
- 351 273 l 257
+341 273 m 261
+ 381 304 l 261
+ 150 643 l 261
+ 109 612 l 261
+ 341 273 l 261
 EndSplineSet
 Refer: 293 2346 N 1 0 0 1 0 0 2
-Validated: 5
+Colour: ffff
 EndChar
 
 StartChar: ssadeva_viramadeva
@@ -80639,7 +81456,7 @@ Encoding: 65714 -1 358
 Width: 577
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -80965,15 +81782,16 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-361 273 m 257
- 401 304 l 257
- 160 643 l 257
- 119 612 l 257
- 361 273 l 257
+381 273 m 261
+ 421 304 l 261
+ 190 643 l 261
+ 149 612 l 261
+ 381 273 l 261
 EndSplineSet
 Refer: 296 -1 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "VattuVariantslookup30 subtable" ssadeva viramadeva_radeva
+Colour: ffff
 EndChar
 
 StartChar: ssadeva_viramadeva_ttadeva
@@ -81902,13 +82720,15 @@ F1
 F1
 tp63
 s."
+HStem: 387 52<189.901 316>
+VStem: 53 82<172.391 335.937>
 AnchorPoint: "DVAnchor3" 478 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 135 258 m 256
- 135 361 221 377 316 377 c 258
- 432 377 l 257
+ 135 371 221 387 316 387 c 258
+ 432 387 l 257
  432 0 l 257
  519 0 l 257
  519 621 l 257
@@ -81917,16 +82737,16 @@ SplineSet
  -13 666 l 257
  -13 621 l 257
  432 621 l 257
- 432 429 l 257
- 291 429 l 258
- 126 429 53 358 53 247 c 256
- 53 130 209 28 252 0 c 256
+ 432 439 l 257
+ 291 439 l 258
+ 126 439 53 368 53 247 c 256
+ 53 130 215.716394887 36.2836051131 252 0 c 256
  254 -2 256 -3 258 -3 c 256
  265 -3 281 14 281 26 c 256
- 281 28 280 31 276 34 c 256
+ 281 28 279.76886365 30.7143239978 276 34 c 256
  198 102 135 164 135 258 c 256
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: tadeva_viramadeva
@@ -81934,7 +82754,7 @@ Encoding: 65719 -1 364
 Width: 376
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -82162,20 +82982,21 @@ SplineSet
  390 666 l 257
  390 621 l 257
  -13 621 l 257
-118 278 m 256
- 118 381 204 397 299 397 c 258
- 476 397 l 257
- 476 449 l 257
- 274 449 l 258
- 109 449 36 378 36 267 c 256
+118 278 m 260
+ 118 391 204 407 299 407 c 262
+ 476 407 l 261
+ 476 459 l 261
+ 274 459 l 262
+ 109 459 36 388 36 267 c 260
  36 150 192 48 235 20 c 256
  237 18 239 17 241 17 c 256
  248 17 264 34 264 46 c 256
  264 48 263 51 259 54 c 256
- 181 122 118 184 118 278 c 256
+ 181 122 118 184 118 278 c 260
 EndSplineSet
-Validated: 9
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" tadeva viramadeva
+Colour: ffff
 EndChar
 
 StartChar: tadeva_viramadeva_radeva
@@ -84761,29 +85582,31 @@ F1
 F1
 tp66
 s."
-AnchorPoint: "DVAnchor0" 324 45 basechar 0
+HStem: 35 63<220.539 416.178>
+VStem: 49 86<178.83 343.706>
+AnchorPoint: "DVAnchor0" 324 65 basechar 0
 AnchorPoint: "DVAnchor3" 421 664 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-531 150 m 256
- 531 159 521 165 506 165 c 256
- 496 165 494 164 483 151 c 256
- 444 107 389 78 315 78 c 256
- 208 78 135 144 135 243 c 256
- 135 335 203 429 461 437 c 257
+531 170 m 260
+ 531 179 521 185 506 185 c 260
+ 496 185 494 184 483 171 c 260
+ 444 127 389 98 315 98 c 260
+ 208 98 135 164 135 263 c 260
+ 135 355 203 449 461 457 c 261
  461 621 l 257
  579 621 l 257
  579 666 l 257
  -13 666 l 257
  -13 621 l 257
  375 621 l 257
- 375 477 l 257
- 210 465 49 390 49 244 c 256
- 49 91 181 15 315 15 c 256
- 449 15 531 116 531 150 c 256
+ 375 497 l 261
+ 210 485 49 410 49 264 c 260
+ 49 111 181 35 315 35 c 260
+ 449 35 531 136 531 170 c 260
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: ttadeva_viramadeva
@@ -84791,7 +85614,7 @@ Encoding: 65724 -1 374
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.guides'
 p2
@@ -85161,7 +85984,6 @@ LayerCount: 2
 Fore
 Refer: 403 2381 N 1 0 0 1 453 -30 2
 Refer: 373 2335 N 1 0 0 1 0 0 2
-Validated: 5
 Ligature2: "HalfFormslookup10 subtable" ttadeva viramadeva
 EndChar
 
@@ -86496,47 +87318,50 @@ I1
 I0
 tp16
 s."
+HStem: 20 63<193.123 379.178> 71 48<681.824 862.482> 462 49<390.894 609.862>
+VStem: 37 86<151.261 317.092> 650 85<320.018 426.219>
 AnchorPoint: "DVAnchor0" 934 23 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-891 0 m 257
+891 0 m 257x38
  977 0 l 257
  977 636 l 257
  891 636 l 257
- 891 0 l 257
-384 442 m 257
+ 891 0 l 257x38
+384 462 m 261
  384 621 l 257
  1088 621 l 257
  1088 666 l 257
  -13 666 l 257
  -13 621 l 257
  297 621 l 257
- 297 442 l 257
- 384 442 l 257
-37 214 m 256
- 37 71 157 0 278 0 c 256
- 412 0 494 101 494 135 c 256
- 494 144 484 150 468 150 c 256
- 459 150 457 148 446 136 c 256
- 407 91 352 63 278 63 c 256
- 186 63 123 123 123 213 c 256
- 123 443 471 440 520 440 c 256
- 615 440 650 418 650 371 c 256
+ 297 462 l 261
+ 384 462 l 261
+37 234 m 256
+ 37 91 157 20 278 20 c 256
+ 412 20 494 121 494 155 c 256
+ 494 164 484 170 468 170 c 256
+ 459 170 457 168 446 156 c 256
+ 407 111 352 83 278 83 c 256xb8
+ 186 83 123 143 123 233 c 256
+ 123 460 471 460 520 460 c 256
+ 615 460 650 418 650 371 c 256
  650 326 607 290 537 274 c 257
  537 149 634 71 751 71 c 256
  832 71 890 100 923 123 c 256
  952 143 956 150 956 155 c 256
  956 167 944 182 934 182 c 256
- 924 182 865 119 761 119 c 256
+ 924 182 865 119 761 119 c 256x78
  691 119 631 158 622 252 c 257
  692 272 735 321 735 377 c 256
- 735 450 678 491 520 491 c 256
- 418 491 37 466 37 214 c 256
+ 735 450 678 511 520 511 c 256
+ 418 511 37 486 37 234 c 256
 EndSplineSet
-Validated: 37
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" ttadeva_viramadeva yadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" ttadeva viramadeva yadeva
+Colour: ffff
 EndChar
 
 StartChar: tthadeva
@@ -86578,7 +87403,9 @@ I1
 I0
 tp16
 s."
-AnchorPoint: "DVAnchor0" 329 39 basechar 0
+HStem: 20 52<229.583 428.366> 411 52<235.52 324>
+VStem: 63 85<152.865 331.494> 504 86<142.754 319.218>
+AnchorPoint: "DVAnchor0" 329 59 basechar 0
 AnchorPoint: "DVAnchor3" 367 664 basechar 0
 LayerCount: 2
 Fore
@@ -86587,22 +87414,22 @@ SplineSet
  13 666 l 257
  13 621 l 257
  324 621 l 257
- 324 443 l 257
- 183 443 63 364 63 232 c 256
- 63 96 171 0 336 0 c 256
- 488 0 590 75 590 209 c 256
- 590 307 527 386 410 435 c 257
+ 324 463 l 261
+ 183 463 63 384 63 252 c 260
+ 63 116 171 20 336 20 c 260
+ 488 20 590 95 590 229 c 260
+ 590 327 527 406 410 455 c 261
  410 621 l 257
  655 621 l 257
  655 666 l 257
-380 391 m 257
- 462 351 504 287 504 209 c 256
- 504 107 439 52 327 52 c 256
- 225 52 148 107 148 225 c 256
- 148 335 227 391 342 391 c 258
- 380 391 l 257
+380 411 m 261
+ 462 371 504 307 504 229 c 260
+ 504 127 439 72 327 72 c 260
+ 225 72 148 127 148 245 c 260
+ 148 355 227 411 342 411 c 262
+ 380 411 l 261
 EndSplineSet
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: tthadeva_viraamdeva_tthadeva
@@ -86696,7 +87523,7 @@ Encoding: 65730 -1 381
 Width: 1198
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -86742,23 +87569,23 @@ SplineSet
  -13 666 l 257
  -13 621 l 257
  297 621 l 257
- 297 443 l 257
- 156 443 37 364 37 232 c 256
- 37 96 145 0 310 0 c 256
- 462 0 564 75 564 209 c 256
- 564 307 501 386 384 435 c 257
+ 297 463 l 261
+ 156 463 37 384 37 252 c 260
+ 37 116 145 20 310 20 c 260
+ 462 20 564 95 564 229 c 260
+ 564 327 501 406 384 455 c 261
  384 621 l 257
  1211 621 l 257
  1211 666 l 257
-354 391 m 257
- 436 351 478 287 478 209 c 256
- 478 107 413 52 301 52 c 256
- 199 52 122 107 122 225 c 256
- 122 335 201 391 316 391 c 258
- 354 391 l 257
-377 395 m 257
- 481 442 614 440 643 440 c 256
- 738 440 773 418 773 371 c 256
+354 411 m 261
+ 436 371 478 307 478 229 c 260
+ 478 127 413 72 301 72 c 260
+ 199 72 122 127 122 245 c 260
+ 122 355 201 411 316 411 c 262
+ 354 411 l 261
+377 415 m 261
+ 481 460 614 460 643 460 c 260
+ 738 460 773 418 773 371 c 256
  773 326 730 290 660 274 c 257
  660 149 757 71 874 71 c 256
  955 71 1013 100 1046 123 c 256
@@ -86767,13 +87594,14 @@ SplineSet
  1047 182 988 119 884 119 c 256
  814 119 754 158 745 252 c 257
  815 272 858 321 858 377 c 256
- 858 450 801 491 643 491 c 256
- 589 491 455 484 342 439 c 257
- 377 395 l 257
+ 858 450 801 511 643 511 c 260
+ 589 511 455 504 342 459 c 261
+ 377 415 l 261
 EndSplineSet
-Validated: 37
+LCarets2: 2 0 0 
 Ligature2: "PreBaseSubstitutionslookup1 subtable" tthadeva_viramadeva yadeva
 Ligature2: "LocalizedMrHalfFormslookup1 subtable" tthadeva viramadeva yadeva
+Colour: ffff
 EndChar
 
 StartChar: tthadeva_viramadeva
@@ -86781,7 +87609,7 @@ Encoding: 65731 -1 382
 Width: 642
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -86819,7 +87647,7 @@ LayerCount: 2
 Fore
 Refer: 403 2381 N 1 0 0 1 453 -30 2
 Refer: 379 2336 N 1 0 0 1 0 0 2
-Validated: 5
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" tthadeva viramadeva
 EndChar
 
@@ -87593,12 +88421,14 @@ F0.40000000600000002
 F1
 tp16
 s."
+HStem: 85 63<203.919 358.181> 316 53<443.966 552.771> 365 42<232.399 305.199> 637 40<223.511 339.149>
+VStem: 11.4609 48.5391<321.718 380.352> 127 70<524.887 613.062> 373 84<451.196 606.678> 384 85<175.31 308.961>
 AnchorPoint: "DVAnchor0" 640 711 basechar 0
 LayerCount: 2
 Fore
-Refer: 390 2390 N 1 0 0 1 659 0 2
+Refer: 390 2390 N 1 0 0 1 713 0 2
 Refer: 7 2309 N 1 0 0 1 0 0 2
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: uesigndeva
@@ -88817,12 +89647,14 @@ F0.40000000600000002
 F1
 tp16
 s."
+HStem: 85 63<203.919 358.181> 316 53<443.966 552.771> 365 42<232.399 305.199> 637 40<223.511 339.149>
+VStem: 11.4609 48.5391<321.718 380.352> 127 70<524.887 613.062> 373 84<451.196 606.678> 384 85<175.31 308.961>
 AnchorPoint: "DVAnchor0" 640 711 basechar 0
 LayerCount: 2
 Fore
-Refer: 395 2391 N 1 0 0 1 659 0 2
+Refer: 395 2391 N 1 0 0 1 713 0 2
 Refer: 7 2309 N 1 0 0 1 0 0 2
-Validated: 9
+Colour: ffff
 EndChar
 
 StartChar: uuesigndeva
@@ -93481,7 +94313,7 @@ EndChar
 
 StartChar: zadeva
 Encoding: 2395 2395 413
-Width: 728
+Width: 750
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -93565,21 +94397,22 @@ F0.40000000600000002
 F1
 tp30
 s."
+HStem: 85 63<216.34 355.984> 408 52<346.615 406>
+VStem: 14.4609 48.5391<341.335 400.352> 382 84<174.968 313.827>
 AnchorPoint: "DVAnchor3" 596 664 basechar 0
 LayerCount: 2
 Fore
 Refer: 197 2332 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 601 87 2
-Validated: 5
+Refer: 268 2364 N 1 0 0 1 622 87 2
 Ligature2: "NuktaFormslookup5 subtable" jadeva nuktadeva
 EndChar
 
 StartChar: zadeva_viramadeva
 Encoding: 65741 -1 414
-Width: 501
+Width: 521
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -93894,7 +94727,7 @@ LayerCount: 2
 Fore
 Refer: 268 2364 N 1 0 0 1 597 87 2
 Refer: 198 -1 N 1 0 0 1 0 0 2
-Validated: 9
+LCarets2: 1 0 
 Ligature2: "HalfFormslookup10 subtable" zadeva viramadeva
 EndChar
 
@@ -94173,10 +95006,10 @@ EndChar
 
 StartChar: zhadeva
 Encoding: 2425 2425 420
-Width: 728
+Width: 750
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'com.typemytype.robofont.layerData'
 p2
@@ -94346,10 +95179,10 @@ s."
 LayerCount: 2
 Fore
 Refer: 197 2332 N 1 0 0 1 0 0 2
-Refer: 268 2364 N 1 0 0 1 679 32 2
-Refer: 268 2364 N 1 0 0 1 889 32 2
-Refer: 268 2364 N 1 0 0 1 786 -86 2
-Validated: 5
+Refer: 268 2364 N 1 0 0 1 680 32 2
+Refer: 268 2364 N 1 0 0 1 890 32 2
+Refer: 268 2364 N 1 0 0 1 787 -86 2
+Colour: ffff
 EndChar
 
 StartChar: zhadeva.np
