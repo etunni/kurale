@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooedeva" format="2">
+  <advance width="1044"/>
+  <unicode hex="0974"/>
+  <outline>
+    <component base="oesigndeva" xOffset="1053.0"/>
+    <component base="aadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

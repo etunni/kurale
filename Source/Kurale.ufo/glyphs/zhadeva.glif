@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhadeva" format="2">
+  <advance width="750"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="jadeva"/>
+    <component base="nuktadeva" xOffset="680.0" yOffset="32.0"/>
+    <component base="nuktadeva" xOffset="890.0" yOffset="32.0"/>
+    <component base="nuktadeva" xOffset="787.0" yOffset="-86.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

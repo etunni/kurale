@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oesigndeva" format="2">
+  <unicode hex="093A"/>
+  <anchor x="-143.0" y="666.0" name="_Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="-186.0" y="666.0" type="line"/>
+      <point x="-100.0" y="666.0" type="line"/>
+      <point x="-100.0" y="821.0" type="line"/>
+      <point x="-186.0" y="821.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

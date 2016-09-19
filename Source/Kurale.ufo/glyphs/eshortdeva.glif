@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshortdeva" format="2">
+  <advance width="558"/>
+  <unicode hex="090E"/>
+  <outline>
+    <component base="edeva"/>
+    <component base="eshortsigndeva" xOffset="568.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

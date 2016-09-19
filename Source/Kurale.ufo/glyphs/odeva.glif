@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odeva" format="2">
+  <advance width="1044"/>
+  <unicode hex="0913"/>
+  <anchor x="978.0" y="674.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <component base="aadeva"/>
+    <component base="esigndeva" xOffset="1051.0" yOffset="-1.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

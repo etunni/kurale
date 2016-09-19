@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rradeva" format="2">
+  <advance width="436"/>
+  <unicode hex="0931"/>
+  <anchor x="275.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <component base="radeva"/>
+    <component base="nuktadeva" xOffset="650.0" yOffset="94.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseligature</string>
+    </dict>
+  </lib>
+</glyph>

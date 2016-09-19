@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="osigndeva" format="2">
+  <advance width="266"/>
+  <unicode hex="094B"/>
+  <anchor x="170.0" y="820.0" name="Lohit-Devanagari-DVAnchor2"/>
+  <outline>
+    <component base="aasigndeva"/>
+    <component base="esigndeva" xOffset="269.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

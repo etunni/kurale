@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isigndeva_anusvara.alt1" format="2">
+  <advance width="266"/>
+  <outline>
+    <component base="isigndeva.alt1"/>
+    <component base="nuktadeva" xOffset="1484.0" yOffset="929.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khhadeva" format="2">
+  <advance width="825"/>
+  <unicode hex="0959"/>
+  <anchor x="691.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <component base="khadeva"/>
+    <component base="nuktadeva" xOffset="599.0" yOffset="86.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssadeva_viramadeva_radeva" format="2">
+  <advance width="577"/>
+  <outline>
+    <contour>
+      <point x="381.0" y="273.0" type="line"/>
+      <point x="149.0" y="612.0" type="line"/>
+      <point x="190.0" y="643.0" type="line"/>
+      <point x="421.0" y="304.0" type="line"/>
+    </contour>
+    <component base="padeva_viramadeva_radeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

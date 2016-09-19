@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerowidthjoiner" format="2">
+  <unicode hex="FEFF"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-326.0" type="line"/>
+      <point x="0.0" y="999.0" type="line"/>
+      <point x="226.0" y="999.0" type="line"/>
+      <point x="226.0" y="945.0" type="line"/>
+      <point x="53.0" y="945.0" type="line"/>
+      <point x="53.0" y="-326.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

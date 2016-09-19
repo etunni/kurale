@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravedeva" format="2">
+  <unicode hex="0953"/>
+  <anchor x="-69.0" y="664.0" name="_Lohit-Devanagari-DVAnchor3"/>
+  <anchor x="-143.0" y="664.0" name="_DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="-214.0" y="899.0" type="line"/>
+      <point x="-240.0" y="887.0"/>
+      <point x="-258.0" y="864.0"/>
+      <point x="-258.0" y="834.0" type="curve" smooth="yes"/>
+      <point x="-258.0" y="803.0"/>
+      <point x="-242.0" y="779.0"/>
+      <point x="-200.0" y="758.0" type="curve" smooth="yes"/>
+      <point x="-81.0" y="700.0" type="line"/>
+      <point x="-51.0" y="736.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

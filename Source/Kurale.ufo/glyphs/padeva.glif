@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="padeva" format="2">
+  <advance width="551"/>
+  <unicode hex="092A"/>
+  <anchor x="409.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="366.0" y="621.0" type="line"/>
+      <point x="366.0" y="319.0" type="line"/>
+      <point x="336.0" y="275.0"/>
+      <point x="285.0" y="249.0"/>
+      <point x="248.0" y="249.0" type="curve" smooth="yes"/>
+      <point x="176.0" y="249.0"/>
+      <point x="143.0" y="303.0"/>
+      <point x="143.0" y="381.0" type="curve" smooth="yes"/>
+      <point x="143.0" y="621.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-13.0" y="666.0" type="line"/>
+      <point x="-13.0" y="621.0" type="line"/>
+      <point x="57.0" y="621.0" type="line"/>
+      <point x="57.0" y="384.0" type="line" smooth="yes"/>
+      <point x="57.0" y="265.0"/>
+      <point x="119.0" y="197.0"/>
+      <point x="223.0" y="197.0" type="curve" smooth="yes"/>
+      <point x="278.0" y="197.0"/>
+      <point x="329.0" y="222.0"/>
+      <point x="366.0" y="259.0" type="curve"/>
+      <point x="366.0" y="0.0" type="line"/>
+      <point x="452.0" y="0.0" type="line"/>
+      <point x="452.0" y="621.0" type="line"/>
+      <point x="564.0" y="621.0" type="line"/>
+      <point x="564.0" y="666.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

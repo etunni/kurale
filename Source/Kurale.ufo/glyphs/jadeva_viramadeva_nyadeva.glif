@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jadeva_viramadeva_nyadeva" format="2">
+  <advance width="786"/>
+  <anchor x="652.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="187.0" y="42.0" type="line"/>
+      <point x="288.0" y="-47.0"/>
+      <point x="415.0" y="-82.0"/>
+      <point x="465.0" y="-82.0" type="curve" smooth="yes"/>
+      <point x="479.0" y="-82.0"/>
+      <point x="483.0" y="-68.0"/>
+      <point x="483.0" y="-54.0" type="curve" smooth="yes"/>
+      <point x="483.0" y="-42.0"/>
+      <point x="481.04296875" y="-37.7685546875"/>
+      <point x="461.0" y="-34.0" type="curve" smooth="yes"/>
+      <point x="394.1064453125" y="-21.4208984375"/>
+      <point x="283.0" y="23.0"/>
+      <point x="225.0" y="83.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="627.0" y="519.0" type="line"/>
+      <point x="222.0" y="519.0" type="line" smooth="yes"/>
+      <point x="106.99010467529297" y="519.0"/>
+      <point x="50.0" y="475.0"/>
+      <point x="50.0" y="397.0" type="curve" smooth="yes"/>
+      <point x="50.0" y="334.0"/>
+      <point x="103.0" y="280.0"/>
+      <point x="190.0" y="259.0" type="curve"/>
+      <point x="219.0" y="271.0"/>
+      <point x="253.0" y="278.0"/>
+      <point x="278.0" y="278.0" type="curve" smooth="yes"/>
+      <point x="337.0" y="278.0"/>
+      <point x="373.0" y="250.0"/>
+      <point x="373.0" y="192.0" type="curve" smooth="yes"/>
+      <point x="373.0" y="121.0"/>
+      <point x="312.0" y="83.0"/>
+      <point x="233.0" y="83.0" type="curve"/>
+      <point x="189.0" y="125.0"/>
+      <point x="157.0" y="138.0"/>
+      <point x="128.0" y="138.0" type="curve" smooth="yes"/>
+      <point x="92.0" y="138.0"/>
+      <point x="76.0" y="121.0"/>
+      <point x="76.0" y="100.0" type="curve" smooth="yes"/>
+      <point x="76.0" y="73.0"/>
+      <point x="112.0" y="36.0"/>
+      <point x="207.0" y="36.0" type="curve" smooth="yes"/>
+      <point x="310.0" y="36.0"/>
+      <point x="458.0" y="70.0"/>
+      <point x="458.0" y="189.0" type="curve" smooth="yes"/>
+      <point x="458.0" y="283.0"/>
+      <point x="380.0" y="329.0"/>
+      <point x="297.0" y="329.0" type="curve" smooth="yes"/>
+      <point x="253.0" y="329.0"/>
+      <point x="230.0" y="323.0"/>
+      <point x="194.0" y="311.0" type="curve"/>
+      <point x="156.0" y="324.0"/>
+      <point x="133.0" y="353.0"/>
+      <point x="133.0" y="392.0" type="curve" smooth="yes"/>
+      <point x="133.0" y="443.0"/>
+      <point x="163.0" y="467.0"/>
+      <point x="251.0" y="467.0" type="curve" smooth="yes"/>
+      <point x="627.0" y="467.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="799.0" y="621.0" type="line"/>
+      <point x="799.0" y="666.0" type="line"/>
+      <point x="-13.0" y="666.0" type="line"/>
+      <point x="-13.0" y="621.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="609.0" y="0.0" type="line"/>
+      <point x="696.0" y="0.0" type="line"/>
+      <point x="696.0" y="636.0" type="line"/>
+      <point x="609.0" y="636.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>
