@@ -167,7 +167,7 @@ value = 1095;
 },
 {
 name = typoDescender;
-value = 0;
+value = -383;
 },
 {
 name = typoLineGap;
@@ -179,7 +179,7 @@ value = 1095;
 },
 {
 name = hheaDescender;
-value = 0;
+value = -383;
 },
 {
 name = hheaLineGap;
@@ -191,7 +191,7 @@ value = 1095;
 },
 {
 name = winDescent;
-value = 0;
+value = 383;
 },
 {
 name = underlineThickness;
