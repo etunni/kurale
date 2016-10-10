@@ -26938,7 +26938,7 @@ unicode = 04F4;
 {
 color = 4;
 glyphname = "Gedescender-cy";
-lastChange = "2016-10-10 20:57:52 +0000";
+lastChange = "2016-10-10 20:58:58 +0000";
 layers = (
 {
 components = (
@@ -26951,7 +26951,7 @@ transform = "{1, 0, 0, 1, 94, 0}";
 }
 );
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-width = 471;
+width = 482;
 }
 );
 unicode = 04F6;
@@ -31590,7 +31590,7 @@ unicode = 04B9;
 {
 color = 4;
 glyphname = "shha-cy";
-lastChange = "2016-10-10 20:57:52 +0000";
+lastChange = "2016-10-10 20:58:58 +0000";
 layers = (
 {
 components = (
@@ -31599,7 +31599,7 @@ name = h;
 }
 );
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-width = 564;
+width = 578;
 }
 );
 unicode = 04BB;
@@ -32067,7 +32067,7 @@ unicode = 04F5;
 {
 color = 4;
 glyphname = "gedescender-cy";
-lastChange = "2016-10-10 20:57:52 +0000";
+lastChange = "2016-10-10 20:58:58 +0000";
 layers = (
 {
 components = (
@@ -32080,7 +32080,7 @@ transform = "{1, 0, 0, 1, 92, 0}";
 }
 );
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-width = 409;
+width = 419;
 }
 );
 leftMetricsKey = "en-cy";
@@ -54714,13 +54714,14 @@ org.fontforge.glyphclass = baseglyph;
 },
 {
 glyphname = nbspace;
-lastChange = "2016-10-10 20:57:52 +0000";
+lastChange = "2016-10-10 20:59:15 +0000";
 layers = (
 {
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-width = 249;
+width = 309;
 }
 );
+widthMetricsKey = space;
 unicode = 00A0;
 },
 {
