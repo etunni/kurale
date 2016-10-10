@@ -48963,119 +48963,6 @@ org.fontforge.glyphclass = baseglyph;
 };
 },
 {
-glyphname = "rakar-deva";
-lastChange = "2016-10-10 20:57:52 +0000";
-layers = (
-{
-anchors = (
-{
-name = "_Lohit-Devanagari-DVAnchor3";
-position = "{-140, 648}";
-}
-);
-layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-paths = (
-{
-closed = 1;
-nodes = (
-"-258 780 CURVE SMOOTH",
-"-258 734 OFFCURVE",
-"-229 683 OFFCURVE",
-"-179 650 CURVE",
-"-94 650 LINE",
-"-158 684 OFFCURVE",
-"-197 724 OFFCURVE",
-"-197 780 CURVE SMOOTH",
-"-197 841 OFFCURVE",
-"-154 865 OFFCURVE",
-"-104 865 CURVE SMOOTH",
-"-48 865 OFFCURVE",
-"-39 841 OFFCURVE",
-"-21 841 CURVE SMOOTH",
-"-12 841 OFFCURVE",
-"-8 850 OFFCURVE",
-"-8 865 CURVE SMOOTH",
-"-8 900 OFFCURVE",
-"-45 929 OFFCURVE",
-"-104 929 CURVE SMOOTH",
-"-176 929 OFFCURVE",
-"-258 885 OFFCURVE"
-);
-}
-);
-width = 0;
-}
-);
-userData = {
-org.fontforge.glyphclass = mark;
-};
-},
-{
-glyphname = "rakar_anusvara-deva";
-lastChange = "2016-10-10 20:57:52 +0000";
-layers = (
-{
-anchors = (
-{
-name = "_Lohit-Devanagari-DVAnchor3";
-position = "{-140, 648}";
-}
-);
-layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-paths = (
-{
-closed = 1;
-nodes = (
-"-258 780 CURVE SMOOTH",
-"-258 734 OFFCURVE",
-"-229 683 OFFCURVE",
-"-179 650 CURVE",
-"-94 650 LINE",
-"-158 684 OFFCURVE",
-"-197 724 OFFCURVE",
-"-197 780 CURVE SMOOTH",
-"-197 841 OFFCURVE",
-"-154 865 OFFCURVE",
-"-104 865 CURVE SMOOTH",
-"-48 865 OFFCURVE",
-"-39 841 OFFCURVE",
-"-21 841 CURVE SMOOTH",
-"-12 841 OFFCURVE",
-"-8 850 OFFCURVE",
-"-8 865 CURVE SMOOTH",
-"-8 900 OFFCURVE",
-"-45 929 OFFCURVE",
-"-104 929 CURVE SMOOTH",
-"-176 929 OFFCURVE",
-"-258 885 OFFCURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"-137 768 CURVE SMOOTH",
-"-137 748 OFFCURVE",
-"-109 720 OFFCURVE",
-"-93 720 CURVE SMOOTH",
-"-74 720 OFFCURVE",
-"-47 748 OFFCURVE",
-"-47 768 CURVE SMOOTH",
-"-47 786 OFFCURVE",
-"-74 815 OFFCURVE",
-"-93 815 CURVE SMOOTH",
-"-110 815 OFFCURVE",
-"-137 786 OFFCURVE"
-);
-}
-);
-width = 0;
-}
-);
-userData = {
-org.fontforge.glyphclass = mark;
-};
-},
-{
 glyphname = "l-deva";
 lastChange = "2016-10-10 20:57:52 +0000";
 layers = (
@@ -49713,43 +49600,6 @@ width = 574;
 );
 userData = {
 org.fontforge.glyphclass = baseglyph;
-};
-},
-{
-glyphname = "rakar-deva.alt";
-lastChange = "2016-10-10 20:57:52 +0000";
-layers = (
-{
-layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-paths = (
-{
-closed = 1;
-nodes = (
-"-13 606 LINE",
-"-13 650 LINE",
-"294 650 LINE",
-"294 606 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"15 349 CURVE",
-"15 403 LINE",
-"165 342 OFFCURVE",
-"251 344 OFFCURVE",
-"378 384 CURVE",
-"378 316 LINE",
-"271 282 OFFCURVE",
-"132 278 OFFCURVE"
-);
-}
-);
-width = 280;
-}
-);
-userData = {
-org.fontforge.glyphclass = baseligature;
 };
 },
 {
@@ -54153,48 +54003,6 @@ width = 225;
 leftKerningGroup = kc0_11;
 rightKerningGroup = kc0_11;
 unicode = 2018;
-userData = {
-org.fontforge.glyphclass = baseglyph;
-};
-},
-{
-glyphname = quoteright;
-lastChange = "2016-10-10 20:57:52 +0000";
-layers = (
-{
-layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-paths = (
-{
-closed = 1;
-nodes = (
-"87 822 LINE",
-"91 802 LINE",
-"108 789 LINE SMOOTH",
-"122 779 OFFCURVE",
-"128 771 OFFCURVE",
-"128 757 CURVE SMOOTH",
-"128 746 OFFCURVE",
-"125 734 OFFCURVE",
-"118 720 CURVE SMOOTH",
-"76 638 LINE",
-"104 620 LINE",
-"139 658 LINE SMOOTH",
-"181 704 OFFCURVE",
-"213 742 OFFCURVE",
-"213 779 CURVE SMOOTH",
-"213 824 OFFCURVE",
-"187 839 OFFCURVE",
-"153 839 CURVE SMOOTH",
-"138 839 OFFCURVE",
-"119 835 OFFCURVE",
-"104 829 CURVE SMOOTH"
-);
-}
-);
-width = 307;
-}
-);
-unicode = 2019;
 userData = {
 org.fontforge.glyphclass = baseglyph;
 };
@@ -61992,6 +61800,119 @@ org.fontforge.glyphclass = mark;
 };
 },
 {
+glyphname = "rakar-deva";
+lastChange = "2016-10-10 20:57:52 +0000";
+layers = (
+{
+anchors = (
+{
+name = "_Lohit-Devanagari-DVAnchor3";
+position = "{-140, 648}";
+}
+);
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+paths = (
+{
+closed = 1;
+nodes = (
+"-258 780 CURVE SMOOTH",
+"-258 734 OFFCURVE",
+"-229 683 OFFCURVE",
+"-179 650 CURVE",
+"-94 650 LINE",
+"-158 684 OFFCURVE",
+"-197 724 OFFCURVE",
+"-197 780 CURVE SMOOTH",
+"-197 841 OFFCURVE",
+"-154 865 OFFCURVE",
+"-104 865 CURVE SMOOTH",
+"-48 865 OFFCURVE",
+"-39 841 OFFCURVE",
+"-21 841 CURVE SMOOTH",
+"-12 841 OFFCURVE",
+"-8 850 OFFCURVE",
+"-8 865 CURVE SMOOTH",
+"-8 900 OFFCURVE",
+"-45 929 OFFCURVE",
+"-104 929 CURVE SMOOTH",
+"-176 929 OFFCURVE",
+"-258 885 OFFCURVE"
+);
+}
+);
+width = 0;
+}
+);
+userData = {
+org.fontforge.glyphclass = mark;
+};
+},
+{
+glyphname = "rakar_anusvara-deva";
+lastChange = "2016-10-10 20:57:52 +0000";
+layers = (
+{
+anchors = (
+{
+name = "_Lohit-Devanagari-DVAnchor3";
+position = "{-140, 648}";
+}
+);
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+paths = (
+{
+closed = 1;
+nodes = (
+"-258 780 CURVE SMOOTH",
+"-258 734 OFFCURVE",
+"-229 683 OFFCURVE",
+"-179 650 CURVE",
+"-94 650 LINE",
+"-158 684 OFFCURVE",
+"-197 724 OFFCURVE",
+"-197 780 CURVE SMOOTH",
+"-197 841 OFFCURVE",
+"-154 865 OFFCURVE",
+"-104 865 CURVE SMOOTH",
+"-48 865 OFFCURVE",
+"-39 841 OFFCURVE",
+"-21 841 CURVE SMOOTH",
+"-12 841 OFFCURVE",
+"-8 850 OFFCURVE",
+"-8 865 CURVE SMOOTH",
+"-8 900 OFFCURVE",
+"-45 929 OFFCURVE",
+"-104 929 CURVE SMOOTH",
+"-176 929 OFFCURVE",
+"-258 885 OFFCURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-137 768 CURVE SMOOTH",
+"-137 748 OFFCURVE",
+"-109 720 OFFCURVE",
+"-93 720 CURVE SMOOTH",
+"-74 720 OFFCURVE",
+"-47 748 OFFCURVE",
+"-47 768 CURVE SMOOTH",
+"-47 786 OFFCURVE",
+"-74 815 OFFCURVE",
+"-93 815 CURVE SMOOTH",
+"-110 815 OFFCURVE",
+"-137 786 OFFCURVE"
+);
+}
+);
+width = 0;
+}
+);
+userData = {
+org.fontforge.glyphclass = mark;
+};
+},
+{
 glyphname = "eLongCandra-deva";
 lastChange = "2016-10-10 20:57:52 +0000";
 layers = (
@@ -63621,6 +63542,43 @@ width = 571;
 unicode = A8E0;
 userData = {
 org.fontforge.glyphclass = mark;
+};
+},
+{
+glyphname = "rakar-deva.alt";
+lastChange = "2016-10-10 20:57:52 +0000";
+layers = (
+{
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+paths = (
+{
+closed = 1;
+nodes = (
+"-13 606 LINE",
+"-13 650 LINE",
+"294 650 LINE",
+"294 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"15 349 CURVE",
+"15 403 LINE",
+"165 342 OFFCURVE",
+"251 344 OFFCURVE",
+"378 384 CURVE",
+"378 316 LINE",
+"271 282 OFFCURVE",
+"132 278 OFFCURVE"
+);
+}
+);
+width = 280;
+}
+);
+userData = {
+org.fontforge.glyphclass = baseligature;
 };
 },
 {
@@ -68997,6 +68955,17 @@ nodes = (
 width = 249;
 }
 );
+},
+{
+glyphname = NULL;
+lastChange = "2016-10-10 21:00:17 +0000";
+layers = (
+{
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+width = 600;
+}
+);
+unicode = 0000;
 },
 {
 glyphname = uniF6D1;
