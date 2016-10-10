@@ -25,6 +25,23 @@ value = "http://scripts.sil.org/OFL";
 {
 name = vendorID;
 value = ACEd;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-09-24 07:09:51 +0000";
@@ -68958,14 +68975,25 @@ width = 249;
 },
 {
 glyphname = NULL;
-lastChange = "2016-10-10 21:00:17 +0000";
+lastChange = "2016-10-10 21:00:49 +0000";
 layers = (
 {
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-width = 600;
+width = 0;
 }
 );
 unicode = 0000;
+},
+{
+glyphname = CR;
+lastChange = "2016-10-10 21:00:49 +0000";
+layers = (
+{
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+width = 309;
+}
+);
+unicode = 000D;
 },
 {
 glyphname = uniF6D1;
