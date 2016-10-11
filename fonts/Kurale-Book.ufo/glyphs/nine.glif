@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="2">
+	<advance width="646"/>
+	<unicode hex="0039"/>
+	<outline>
+		<contour>
+			<point x="438" y="-13"/>
+			<point x="521" y="130"/>
+			<point x="521" y="309" type="curve" smooth="yes"/>
+			<point x="521" y="502"/>
+			<point x="454" y="663"/>
+			<point x="291" y="663" type="curve" smooth="yes"/>
+			<point x="144" y="663"/>
+			<point x="70" y="548"/>
+			<point x="70" y="439" type="curve" smooth="yes"/>
+			<point x="70" y="343"/>
+			<point x="130" y="250"/>
+			<point x="247" y="250" type="curve" smooth="yes"/>
+			<point x="331" y="250"/>
+			<point x="394" y="293"/>
+			<point x="424" y="354" type="curve"/>
+			<point x="425" y="339"/>
+			<point x="425" y="322"/>
+			<point x="425" y="306" type="curve" smooth="yes"/>
+			<point x="425" y="175"/>
+			<point x="387" y="39"/>
+			<point x="264" y="39" type="curve" smooth="yes"/>
+			<point x="211" y="39"/>
+			<point x="173" y="70"/>
+			<point x="173" y="119" type="curve" smooth="yes"/>
+			<point x="173" y="156"/>
+			<point x="194" y="177"/>
+			<point x="194" y="186" type="curve" smooth="yes"/>
+			<point x="194" y="191"/>
+			<point x="188" y="196"/>
+			<point x="175" y="196" type="curve" smooth="yes"/>
+			<point x="123" y="196"/>
+			<point x="84" y="164"/>
+			<point x="84" y="114" type="curve" smooth="yes"/>
+			<point x="84" y="39"/>
+			<point x="160" y="-13"/>
+			<point x="265" y="-13" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="215" y="314"/>
+			<point x="179" y="388"/>
+			<point x="179" y="459" type="curve" smooth="yes"/>
+			<point x="179" y="531"/>
+			<point x="217" y="604"/>
+			<point x="298" y="604" type="curve" smooth="yes"/>
+			<point x="373" y="604"/>
+			<point x="411" y="530"/>
+			<point x="411" y="458" type="curve" smooth="yes"/>
+			<point x="411" y="388"/>
+			<point x="371" y="314"/>
+			<point x="289" y="314" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

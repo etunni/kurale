@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ethbar" format="2">
+	<advance width="391"/>
+	<outline>
+		<contour>
+			<point x="360" y="302" type="line"/>
+			<point x="376" y="314"/>
+			<point x="381" y="339"/>
+			<point x="381" y="357" type="curve"/>
+			<point x="30" y="357" type="line"/>
+			<point x="14" y="346"/>
+			<point x="10" y="320"/>
+			<point x="10" y="302" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+		</dict>
+	</lib>
+</glyph>

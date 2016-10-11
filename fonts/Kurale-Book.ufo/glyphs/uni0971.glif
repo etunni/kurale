@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0971" format="2">
+	<advance width="176"/>
+	<unicode hex="0971"/>
+	<outline>
+		<component base="uni093C" xOffset="601" yOffset="674"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AE" format="2">
+	<advance width="539"/>
+	<unicode hex="20AE"/>
+	<outline>
+		<contour>
+			<point x="410" y="240" type="line"/>
+			<point x="427" y="253"/>
+			<point x="432" y="281"/>
+			<point x="432" y="301" type="curve"/>
+			<point x="128" y="223" type="line"/>
+			<point x="111" y="211"/>
+			<point x="107" y="182"/>
+			<point x="107" y="162" type="curve"/>
+		</contour>
+		<contour>
+			<point x="410" y="387" type="line"/>
+			<point x="427" y="399"/>
+			<point x="432" y="428"/>
+			<point x="432" y="447" type="curve"/>
+			<point x="128" y="369" type="line"/>
+			<point x="111" y="357"/>
+			<point x="107" y="329"/>
+			<point x="107" y="309" type="curve"/>
+		</contour>
+		<component base="T"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>background</key>
+				<dict>
+					<key>anchors</key>
+					<array>
+					</array>
+					<key>components</key>
+					<array>
+						<dict>
+							<key>baseGlyph</key>
+							<string>T</string>
+							<key>transformation</key>
+							<array>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+							</array>
+						</dict>
+					</array>
+					<key>contours</key>
+					<array>
+					</array>
+					<key>lib</key>
+					<dict>
+					</dict>
+					<key>name</key>
+					<string>uni20AE</string>
+					<key>unicodes</key>
+					<array>
+					</array>
+					<key>width</key>
+					<integer>539</integer>
+				</dict>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

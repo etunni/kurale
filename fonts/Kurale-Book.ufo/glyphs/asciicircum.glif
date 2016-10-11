@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+	<advance width="621"/>
+	<unicode hex="005E"/>
+	<outline>
+		<contour>
+			<point x="161" y="360" type="line"/>
+			<point x="279" y="591" type="line"/>
+			<point x="401" y="360" type="line"/>
+			<point x="475" y="360" type="line"/>
+			<point x="320" y="650" type="line"/>
+			<point x="241" y="650" type="line"/>
+			<point x="87" y="360" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

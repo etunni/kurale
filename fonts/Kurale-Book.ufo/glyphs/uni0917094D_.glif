@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0917094D" format="2">
+	<advance width="285"/>
+	<outline>
+		<contour>
+			<point x="197" y="263" type="line"/>
+			<point x="197" y="606" type="line"/>
+			<point x="298" y="606" type="line"/>
+			<point x="298" y="650" type="line"/>
+			<point x="-13" y="650" type="line"/>
+			<point x="-13" y="606" type="line"/>
+			<point x="113" y="606" type="line"/>
+			<point x="113" y="263" type="line"/>
+		</contour>
+		<contour>
+			<point x="153" y="171"/>
+			<point x="197" y="206"/>
+			<point x="197" y="263" type="curve" smooth="yes"/>
+			<point x="197" y="314"/>
+			<point x="162" y="341"/>
+			<point x="113" y="341" type="curve"/>
+			<point x="113" y="312"/>
+			<point x="104" y="296"/>
+			<point x="80" y="296" type="curve" smooth="yes"/>
+			<point x="65" y="296"/>
+			<point x="57" y="308"/>
+			<point x="37" y="308" type="curve" smooth="yes"/>
+			<point x="18" y="308"/>
+			<point x="8" y="286"/>
+			<point x="8" y="263" type="curve" smooth="yes"/>
+			<point x="8" y="206"/>
+			<point x="51" y="171"/>
+			<point x="103" y="171" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

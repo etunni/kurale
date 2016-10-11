@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928" format="2">
+	<advance width="563"/>
+	<unicode hex="0928"/>
+	<outline>
+		<contour>
+			<point x="475" y="0" type="line"/>
+			<point x="475" y="606" type="line"/>
+			<point x="575" y="606" type="line"/>
+			<point x="575" y="650" type="line"/>
+			<point x="-13" y="650" type="line"/>
+			<point x="-13" y="606" type="line"/>
+			<point x="390" y="606" type="line"/>
+			<point x="390" y="400" type="line"/>
+			<point x="136" y="400" type="line"/>
+			<point x="126" y="349" type="line"/>
+			<point x="390" y="349" type="line"/>
+			<point x="390" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="159" y="211"/>
+			<point x="181" y="221"/>
+			<point x="181" y="240" type="curve" smooth="yes"/>
+			<point x="181" y="260"/>
+			<point x="169" y="279"/>
+			<point x="169" y="304" type="curve" smooth="yes"/>
+			<point x="169" y="330"/>
+			<point x="184" y="349"/>
+			<point x="232" y="349" type="curve"/>
+			<point x="232" y="381"/>
+			<point x="188" y="400"/>
+			<point x="136" y="400" type="curve" smooth="yes"/>
+			<point x="69" y="400"/>
+			<point x="34" y="356"/>
+			<point x="34" y="306" type="curve" smooth="yes"/>
+			<point x="34" y="254"/>
+			<point x="69" y="211"/>
+			<point x="136" y="211" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="Lohit-Devanagari-DVAnchor3" x="435" y="648"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

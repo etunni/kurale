@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0474" format="2">
+	<advance width="690"/>
+	<unicode hex="0474"/>
+	<outline>
+		<contour>
+			<point x="365" y="0" type="line"/>
+			<point x="494" y="470" type="line" smooth="yes"/>
+			<point x="519" y="560"/>
+			<point x="539" y="589"/>
+			<point x="568" y="589" type="curve" smooth="yes"/>
+			<point x="596" y="589"/>
+			<point x="600" y="574"/>
+			<point x="603" y="551" type="curve" smooth="yes"/>
+			<point x="605" y="528"/>
+			<point x="610" y="519"/>
+			<point x="626" y="519" type="curve" smooth="yes"/>
+			<point x="660" y="519"/>
+			<point x="681" y="548"/>
+			<point x="681" y="575" type="curve" smooth="yes"/>
+			<point x="681" y="628"/>
+			<point x="646" y="654"/>
+			<point x="587" y="654" type="curve" smooth="yes"/>
+			<point x="521" y="654"/>
+			<point x="469" y="618"/>
+			<point x="435" y="491" type="curve" smooth="yes"/>
+			<point x="311" y="33" type="line"/>
+			<point x="340" y="34" type="line"/>
+			<point x="180" y="530" type="line" smooth="yes"/>
+			<point x="174" y="549"/>
+			<point x="169" y="563"/>
+			<point x="169" y="574" type="curve" smooth="yes"/>
+			<point x="169" y="596"/>
+			<point x="182" y="608"/>
+			<point x="211" y="614" type="curve"/>
+			<point x="230" y="619" type="line"/>
+			<point x="221" y="650" type="line"/>
+			<point x="16" y="650" type="line"/>
+			<point x="4" y="636" type="line"/>
+			<point x="43" y="606"/>
+			<point x="65" y="585"/>
+			<point x="86" y="525" type="curve" smooth="yes"/>
+			<point x="263" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>V</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>background</key>
+				<dict>
+					<key>anchors</key>
+					<array>
+					</array>
+					<key>components</key>
+					<array>
+						<dict>
+							<key>baseGlyph</key>
+							<string>V</string>
+							<key>transformation</key>
+							<array>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+							</array>
+						</dict>
+					</array>
+					<key>contours</key>
+					<array>
+					</array>
+					<key>lib</key>
+					<dict>
+					</dict>
+					<key>name</key>
+					<string>uni0474</string>
+					<key>unicodes</key>
+					<array>
+					</array>
+					<key>width</key>
+					<integer>690</integer>
+				</dict>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

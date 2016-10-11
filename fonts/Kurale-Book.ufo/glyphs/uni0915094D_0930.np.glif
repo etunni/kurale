@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0915094D0930.np" format="2">
+	<advance width="753"/>
+	<outline>
+		<contour>
+			<point x="431" y="0" type="line"/>
+			<point x="431" y="606" type="line"/>
+			<point x="766" y="606" type="line"/>
+			<point x="766" y="650" type="line"/>
+			<point x="-13" y="650" type="line"/>
+			<point x="-13" y="606" type="line"/>
+			<point x="347" y="606" type="line"/>
+			<point x="347" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="132" y="85"/>
+			<point x="136" y="85"/>
+			<point x="139" y="88" type="curve"/>
+			<point x="139" y="88"/>
+			<point x="396" y="323"/>
+			<point x="396" y="324" type="curve" smooth="yes"/>
+			<point x="400" y="328"/>
+			<point x="406" y="333"/>
+			<point x="412" y="339" type="curve"/>
+			<point x="412" y="382" type="line"/>
+			<point x="104" y="160" type="line"/>
+			<point x="95" y="155"/>
+			<point x="92" y="151"/>
+			<point x="92" y="136" type="curve" smooth="yes"/>
+			<point x="92" y="107"/>
+			<point x="113" y="85"/>
+			<point x="129" y="85" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="347" y="364" type="line"/>
+			<point x="271" y="456"/>
+			<point x="211" y="476"/>
+			<point x="154" y="476" type="curve" smooth="yes"/>
+			<point x="61" y="476"/>
+			<point x="11" y="432"/>
+			<point x="11" y="377" type="curve" smooth="yes"/>
+			<point x="11" y="331"/>
+			<point x="39" y="305"/>
+			<point x="74" y="305" type="curve" smooth="yes"/>
+			<point x="82" y="305"/>
+			<point x="87" y="307"/>
+			<point x="87" y="312" type="curve" smooth="yes"/>
+			<point x="87" y="319"/>
+			<point x="79" y="324"/>
+			<point x="79" y="356" type="curve" smooth="yes"/>
+			<point x="79" y="397"/>
+			<point x="106" y="430"/>
+			<point x="160" y="430" type="curve" smooth="yes"/>
+			<point x="221" y="430"/>
+			<point x="271" y="399"/>
+			<point x="347" y="289" type="curve"/>
+		</contour>
+		<contour>
+			<point x="596" y="103"/>
+			<point x="599" y="104"/>
+			<point x="600" y="105" type="curve"/>
+			<point x="652" y="146"/>
+			<point x="714" y="229"/>
+			<point x="714" y="322" type="curve" smooth="yes"/>
+			<point x="714" y="423"/>
+			<point x="649" y="485"/>
+			<point x="573" y="485" type="curve" smooth="yes"/>
+			<point x="513" y="485"/>
+			<point x="458" y="457"/>
+			<point x="417" y="396" type="curve"/>
+			<point x="427" y="348" type="line"/>
+			<point x="471" y="405"/>
+			<point x="515" y="433"/>
+			<point x="557" y="433" type="curve" smooth="yes"/>
+			<point x="606" y="433"/>
+			<point x="633" y="392"/>
+			<point x="633" y="313" type="curve" smooth="yes"/>
+			<point x="633" y="265"/>
+			<point x="613" y="203"/>
+			<point x="569" y="130" type="curve"/>
+			<point x="568" y="130"/>
+			<point x="568" y="126"/>
+			<point x="568" y="125" type="curve" smooth="yes"/>
+			<point x="568" y="110"/>
+			<point x="588" y="103"/>
+			<point x="593" y="103" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="Lohit-Devanagari-DVAnchor0" x="388" y="22"/>
+	<anchor name="Lohit-Devanagari-DVAnchor3" x="387" y="648"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

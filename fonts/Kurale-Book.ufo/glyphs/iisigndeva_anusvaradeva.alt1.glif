@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iisigndeva_anusvaradeva.alt1" format="2">
+	<advance width="261"/>
+	<outline>
+		<component base="iisigndeva.alt1"/>
+		<component base="uni093C" xOffset="692" yOffset="907"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>mark</string>
+		</dict>
+	</lib>
+</glyph>

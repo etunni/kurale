@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0959" format="2">
+	<advance width="806"/>
+	<unicode hex="0959"/>
+	<outline>
+		<component base="uni0916"/>
+		<component base="uni093C" xOffset="585" yOffset="84"/>
+	</outline>
+	<anchor name="Lohit-Devanagari-DVAnchor3" x="675" y="648"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

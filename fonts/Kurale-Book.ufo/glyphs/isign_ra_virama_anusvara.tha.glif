@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isign_ra_virama_anusvara.tha" format="2">
+	<advance width="260"/>
+	<outline>
+		<component base="uni093C" xOffset="1358" yOffset="809" xScale="0.9" yScale="0.9"/>
+		<component base="isign_ra_virama.tha"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>mark</string>
+		</dict>
+	</lib>
+</glyph>

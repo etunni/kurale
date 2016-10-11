@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0937094D0930" format="2">
+	<advance width="563"/>
+	<outline>
+		<contour>
+			<point x="411" y="297" type="line"/>
+			<point x="186" y="628" type="line"/>
+			<point x="146" y="598" type="line"/>
+			<point x="372" y="267" type="line"/>
+		</contour>
+		<component base="uni092A094D0930"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

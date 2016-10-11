@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sa_virama_ta_virama_radeva" format="2">
+	<advance width="890"/>
+	<outline>
+		<contour>
+			<point x="802" y="0" type="line"/>
+			<point x="802" y="606" type="line"/>
+			<point x="902" y="606" type="line"/>
+			<point x="902" y="650" type="line"/>
+			<point x="287" y="650" type="line"/>
+			<point x="287" y="606" type="line"/>
+			<point x="718" y="606" type="line"/>
+			<point x="718" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="500" y="80"/>
+			<point x="503" y="81"/>
+			<point x="507" y="83" type="curve"/>
+			<point x="758" y="302" type="line"/>
+			<point x="780" y="360" type="line"/>
+			<point x="472" y="156" type="line" smooth="yes"/>
+			<point x="463" y="150"/>
+			<point x="459" y="146"/>
+			<point x="459" y="132" type="curve" smooth="yes"/>
+			<point x="459" y="103"/>
+			<point x="481" y="80"/>
+			<point x="496" y="80" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="758" y="418" type="line"/>
+			<point x="696" y="521"/>
+			<point x="632" y="545"/>
+			<point x="570" y="545" type="curve" smooth="yes"/>
+			<point x="477" y="545"/>
+			<point x="428" y="501"/>
+			<point x="428" y="445" type="curve" smooth="yes"/>
+			<point x="428" y="400"/>
+			<point x="455" y="374"/>
+			<point x="491" y="374" type="curve" smooth="yes"/>
+			<point x="499" y="374"/>
+			<point x="503" y="375"/>
+			<point x="503" y="381" type="curve" smooth="yes"/>
+			<point x="503" y="388"/>
+			<point x="495" y="393"/>
+			<point x="495" y="425" type="curve" smooth="yes"/>
+			<point x="495" y="466"/>
+			<point x="522" y="499"/>
+			<point x="576" y="499" type="curve" smooth="yes"/>
+			<point x="642" y="499"/>
+			<point x="696" y="460"/>
+			<point x="758" y="313" type="curve"/>
+		</contour>
+		<component base="uni0938094D"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

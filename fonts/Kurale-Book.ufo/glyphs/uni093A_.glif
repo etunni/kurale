@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093A" format="2">
+	<advance width="0"/>
+	<unicode hex="093A"/>
+	<outline>
+		<contour>
+			<point x="-98" y="650" type="line"/>
+			<point x="-98" y="802" type="line"/>
+			<point x="-182" y="802" type="line"/>
+			<point x="-182" y="650" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_Lohit-Devanagari-DVAnchor3" x="-140" y="650"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>mark</string>
+		</dict>
+	</lib>
+</glyph>

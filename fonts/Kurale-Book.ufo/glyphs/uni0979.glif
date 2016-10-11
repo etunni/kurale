@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0979" format="2">
+	<advance width="732"/>
+	<unicode hex="0979"/>
+	<outline>
+		<component base="uni091C"/>
+		<component base="uni093C" xOffset="664" yOffset="31"/>
+		<component base="uni093C" xOffset="869" yOffset="31"/>
+		<component base="uni093C" xOffset="769" yOffset="-84"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>

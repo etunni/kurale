@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iisigndeva.alt1" format="2">
+	<advance width="261"/>
+	<outline>
+		<contour>
+			<point x="173" y="0" type="line"/>
+			<point x="173" y="606" type="line"/>
+			<point x="274" y="606" type="line"/>
+			<point x="274" y="650" type="line"/>
+			<point x="173" y="650" type="line"/>
+			<point x="112" y="829"/>
+			<point x="-42" y="913"/>
+			<point x="-214" y="913" type="curve" smooth="yes"/>
+			<point x="-334" y="913"/>
+			<point x="-433" y="845"/>
+			<point x="-433" y="761" type="curve" smooth="yes"/>
+			<point x="-433" y="710"/>
+			<point x="-416" y="668"/>
+			<point x="-388" y="644" type="curve"/>
+			<point x="-307" y="644" type="line"/>
+			<point x="-340" y="671"/>
+			<point x="-358" y="714"/>
+			<point x="-358" y="761" type="curve" smooth="yes"/>
+			<point x="-358" y="823"/>
+			<point x="-295" y="874"/>
+			<point x="-214" y="874" type="curve" smooth="yes"/>
+			<point x="-77" y="874"/>
+			<point x="43" y="803"/>
+			<point x="88" y="650" type="curve"/>
+			<point x="-12" y="650" type="line"/>
+			<point x="-12" y="606" type="line"/>
+			<point x="88" y="606" type="line"/>
+			<point x="88" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-11 00:35:43 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>mark</string>
+		</dict>
+	</lib>
+</glyph>

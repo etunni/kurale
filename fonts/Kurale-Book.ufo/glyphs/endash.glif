@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+	<advance width="779"/>
+	<unicode hex="2013"/>
+	<outline>
+		<contour>
+			<point x="637" y="237" type="line"/>
+			<point x="655" y="252"/>
+			<point x="662" y="279"/>
+			<point x="662" y="302" type="curve"/>
+			<point x="69" y="292" type="line"/>
+			<point x="52" y="277"/>
+			<point x="46" y="250"/>
+			<point x="46" y="229" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-10-10 20:57:52 +0000</string>
+			<key>org.fontforge.glyphclass</key>
+			<string>baseglyph</string>
+		</dict>
+	</lib>
+</glyph>
