@@ -22,16 +22,8 @@ code = "k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-d
 name = DevaHalfforms;
 }
 );
-copyright = "Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar)";
+copyright = "Copyright 2013 The Kurale Project Authors";
 customParameters = (
-{
-name = openTypeNameLicense;
-value = "OFL 1.1";
-},
-{
-name = openTypeNameLicenseURL;
-value = "http://scripts.sil.org/OFL";
-},
 {
 name = vendorID;
 value = ACEd;
@@ -192,7 +184,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1095;
+value = 1108;
 },
 {
 name = winDescent;
@@ -51220,6 +51212,54 @@ width = 351;
 unicode = 00B3;
 },
 {
+glyphname = foursuperior;
+lastChange = "2016-10-13 20:26:11 +0000";
+layers = (
+{
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+paths = (
+{
+closed = 1;
+nodes = (
+"315 255 LINE",
+"326 270 LINE",
+"316 283 LINE",
+"302 298 OFFCURVE",
+"297 314 OFFCURVE",
+"294 341 CURVE",
+"326 341 LINE",
+"340 353 OFFCURVE",
+"344 372 OFFCURVE",
+"344 387 CURVE",
+"294 387 LINE",
+"294 523 LINE",
+"220 515 LINE",
+"208 502 LINE",
+"221 484 OFFCURVE",
+"221 475 OFFCURVE",
+"221 453 CURVE SMOOTH",
+"221 387 LINE",
+"107 387 LINE",
+"220 636 LINE",
+"203 650 LINE",
+"159 650 LINE",
+"30 341 LINE",
+"221 341 LINE",
+"221 332 LINE SMOOTH",
+"221 303 OFFCURVE",
+"216 296 OFFCURVE",
+"195 291 CURVE SMOOTH",
+"163 283 LINE",
+"175 255 LINE"
+);
+}
+);
+width = 374;
+}
+);
+unicode = 2074;
+},
+{
 glyphname = fraction;
 lastChange = "2016-10-10 20:57:52 +0000";
 layers = (
@@ -53652,6 +53692,22 @@ org.fontforge.glyphclass = baseglyph;
 };
 },
 {
+glyphname = softhyphen;
+lastChange = "2016-10-13 20:25:23 +0000";
+layers = (
+{
+components = (
+{
+name = hyphen;
+}
+);
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+width = 600;
+}
+);
+unicode = 00AD;
+},
+{
 glyphname = guillemetleft;
 lastChange = "2016-10-11 00:35:43 +0000";
 layers = (
@@ -54617,23 +54673,10 @@ unicode = 00A0;
 },
 {
 glyphname = zerowidthjoiner;
-lastChange = "2016-10-11 00:35:43 +0000";
+lastChange = "2016-10-13 20:24:48 +0000";
 layers = (
 {
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-paths = (
-{
-closed = 1;
-nodes = (
-"52 -318 LINE",
-"52 923 LINE",
-"221 923 LINE",
-"221 976 LINE",
-"0 976 LINE",
-"0 -318 LINE"
-);
-}
-);
 width = 0;
 }
 );
@@ -54644,21 +54687,10 @@ org.fontforge.glyphclass = baseglyph;
 },
 {
 glyphname = zerowidthnonjoiner;
-lastChange = "2016-10-11 00:35:43 +0000";
+lastChange = "2016-10-13 20:24:39 +0000";
 layers = (
 {
 layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
-paths = (
-{
-closed = 1;
-nodes = (
-"52 -318 LINE",
-"52 976 LINE",
-"0 976 LINE",
-"0 -318 LINE"
-);
-}
-);
 width = 0;
 }
 );
@@ -56088,6 +56120,22 @@ width = 566;
 }
 );
 unicode = 00A5;
+},
+{
+glyphname = divisionslash;
+lastChange = "2016-10-13 20:25:30 +0000";
+layers = (
+{
+components = (
+{
+name = slash;
+}
+);
+layerId = "25D154CF-C470-4D68-A10D-6356F2BE0292";
+width = 371;
+}
+);
+unicode = 2215;
 },
 {
 glyphname = plus;
@@ -68982,7 +69030,7 @@ instances = (
 instanceInterpolations = {
 "25D154CF-C470-4D68-A10D-6356F2BE0292" = 1;
 };
-name = Book;
+name = Regular;
 weightClass = Normal;
 }
 );
