@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="isign_ra_virama_anusvara" format="2">
+  <advance width="266"/>
+  <outline>
+    <component base="nuktadeva" xScale="0.9" yScale="0.9" xOffset="1114.0" yOffset="828.0"/>
+    <component base="isign_ra_virama"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

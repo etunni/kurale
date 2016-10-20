@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yadeva_viramadeva" format="2">
+  <advance width="413"/>
+  <outline>
+    <contour>
+      <point x="268.0" y="137.0" type="curve" smooth="yes"/>
+      <point x="446.0" y="137.0"/>
+      <point x="540.0" y="310.0"/>
+      <point x="540.0" y="328.0" type="curve" smooth="yes"/>
+      <point x="540.0" y="338.0"/>
+      <point x="528.0" y="351.0"/>
+      <point x="512.0" y="351.0" type="curve" smooth="yes"/>
+      <point x="496.0" y="351.0"/>
+      <point x="444.0" y="191.0"/>
+      <point x="281.0" y="191.0" type="curve" smooth="yes"/>
+      <point x="205.0" y="191.0"/>
+      <point x="131.0" y="234.0"/>
+      <point x="119.0" y="336.0" type="curve"/>
+      <point x="206.0" y="357.0"/>
+      <point x="269.0" y="411.0"/>
+      <point x="269.0" y="490.0" type="curve" smooth="yes"/>
+      <point x="269.0" y="550.0"/>
+      <point x="225.0" y="593.0"/>
+      <point x="174.0" y="621.0" type="curve"/>
+      <point x="426.0" y="621.0" type="line"/>
+      <point x="426.0" y="666.0" type="line"/>
+      <point x="-13.0" y="666.0" type="line"/>
+      <point x="-13.0" y="621.0" type="line"/>
+      <point x="109.0" y="621.0" type="line"/>
+      <point x="160.0" y="585.0"/>
+      <point x="182.0" y="538.0"/>
+      <point x="182.0" y="493.0" type="curve" smooth="yes"/>
+      <point x="182.0" y="432.0"/>
+      <point x="144.0" y="377.0"/>
+      <point x="34.0" y="363.0" type="curve"/>
+      <point x="34.0" y="224.0"/>
+      <point x="140.0" y="137.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yadeva_viramadeva_radeva" format="2">
+  <advance width="596"/>
+  <outline>
+    <contour>
+      <point x="420.0" y="195.0" type="line"/>
+      <point x="420.0" y="230.0" type="line"/>
+      <point x="93.0" y="74.0" type="line" smooth="yes"/>
+      <point x="87.0" y="71.0"/>
+      <point x="85.0" y="65.0"/>
+      <point x="85.0" y="58.0" type="curve" smooth="yes"/>
+      <point x="85.0" y="33.0"/>
+      <point x="107.0" y="-12.0"/>
+      <point x="122.0" y="-12.0" type="curve" smooth="yes"/>
+      <point x="125.0" y="-12.0"/>
+      <point x="128.0" y="-12.0"/>
+      <point x="133.0" y="-8.0" type="curve"/>
+    </contour>
+    <component base="yadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

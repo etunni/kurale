@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="highspacingdotdeva" format="2">
+  <advance width="180"/>
+  <unicode hex="0971"/>
+  <outline>
+    <component base="nuktadeva" xOffset="615.0" yOffset="690.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="awdeva" format="2">
+  <advance width="1044"/>
+  <unicode hex="0975"/>
+  <outline>
+    <contour>
+      <point x="635.0" y="850.0" type="curve" smooth="yes"/>
+      <point x="635.0" y="884.0"/>
+      <point x="656.0" y="899.0"/>
+      <point x="656.0" y="911.0" type="curve" smooth="yes"/>
+      <point x="656.0" y="919.0"/>
+      <point x="650.0" y="922.0"/>
+      <point x="638.0" y="922.0" type="curve" smooth="yes"/>
+      <point x="597.0" y="922.0"/>
+      <point x="555.0" y="890.0"/>
+      <point x="555.0" y="838.0" type="curve" smooth="yes"/>
+      <point x="555.0" y="679.0"/>
+      <point x="870.0" y="795.0"/>
+      <point x="870.0" y="666.0" type="curve"/>
+      <point x="905.0" y="666.0" type="line"/>
+      <point x="905.0" y="835.0"/>
+      <point x="635.0" y="724.0"/>
+    </contour>
+    <contour>
+      <point x="753.0" y="908.0" type="curve" smooth="yes"/>
+      <point x="753.0" y="947.0"/>
+      <point x="774.0" y="968.0"/>
+      <point x="774.0" y="978.0" type="curve" smooth="yes"/>
+      <point x="774.0" y="986.0"/>
+      <point x="768.0" y="989.0"/>
+      <point x="756.0" y="989.0" type="curve" smooth="yes"/>
+      <point x="715.0" y="989.0"/>
+      <point x="673.0" y="957.0"/>
+      <point x="673.0" y="905.0" type="curve" smooth="yes"/>
+      <point x="673.0" y="752.0"/>
+      <point x="915.0" y="862.0"/>
+      <point x="915.0" y="666.0" type="curve"/>
+      <point x="950.0" y="666.0" type="line"/>
+      <point x="950.0" y="897.0"/>
+      <point x="753.0" y="794.0"/>
+    </contour>
+    <component base="aadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

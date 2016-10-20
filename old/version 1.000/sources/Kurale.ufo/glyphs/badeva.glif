@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="badeva" format="2">
+  <advance width="601"/>
+  <unicode hex="092C"/>
+  <anchor x="462.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="327.6239929199219" y="209.19581604003906" type="curve"/>
+      <point x="170.05392456054688" y="438.6247863769531" type="line"/>
+      <point x="185.75534057617188" y="449.7022705078125"/>
+      <point x="204.347900390625" y="455.0"/>
+      <point x="224.0" y="455.0" type="curve" smooth="yes"/>
+      <point x="265.0" y="455.0"/>
+      <point x="286.0" y="428.0"/>
+      <point x="286.0" y="394.0" type="curve" smooth="yes"/>
+      <point x="286.0" y="374.0"/>
+      <point x="282.0" y="371.0"/>
+      <point x="282.0" y="367.0" type="curve" smooth="yes"/>
+      <point x="282.0" y="361.0"/>
+      <point x="287.0" y="359.0"/>
+      <point x="296.0" y="359.0" type="curve" smooth="yes"/>
+      <point x="331.0" y="359.0"/>
+      <point x="358.0" y="377.0"/>
+      <point x="358.0" y="409.0" type="curve" smooth="yes"/>
+      <point x="358.0" y="459.0"/>
+      <point x="313.0" y="497.0"/>
+      <point x="231.0" y="497.0" type="curve" smooth="yes"/>
+      <point x="108.0" y="497.0"/>
+      <point x="37.0" y="422.0"/>
+      <point x="37.0" y="325.0" type="curve" smooth="yes"/>
+      <point x="37.0" y="211.0"/>
+      <point x="124.0" y="139.0"/>
+      <point x="230.0" y="139.0" type="curve" smooth="yes"/>
+      <point x="297.0" y="139.0"/>
+      <point x="357.0" y="162.0"/>
+      <point x="417.0" y="208.0" type="curve"/>
+      <point x="417.0" y="0.0" type="line"/>
+      <point x="503.0" y="0.0" type="line"/>
+      <point x="503.0" y="621.0" type="line"/>
+      <point x="614.0" y="621.0" type="line"/>
+      <point x="614.0" y="666.0" type="line"/>
+      <point x="-13.0" y="666.0" type="line"/>
+      <point x="-13.0" y="621.0" type="line"/>
+      <point x="417.0" y="621.0" type="line"/>
+      <point x="417.0" y="267.0" type="line"/>
+      <point x="391.9450378417969" y="242.47811889648438"/>
+      <point x="360.63812255859375" y="222.5030975341797"/>
+    </contour>
+    <contour>
+      <point x="276.43670654296875" y="194.32936096191406" type="line"/>
+      <point x="264.13494873046875" y="192.14456176757812"/>
+      <point x="251.9148712158203" y="191.0"/>
+      <point x="240.0" y="191.0" type="curve" smooth="yes"/>
+      <point x="176.0" y="191.0"/>
+      <point x="124.0" y="230.0"/>
+      <point x="124.0" y="325.0" type="curve" smooth="yes"/>
+      <point x="124.0" y="353.8135070800781"/>
+      <point x="128.71482849121094" y="377.5022277832031"/>
+      <point x="136.8975372314453" y="396.394287109375" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

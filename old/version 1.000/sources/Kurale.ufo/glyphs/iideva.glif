@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iideva" format="2">
+  <advance width="503"/>
+  <unicode hex="0908"/>
+  <anchor x="430.0" y="562.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <component base="radeva_viramadeva" xOffset="495.0"/>
+    <component base="ideva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

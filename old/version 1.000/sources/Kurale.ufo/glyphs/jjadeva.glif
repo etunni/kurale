@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jjadeva" format="2">
+  <advance width="750"/>
+  <unicode hex="097C"/>
+  <anchor x="620.0" y="666.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="21.0" y="-60.0" type="line"/>
+      <point x="21.0" y="0.0" type="line"/>
+      <point x="660.0" y="0.0" type="line"/>
+      <point x="660.0" y="-60.0" type="line"/>
+    </contour>
+    <component base="jadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

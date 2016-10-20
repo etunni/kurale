@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eshortsigndeva" format="2">
+  <unicode hex="0946"/>
+  <anchor x="-70.0" y="880.0" name="Lohit-Devanagari-DVAnchor2"/>
+  <anchor x="-143.0" y="665.0" name="_Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="-371.0" y="915.0" type="curve" smooth="yes"/>
+      <point x="-371.0" y="949.0"/>
+      <point x="-350.0" y="968.0"/>
+      <point x="-350.0" y="976.0" type="curve" smooth="yes"/>
+      <point x="-350.0" y="984.0"/>
+      <point x="-356.0" y="987.0"/>
+      <point x="-368.0" y="987.0" type="curve" smooth="yes"/>
+      <point x="-409.0" y="987.0"/>
+      <point x="-451.0" y="955.0"/>
+      <point x="-451.0" y="903.0" type="curve" smooth="yes"/>
+      <point x="-451.0" y="732.0"/>
+      <point x="-206.0" y="845.0"/>
+      <point x="-176.0" y="666.0" type="curve"/>
+      <point x="-110.0" y="666.0" type="line"/>
+      <point x="-140.0" y="885.0"/>
+      <point x="-371.0" y="789.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

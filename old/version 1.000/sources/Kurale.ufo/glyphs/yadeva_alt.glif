@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yadeva_alt" format="2">
+  <advance width="625"/>
+  <outline>
+    <contour>
+      <point x="450.0" y="0.0" type="line"/>
+      <point x="450.0" y="633.0" type="line"/>
+      <point x="536.0" y="633.0" type="line"/>
+      <point x="536.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="639.0" y="622.0" type="line"/>
+      <point x="-99.0" y="622.0" type="line"/>
+      <point x="-99.0" y="666.0" type="line"/>
+      <point x="639.0" y="666.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-63.0" y="439.0" type="curve" smooth="yes"/>
+      <point x="-70.0" y="439.0"/>
+      <point x="-73.0" y="455.0"/>
+      <point x="-73.0" y="466.0" type="curve" smooth="yes"/>
+      <point x="-73.0" y="476.0"/>
+      <point x="-70.0" y="492.0"/>
+      <point x="-63.0" y="492.0" type="curve" smooth="yes"/>
+      <point x="5.661938667297363" y="492.0"/>
+      <point x="104.96825408935547" y="518.6254272460938"/>
+      <point x="186.95538330078125" y="518.6254272460938" type="curve" smooth="yes"/>
+      <point x="256.0" y="518.6254272460938"/>
+      <point x="333.0" y="487.0"/>
+      <point x="333.0" y="394.0" type="curve" smooth="yes"/>
+      <point x="333.0" y="315.0"/>
+      <point x="249.0" y="266.0"/>
+      <point x="161.0" y="266.0" type="curve"/>
+      <point x="161.0" y="177.1864471435547"/>
+      <point x="226.0" y="135.0"/>
+      <point x="298.0" y="135.0" type="curve" smooth="yes"/>
+      <point x="404.0" y="135.0"/>
+      <point x="458.0" y="217.0"/>
+      <point x="468.0" y="217.0" type="curve" smooth="yes"/>
+      <point x="478.0" y="217.0"/>
+      <point x="490.0" y="202.0"/>
+      <point x="490.0" y="190.0" type="curve" smooth="yes"/>
+      <point x="490.0" y="179.0"/>
+      <point x="405.0" y="88.0"/>
+      <point x="288.0" y="88.0" type="curve" smooth="yes"/>
+      <point x="168.0" y="88.0"/>
+      <point x="76.0" y="179.53465270996094"/>
+      <point x="76.0" y="303.0" type="curve"/>
+      <point x="195.0" y="303.0"/>
+      <point x="246.0" y="329.0"/>
+      <point x="246.0" y="390.0" type="curve" smooth="yes"/>
+      <point x="246.0" y="447.876708984375"/>
+      <point x="205.0" y="463.9315490722656"/>
+      <point x="160.01170349121094" y="463.9315490722656" type="curve" smooth="yes"/>
+      <point x="96.82262420654297" y="463.9315490722656"/>
+      <point x="9.678082466125488" y="439.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

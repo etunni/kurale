@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yaheavydeva" format="2">
+  <advance width="596"/>
+  <unicode hex="097A"/>
+  <anchor x="463.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <anchor x="462.0" y="23.0" name="Lohit-Devanagari-DVAnchor0"/>
+  <outline>
+    <contour>
+      <point x="443.0" y="227.0" type="line"/>
+      <point x="478.0" y="263.0" type="line"/>
+      <point x="234.0" y="521.0" type="line"/>
+      <point x="198.0" y="485.0" type="line"/>
+    </contour>
+    <component base="yadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

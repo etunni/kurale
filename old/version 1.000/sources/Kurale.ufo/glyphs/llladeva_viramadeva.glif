@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llladeva_viramadeva" format="2">
+  <advance width="657"/>
+  <outline>
+    <component base="lladeva_viramadeva"/>
+    <component base="nuktadeva" xOffset="891.0" yOffset="-7.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

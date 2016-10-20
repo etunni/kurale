@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva" format="2">
+  <advance width="436"/>
+  <unicode hex="0930"/>
+  <anchor x="275.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="396.0" y="31.0" type="curve"/>
+      <point x="284.0" y="143.0"/>
+      <point x="236.0" y="202.0"/>
+      <point x="180.0" y="312.0" type="curve"/>
+      <point x="288.0" y="324.0"/>
+      <point x="386.0" y="395.0"/>
+      <point x="386.0" y="490.0" type="curve" smooth="yes"/>
+      <point x="386.0" y="549.0"/>
+      <point x="361.0" y="594.0"/>
+      <point x="330.0" y="621.0" type="curve"/>
+      <point x="450.0" y="621.0" type="line"/>
+      <point x="450.0" y="666.0" type="line"/>
+      <point x="-13.0" y="666.0" type="line"/>
+      <point x="-13.0" y="621.0" type="line"/>
+      <point x="269.0" y="621.0" type="line"/>
+      <point x="289.0" y="583.0"/>
+      <point x="300.0" y="537.0"/>
+      <point x="300.0" y="493.0" type="curve" smooth="yes"/>
+      <point x="300.0" y="427.0"/>
+      <point x="270.0" y="385.0"/>
+      <point x="207.0" y="363.0" type="curve"/>
+      <point x="187.0" y="404.0"/>
+      <point x="163.0" y="428.0"/>
+      <point x="130.0" y="428.0" type="curve" smooth="yes"/>
+      <point x="83.0" y="428.0"/>
+      <point x="61.0" y="394.0"/>
+      <point x="61.0" y="360.0" type="curve" smooth="yes"/>
+      <point x="61.0" y="257.0"/>
+      <point x="304.0" y="41.0"/>
+      <point x="369.0" y="-7.0" type="curve"/>
+      <point x="371.0" y="-9.0"/>
+      <point x="372.0" y="-10.0"/>
+      <point x="375.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="382.0" y="-10.0"/>
+      <point x="400.0" y="11.0"/>
+      <point x="400.0" y="23.0" type="curve" smooth="yes"/>
+      <point x="400.0" y="26.0"/>
+      <point x="400.0" y="28.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

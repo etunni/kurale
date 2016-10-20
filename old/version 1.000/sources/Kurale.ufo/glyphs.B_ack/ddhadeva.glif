@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddhadeva" format="2">
+  <advance width="592"/>
+  <outline>
+    <contour>
+      <point x="315.0" y="20.0" type="curve" smooth="yes"/>
+      <point x="458.0" y="20.0"/>
+      <point x="548.0" y="89.0"/>
+      <point x="548.0" y="188.0" type="curve" smooth="yes"/>
+      <point x="548.0" y="261.0"/>
+      <point x="499.0" y="328.0"/>
+      <point x="394.0" y="328.0" type="curve" smooth="yes"/>
+      <point x="289.0" y="328.0"/>
+      <point x="237.0" y="257.0"/>
+      <point x="237.0" y="182.0" type="curve" smooth="yes"/>
+      <point x="237.0" y="139.0"/>
+      <point x="249.0" y="102.0"/>
+      <point x="273.0" y="67.0" type="curve"/>
+      <point x="202.0" y="79.0"/>
+      <point x="139.0" y="134.0"/>
+      <point x="139.0" y="233.0" type="curve" smooth="yes"/>
+      <point x="139.0" y="330.0"/>
+      <point x="194.0" y="431.0"/>
+      <point x="400.0" y="439.0" type="curve"/>
+      <point x="400.0" y="621.0" type="line"/>
+      <point x="605.0" y="621.0" type="line"/>
+      <point x="605.0" y="666.0" type="line"/>
+      <point x="-13.0" y="666.0" type="line"/>
+      <point x="-13.0" y="621.0" type="line"/>
+      <point x="313.0" y="621.0" type="line"/>
+      <point x="313.0" y="479.0" type="line"/>
+      <point x="182.0" y="467.0"/>
+      <point x="53.0" y="389.0"/>
+      <point x="53.0" y="234.0" type="curve" smooth="yes"/>
+      <point x="53.0" y="91.0"/>
+      <point x="184.0" y="20.0"/>
+    </contour>
+    <contour>
+      <point x="333.0" y="66.0" type="curve"/>
+      <point x="320.0" y="99.0"/>
+      <point x="314.0" y="129.0"/>
+      <point x="314.0" y="167.0" type="curve" smooth="yes"/>
+      <point x="314.0" y="237.0"/>
+      <point x="351.0" y="281.0"/>
+      <point x="400.0" y="281.0" type="curve" smooth="yes"/>
+      <point x="439.0" y="281.0"/>
+      <point x="467.0" y="246.0"/>
+      <point x="467.0" y="189.0" type="curve" smooth="yes"/>
+      <point x="467.0" y="116.0"/>
+      <point x="415.0" y="68.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

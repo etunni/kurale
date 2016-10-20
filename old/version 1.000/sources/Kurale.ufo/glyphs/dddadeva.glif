@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dddadeva" format="2">
+  <advance width="631"/>
+  <unicode hex="097E"/>
+  <anchor x="491.0" y="664.0" name="Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-45.0" type="line"/>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="632.0" y="0.0" type="line"/>
+      <point x="632.0" y="-45.0" type="line"/>
+    </contour>
+    <component base="ddadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

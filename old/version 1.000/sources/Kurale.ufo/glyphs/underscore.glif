@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="364"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="329.0" y="-79.0" type="line"/>
+      <point x="348.0" y="-64.0"/>
+      <point x="353.0" y="-35.0"/>
+      <point x="353.0" y="-13.0" type="curve"/>
+      <point x="0.0" y="-13.0" type="line"/>
+      <point x="-17.0" y="-28.0"/>
+      <point x="-24.0" y="-56.0"/>
+      <point x="-24.0" y="-79.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

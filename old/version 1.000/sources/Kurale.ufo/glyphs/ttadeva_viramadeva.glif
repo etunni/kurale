@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ttadeva_viramadeva" format="2">
+  <advance width="566"/>
+  <outline>
+    <component base="viramadeva" xOffset="452.0" yOffset="-30.0"/>
+    <component base="ttadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

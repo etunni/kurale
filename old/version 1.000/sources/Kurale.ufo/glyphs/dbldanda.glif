@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbldanda" format="2">
+  <advance width="569"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="393.0" y="0.0" type="line"/>
+      <point x="393.0" y="666.0" type="line"/>
+      <point x="479.0" y="666.0" type="line"/>
+      <point x="479.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="180.0" y="0.0" type="line"/>
+      <point x="180.0" y="666.0" type="line"/>
+      <point x="266.0" y="666.0" type="line"/>
+      <point x="266.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

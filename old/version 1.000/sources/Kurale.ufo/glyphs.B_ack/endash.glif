@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="798"/>
+  <outline>
+    <contour>
+      <point x="652.0" y="243.0" type="line"/>
+      <point x="671.0" y="258.0"/>
+      <point x="678.0" y="286.0"/>
+      <point x="678.0" y="309.0" type="curve"/>
+      <point x="71.0" y="299.0" type="line"/>
+      <point x="53.0" y="284.0"/>
+      <point x="47.0" y="256.0"/>
+      <point x="47.0" y="234.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

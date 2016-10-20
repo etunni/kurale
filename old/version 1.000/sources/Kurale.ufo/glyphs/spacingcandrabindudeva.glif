@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="spacingcandrabindudeva" format="2">
+  <advance width="571"/>
+  <unicode hex="A8F2"/>
+  <outline>
+    <contour>
+      <point x="236.0" y="644.0" type="curve" smooth="yes"/>
+      <point x="236.0" y="622.0"/>
+      <point x="267.0" y="590.0"/>
+      <point x="286.0" y="590.0" type="curve" smooth="yes"/>
+      <point x="307.0" y="590.0"/>
+      <point x="338.0" y="622.0"/>
+      <point x="338.0" y="644.0" type="curve" smooth="yes"/>
+      <point x="338.0" y="665.0"/>
+      <point x="307.0" y="698.0"/>
+      <point x="286.0" y="698.0" type="curve" smooth="yes"/>
+      <point x="266.0" y="698.0"/>
+      <point x="236.0" y="665.0"/>
+    </contour>
+    <contour>
+      <point x="286.0" y="506.0" type="curve" smooth="yes"/>
+      <point x="228.0" y="506.0"/>
+      <point x="186.0" y="546.0"/>
+      <point x="181.0" y="609.0" type="curve" smooth="yes"/>
+      <point x="177.0" y="655.0"/>
+      <point x="168.0" y="661.0"/>
+      <point x="156.0" y="661.0" type="curve" smooth="yes"/>
+      <point x="133.0" y="661.0"/>
+      <point x="105.0" y="636.0"/>
+      <point x="105.0" y="592.0" type="curve" smooth="yes"/>
+      <point x="105.0" y="517.0"/>
+      <point x="183.0" y="465.0"/>
+      <point x="286.0" y="465.0" type="curve" smooth="yes"/>
+      <point x="388.0" y="465.0"/>
+      <point x="466.0" y="517.0"/>
+      <point x="466.0" y="592.0" type="curve" smooth="yes"/>
+      <point x="466.0" y="636.0"/>
+      <point x="438.0" y="661.0"/>
+      <point x="415.0" y="661.0" type="curve" smooth="yes"/>
+      <point x="403.0" y="661.0"/>
+      <point x="394.0" y="655.0"/>
+      <point x="390.0" y="609.0" type="curve" smooth="yes"/>
+      <point x="385.0" y="546.0"/>
+      <point x="342.0" y="506.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

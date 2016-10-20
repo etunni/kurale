@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecandradeva" format="2">
+  <advance width="558"/>
+  <unicode hex="090D"/>
+  <outline>
+    <component base="ecandrasigndeva" xOffset="430.0"/>
+    <component base="edeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>

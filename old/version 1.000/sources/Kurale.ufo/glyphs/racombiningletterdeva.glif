@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racombiningletterdeva" format="2">
+  <unicode hex="A8EF"/>
+  <anchor x="-137.0" y="681.0" name="_Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="-55.5" y="708.0" type="curve" smooth="yes"/>
+      <point x="-55.5" y="709.7041015625"/>
+      <point x="-55.8603515625" y="712.51953125"/>
+      <point x="-58.701171875" y="714.650390625" type="curve"/>
+      <point x="-112.6845703125" y="768.634765625"/>
+      <point x="-137.4453125" y="799.2138671875"/>
+      <point x="-163.6064453125" y="849.6591796875" type="curve"/>
+      <point x="-109.326171875" y="857.8740234375"/>
+      <point x="-62.5" y="893.1005859375"/>
+      <point x="-62.5" y="941.5" type="curve" smooth="yes"/>
+      <point x="-62.5" y="968.123046875"/>
+      <point x="-72.4365234375" y="989.064453125"/>
+      <point x="-85.40625" y="1003.5" type="curve"/>
+      <point x="-30.5" y="1003.5" type="line"/>
+      <point x="-30.5" y="1033.0" type="line"/>
+      <point x="-269.0" y="1033.0" type="line"/>
+      <point x="-269.0" y="1003.5" type="line"/>
+      <point x="-126.6318359375" y="1003.5" type="line"/>
+      <point x="-117.05078125" y="984.1787109375"/>
+      <point x="-112.5" y="963.806640625"/>
+      <point x="-112.5" y="943.0" type="curve" smooth="yes"/>
+      <point x="-112.5" y="912.0654296875"/>
+      <point x="-125.6484375" y="893.4033203125"/>
+      <point x="-153.7685546875" y="882.3544921875" type="curve"/>
+      <point x="-164.0732421875" y="902.1171875"/>
+      <point x="-176.3759765625" y="914.0"/>
+      <point x="-194.0" y="914.0" type="curve" smooth="yes"/>
+      <point x="-219.62890625" y="914.0"/>
+      <point x="-232.0" y="895.0166015625"/>
+      <point x="-232.0" y="876.5" type="curve" smooth="yes"/>
+      <point x="-232.0" y="821.8896484375"/>
+      <point x="-109.0224609375" y="714.142578125"/>
+      <point x="-76.5791015625" y="690.1845703125" type="curve"/>
+      <point x="-76.3349609375" y="689.9404296875"/>
+      <point x="-73.998046875" y="688.0"/>
+      <point x="-71.5" y="688.0" type="curve" smooth="yes"/>
+      <point x="-64.6767578125" y="688.0"/>
+      <point x="-55.5" y="700.3310546875"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

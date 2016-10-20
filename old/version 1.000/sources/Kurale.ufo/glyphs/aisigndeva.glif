@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aisigndeva" format="2">
+  <unicode hex="0948"/>
+  <anchor x="-120.0" y="820.0" name="Lohit-Devanagari-DVAnchor2"/>
+  <anchor x="-143.0" y="664.0" name="_Lohit-Devanagari-DVAnchor3"/>
+  <outline>
+    <contour>
+      <point x="-330.0" y="904.0" type="curve" smooth="yes"/>
+      <point x="-236.29197692871094" y="904.0"/>
+      <point x="-167.9045867919922" y="816.2218017578125"/>
+      <point x="-153.5278778076172" y="698.0455932617188" type="curve"/>
+      <point x="-217.33120727539062" y="812.6189575195312"/>
+      <point x="-287.9346618652344" y="838.0"/>
+      <point x="-356.0" y="838.0" type="curve" smooth="yes"/>
+      <point x="-428.0" y="838.0"/>
+      <point x="-456.0" y="790.0"/>
+      <point x="-456.0" y="763.0" type="curve" smooth="yes"/>
+      <point x="-456.0" y="755.0"/>
+      <point x="-453.0" y="748.0"/>
+      <point x="-443.0" y="748.0" type="curve" smooth="yes"/>
+      <point x="-426.0" y="748.0"/>
+      <point x="-406.0" y="767.0"/>
+      <point x="-361.0" y="767.0" type="curve" smooth="yes"/>
+      <point x="-281.0" y="767.0"/>
+      <point x="-224.0" y="720.0"/>
+      <point x="-182.0" y="666.0" type="curve"/>
+      <point x="-151.0" y="666.0" type="line"/>
+      <point x="-137.0" y="666.0" type="line"/>
+      <point x="-107.0" y="666.0" type="line"/>
+      <point x="-125.0" y="914.0"/>
+      <point x="-219.0" y="975.0"/>
+      <point x="-325.0" y="975.0" type="curve" smooth="yes"/>
+      <point x="-397.0" y="975.0"/>
+      <point x="-425.0" y="927.0"/>
+      <point x="-425.0" y="900.0" type="curve" smooth="yes"/>
+      <point x="-425.0" y="892.0"/>
+      <point x="-422.0" y="885.0"/>
+      <point x="-412.0" y="885.0" type="curve" smooth="yes"/>
+      <point x="-395.0" y="885.0"/>
+      <point x="-375.0" y="904.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="247.0" y="666.0" type="line"/>
+      <point x="89.0" y="369.0" type="line"/>
+      <point x="165.0" y="369.0" type="line"/>
+      <point x="286.0" y="605.0" type="line"/>
+      <point x="411.0" y="369.0" type="line"/>
+      <point x="486.0" y="369.0" type="line"/>
+      <point x="328.0" y="666.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>baseglyph</string>
+    </dict>
+  </lib>
+</glyph>
