@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -22,7 +22,7 @@ code = "k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-d
 name = DevaHalfforms;
 }
 );
-copyright = "Copyright 2013 The Kurale Project Authors";
+copyright = "Copyright 2013 The Kurale Project Authors (edu@tipo.net.ar)";
 customParameters = (
 {
 name = vendorID;
